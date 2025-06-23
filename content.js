@@ -236,7 +236,7 @@
     };
 
     const CONFIG = {
-      LANG: 'ko-KR',
+      LANG: 'ko-KP',
       PAGE_MAP: {
         'gist.github.com': 'gist',
         'www.githubstatus.com': 'status',
@@ -531,7 +531,7 @@
       watchUpdate();
     }
 
-    // 페이지 lang 강제 설정 (ko-KR)
+    // 페이지 lang 강제 설정 (ko-KP)
     document.documentElement.lang = CONFIG.LANG;
     new MutationObserver(() => {
       if (document.documentElement.lang === "en") {
