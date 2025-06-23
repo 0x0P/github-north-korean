@@ -242,224 +242,221 @@ I18N.conf = {
     // ^pre$ --> 避免勿过滤
 };
 
-I18N["ko-KR"] = {};
+I18N["ko-KP"] = {};
 
-I18N["ko-KR"]["title"] = { // 标题翻译
-    "static": { // 静态翻译
-        "Sign in to GitHub · GitHub": "GitHub 로그인 · GitHub",
-        "Join GitHub · GitHub": "GitHub 계정 만들기 · GitHub",
-        "Forgot your password? · GitHub": "비밀번호를 까먹으셨나요? · GitHub",
-        "Forgot your password?": "비밀번호를 까먹으셨나요?",
-        "GitHub · Where software is built": "GitHub · 소프트웨어가 만들어지는 곳",
-        "Create a New Repository": "저장소 만들기",
-        "Import a Repository": "저장소 불러오기",
-        "New Project": "새로운 프로젝트",
-        "Your Repositories": "내 저장소",
-        "Your Projects": "내 프로젝트",
-        "Your Packages": "내 패키지",
-        "Your Stars": "내 별표",
-        "Your profile": "내 프로필",
-        "Your Achievements": "내 업적",
-        "Your Followers": "내 팔로워",
-        "Who You’re Following": "팔로우하고 있는 사람",
-        "Account settings": "계정 설정",
-        "Appearance": "모양",
+I18N["ko-KP"]["title"] = { // 제목번역
+    "static": { // 정적번역
+        "Sign in to GitHub · GitHub": "GitHub 등록 · GitHub",
+        "Join GitHub · GitHub": "GitHub 가입 · GitHub", 
+        "Forgot your password? · GitHub": "암호를 잊으셨습니까? · GitHub",
+        "Forgot your password?": "암호를 잊으셨습니까?",
+        "GitHub · Where software is built": "GitHub · 소프트웨어가 창조되는 곳",
+        "Create a New Repository": "새 저장고 창조",
+        "Import a Repository": "저장고 도입",
+        "New Project": "새 사업",
+        "Your Repositories": "당신의 저장고들",
+        "Your Projects": "당신의 사업들",
+        "Your Packages": "당신의 꾸러미들",
+        "Your Stars": "당신의 별표들",
+        "Your profile": "당신의 개인자료",
+        "Your Achievements": "당신의 성취들",
+        "Your Followers": "당신을 따르는 사람들",
+        "Who You're Following": "당신이 따르는 사람들",
+        "Account settings": "계정설정",
+        "Appearance": "외관",
         "Accessibility": "접근성",
-        "Notification settings": "알림",
-        "Billing": "구매",
-        "Email settings": "이메일 설정",
-        "Account security": "보안",
-        "SSH and GPG keys": "SSH 및 GPG 키",
-        "Organizations": "조직",
-        "Blocked users": "차단한 사람",
-        "Temporary interaction limits": "상호 작용 제한",
-        "Code review limits": "코드 검토 제한",
-        "Repositorys": "저장소",
-        "Deleted Packages": "삭제된 패키지",
-        "Pages": "페이지",
-        "Saved replies": "빠른 답장",
+        "Notification settings": "통지설정",
+        "Billing": "료금계산",
+        "Email settings": "전자우편설정",
+        "Account security": "계정보안",
+        "SSH and GPG keys": "SSH 및 GPG 열쇠들",
+        "Organizations": "조직들",
+        "Blocked users": "차단된 사용자들",
+        "Temporary interaction limits": "림시 호상작용 제한",
+        "Code review limits": "코드검토 제한",
+        "Repositorys": "저장고들",
+        "Deleted Packages": "삭제된 꾸러미들",
+        "Pages": "페지들",
+        "Saved replies": "보관된 답장들",
         "Security & analysis": "보안 및 분석",
-        "Installed GitHub Apps": "설치된 GitHub 앱",
-        "Issue search results": "이슈 검색 결과",
-        "Scheduled reminders": "예약된 알림",
-        "Security log": "보안 로그",
-        "Sponsorship Log": "스폰서십 로그",
-        "GitHub Apps": "GitHub 앱",
-        "Developer applications": "개발자 앱",
-        "Personal Access Tokens": "개인용 엑세스 토큰",
-        "Register new GitHub App": "새 GitHub 앱 등록",
-        "New OAuth Application": "OAuth 앱 만들기",
-        "Create a new Gist": "Gist 만들기",
-        "Discover gists": "Gist 찾기",
-        "Enable two-factor authentication": "2단계 인증 켜기",
+        "Installed GitHub Apps": "설치된 GitHub 응용프로그람들",
+        "Issue search results": "문제검색 결과들",
+        "Scheduled reminders": "예정된 알림들",
+        "Security log": "보안일지",
+        "Sponsorship Log": "후원일지",
+        "GitHub Apps": "GitHub 응용프로그람들",
+        "Developer applications": "개발자 응용프로그람들",
+        "Personal Access Tokens": "개인접근 토큰들",
+        "Register new GitHub App": "새 GitHub 응용프로그람 등록",
+        "New OAuth Application": "새 OAuth 응용프로그람",
+        "Create a new Gist": "새 Gist 창조",
+        "Discover gists": "Gist들 발견",
+        "Enable two-factor authentication": "2단계 인증 활성화",
         "Manage two-factor authentication": "2단계 인증 관리",
-        "Options": "설정",
-        "Confirm access": "엑세스 확인",
+        "Options": "선택항목들",
+        "Confirm access": "접근확인",
         "General": "일반",
-        "Manage access": "엑세스 관리",
-        "branches": "분기",
-        "Tags": "꼬리표",
-        "Webhooks": "웹후크",
-        "Environments": "환경",
+        "Manage access": "접근관리",
+        "branches": "가지들",
+        "Tags": "꼬리표들",
+        "Webhooks": "웹고리들",
+        "Environments": "환경들",
         "Security & analysis": "보안 및 분석",
-        "Deploy keys": "배포 키",
-        "Add deploy key": "배포 키를 추가해 주세요",
-        "Actions secrets": "액션 비밀값",
-        "Dependabot secrets": "Dependabot 비밀값",
-        "Configure email notifications": "이메일 알림을 설정해 주세요",
-        "Community Standards": "커뮤니티 기준",
-        "General Organization Settings": "일반 조직 설정",
-        "Member privileges": "멤버 권한",
-        "Teams": "팀",
-        "Trending repositories on GitHub today": "오늘 GitHub에서 인기 있는 저장소예요",
-        "Trending repositories on GitHub this week": "이번 주 GitHub에서 인기 있는 저장소예요",
-        "Trending repositories on GitHub this month": "이번 달 GitHub에서 인기 있는 저장소예요",
-        "Repository defaults": "저장소 기본값",
-        "Repository search results": "저장소 검색 결과",
-        "Runners": "실행기",
-        "Runner Groups": "실행기 그룹",
-        "Packages": "패키지",
-        "Package": "패키지",
-        "Payment Information": "결제 정보",
+        "Deploy keys": "배치열쇠들",
+        "Add deploy key": "배치열쇠를 추가하십시오",
+        "Actions secrets": "동작비밀값들",
+        "Dependabot secrets": "Dependabot 비밀값들",
+        "Configure email notifications": "전자우편통지를 설정하십시오",
+        "Community Standards": "공동체기준들",
+        "General Organization Settings": "일반조직설정",
+        "Member privileges": "성원특권들",
+        "Teams": "팀들",
+        "Trending repositories on GitHub today": "오늘 GitHub에서 인기있는 저장고들",
+        "Trending repositories on GitHub this week": "이번주 GitHub에서 인기있는 저장고들",
+        "Trending repositories on GitHub this month": "이번달 GitHub에서 인기있는 저장고들",
+        "Repository defaults": "저장고 기본설정들",
+        "Repository search results": "저장고검색 결과들",
+        "Runners": "실행기들",
+        "Runner Groups": "실행기무리들",
+        "Packages": "꾸러미들",
+        "Package": "꾸러미",
+        "Payment Information": "지불정보",
         "Security": "보안",
-        "Verified & approved domains": "검증 및 승인된 도메인",
-        "Add a Pages verified domain": "인증된 GitHub 페이지 도메인을 추가해 주세요",
-        "Third-party application access policy": "타사 애플리케이션 접근 정책",
-        "Audit log": "감사 로그",
-        "Deleted Repositories": "삭제된 저장소",
-        "GitHub Publisher Verification": "GitHub 게시자 인증",
-        "Notifications": "알림",
-        "Confirm your account recovery settings": "계정 복구 설정을 확인해 주세요",
-        "Your stars": "내 별표",
-        "Your starred repositories": "내가 별표한 저장소",
-        "Your starred topics": "내가 별표한 주제",
-        "Register for the GitHub Developer Program": "GitHub 개발자 프로그램에 등록해 주세요",
-        "Codespaces": "코드스페이스",
-        "Codespace Templates": "코드스페이스 템플릿",
-        "Create new codespace": "새로운 코드스페이스를 만들어 주세요",
-        "Error": "오류",
-        "Discover gists · GitHub": "GitHub에서 코드 스니펫을 찾아보세요",
-        "Explore GitHub Sponsors": "GitHub 스폰서를 둘러보세요",
-        "Actions Usage Metrics": "액션 사용 지표",
-        "Fine-grained Personal Access Tokens": "세밀하게 설정된 개인 접근 토큰",
-        "Import repository": "저장소를 가져와 보세요",
-        "Explore GitHub": "GitHub를 둘러보세요",
-        // "Rate limit · GitHub": "속도 제한 · GitHub",
-        // "GitHub: Let’s build from here · GitHub": "GitHub: 여기서부터 시작해 보세요 · GitHub",
-        "GitHub · Build and ship software on a single, collaborative platform · GitHub": "GitHub · 단일 협업 플랫폼에서 소프트웨어를 개발하고 배포해보세요",
-        "GitHub · Build and ship software on a single, collaborative platform": "GitHub · 단일 협업 플랫폼에서 소프트웨어를 개발하고 배포해보세요",
+        "Verified & approved domains": "검증 및 승인된 령역들",
+        "Add a Pages verified domain": "검증된 GitHub 페지령역을 추가하십시오",
+        "Third-party application access policy": "제3자 응용프로그람접근 정책",
+        "Audit log": "감사일지",
+        "Deleted Repositories": "삭제된 저장고들",
+        "GitHub Publisher Verification": "GitHub 출판자검증",
+        "Notifications": "통지들",
+        "Confirm your account recovery settings": "당신의 계정복구설정을 확인하십시오",
+        "Your stars": "당신의 별표들",
+        "Your starred repositories": "당신이 별표한 저장고들",
+        "Your starred topics": "당신이 별표한 주제들",
+        "Register for the GitHub Developer Program": "GitHub 개발자프로그람에 등록하십시오",
+        "Codespaces": "코드공간들",
+        "Codespace Templates": "코드공간견본들",
+        "Create new codespace": "새로운 코드공간을 창조하십시오",
+        "Error": "오유",
+        "Discover gists · GitHub": "GitHub에서 코드조각들을 발견하십시오",
+        "Explore GitHub Sponsors": "GitHub 후원자들을 탐색하십시오",
+        "Actions Usage Metrics": "동작사용 지표들",
+        "Fine-grained Personal Access Tokens": "세분화된 개인접근 토큰들",
+        "Import repository": "저장고를 도입하십시오",
+        "Explore GitHub": "GitHub를 탐색하십시오",
+        "GitHub · Build and ship software on a single, collaborative platform · GitHub": "GitHub · 단일협력무대에서 소프트웨어를 개발하고 배포하십시오",
+        "GitHub · Build and ship software on a single, collaborative platform": "GitHub · 단일협력무대에서 소프트웨어를 개발하고 배포하십시오",
         "Topics on GitHub · GitHub": "GitHub의 주제들",
-        "Code security": "코드 보안",
-        "Deploy keys": "배포 키",
-        "Actions Performance Metrics": "액션 성능 지표",
-        "GitHub Sitemap · GitHub": "GitHub 사이트맵",
-        "Code search results": "코드 검색 결과",
+        "Code security": "코드보안",
+        "Deploy keys": "배치열쇠들",
+        "Actions Performance Metrics": "동작성능 지표들",
+        "GitHub Sitemap · GitHub": "GitHub 사이트지도",
+        "Code search results": "코드검색 결과들",
         "Enterprises": "기업용",
         "Blocked users": "차단된 사용자들",
-        "New conversation · GitHub Copilot": "새로운 대화 · GitHub Copilot",
-        "Models · GitHub Marketplace": "모델 · GitHub 장터",
+        "New conversation · GitHub Copilot": "새로운 대화 · GitHub 조종사",
+        "Models · GitHub Marketplace": "모형들 · GitHub 시장",
         "GitHub Education": "GitHub 교육",
-        "GitHub Student Developer Pack - GitHub Education": "GitHub 교육 - 학생 개발자 꾸러미",
-        "Get your GitHub benefits - GitHub Education": "GitHub 교육 혜택을 받아보세요",
-        "Signup to GitHub Copilot": "GitHub Copilot에 가입해 보세요",
-        "Device Activation": "기기 활성화",
-        "Spending Limit": "지출 한도",
-        "Autolink references": "자동 링크 참조",
-        "Add autolink reference": "자동 링크 참조를 추가해 보세요"
+        "GitHub Student Developer Pack - GitHub Education": "GitHub 교육 - 학생개발자 꾸러미",
+        "Get your GitHub benefits - GitHub Education": "GitHub 교육혜택을 받으십시오",
+        "Signup to GitHub Copilot": "GitHub 조종사에 가입하십시오",
+        "Device Activation": "장치활성화",
+        "Spending Limit": "지출한계",
+        "Autolink references": "자동련결 참조들",
+        "Add autolink reference": "자동련결 참조를 추가하십시오"
     },
-    "regexp": [ // 정규 표현식 번역
-        [/Authorized OAuth Apps/, "승인된 OAuth 앱"],
-        [/Authorized GitHub Apps/, "승인된 GitHub 앱"],
-        [/Installed GitHub Apps/, "설치된 GitHub 앱"],
+    "regexp": [ // 정규표현식번역
+        [/Authorized OAuth Apps/, "승인된 OAuth 응용프로그람들"],
+        [/Authorized GitHub Apps/, "승인된 GitHub 응용프로그람들"],
+        [/Installed GitHub Apps/, "설치된 GitHub 응용프로그람들"],
         [/Accessibility/, "접근성"],
-        [/Environments/, "환경"],
-        [/New repository/, "새 저장소"],
-        [/Repositories/, "저장소"],
-        [/Starred/, "별표한 항목"],
-        [/starred repositories/, "별표한 저장소"],
-        [/starred topics/, "별표한 주제"],
+        [/Environments/, "환경들"],
+        [/New repository/, "새 저장고"],
+        [/Repositories/, "저장고들"],
+        [/Starred/, "별표한 항목들"],
+        [/starred repositories/, "별표한 저장고들"],
+        [/starred topics/, "별표한 주제들"],
         [/starred/, "별표"],
-        [/Commits · ([^ ]+)/, "커밋 · $1"],
-        [/New Issue/, "새 이슈"],
-        [/Issues?/, "이슈"],
-        [/Pull (R|r)equests?/, "끌어오기 요청"],
-        [/Actions secrets · ([^ ]+)/, "액션 비밀 · $1"],
-        [/Actions settings · ([^ ]+)/, "액션 설정 · $1"],
-        [/Actions/, "액션"],
-        [/Projects/, "프로젝트"],
-        [/Packages?/, "패키지"],
-        [/Settings · Rulesets/, "설정 · 규칙 집합"],
-        [/Security Overview/, "보안 개요"],
-        [/Security Policy/, "보안 정책"],
-        [/Security Advisories/, "보안 공지"],
-        [/Dependabot alerts/, "Dependabot 경고"],
+        [/Commits · ([^ ]+)/, "위탁들 · $1"],
+        [/New Issue/, "새 문제"],
+        [/Issues?/, "문제들"],
+        [/Pull (R|r)equests?/, "끌기요청들"],
+        [/Actions secrets · ([^ ]+)/, "동작비밀들 · $1"],
+        [/Actions settings · ([^ ]+)/, "동작설정 · $1"],
+        [/Actions/, "동작들"],
+        [/Projects/, "사업들"],
+        [/Packages?/, "꾸러미들"],
+        [/Settings · Rulesets/, "설정 · 규칙집합들"],
+        [/Security Overview/, "보안개요"],
+        [/Security Policy/, "보안정책"],
+        [/Security Advisories/, "보안통고들"],
+        [/Dependabot alerts/, "Dependabot 경고들"],
         [/Pulse/, "통계"],
-        //[/Contributors to/, "기여자 ·"],
-        [/Dashboard/, "대시보드"],
-        [/Deployments/, "배포"],
-        [/Community/, "커뮤니티"],
-        [/Traffic/, "트래픽"],
-        [/Commit Activity/, "커밋 활동"],
-        [/Code frequency/, "코드 빈도"],
-        [/Created/, "생성됨"],
-        [/Dependencies/, "의존성"],
-        [/Network Dependents/, "네트워크 의존자"],
-        [/Network Graph/, "네트워크 그래프"],
-        [/Revisions/, "수정 내역"],
-        [/GitHub Skills Quickstart Guide/, "GitHub 스킬 빠른 시작 가이드"],
-        [/Skills/, "스킬"],
+        [/Dashboard/, "조종판"],
+        [/Deployments/, "배치들"],
+        [/Community/, "공동체"],
+        [/Traffic/, "류량"],
+        [/Commit Activity/, "위탁활동"],
+        [/Code frequency/, "코드빈도"],
+        [/Created/, "창조됨"],
+        [/Dependencies/, "의존성들"],
+        [/Network Dependents/, "망의존자들"],
+        [/Network Graph/, "망도표"],
+        [/Revisions/, "수정력사"],
+        [/GitHub Skills Quickstart Guide/, "GitHub 기능 빠른시작 안내서"],
+        [/Skills/, "기능들"],
         [/Sponsoring/, "후원"],
-        [/Stargazers/, "별표 누른 사용자"],
-        [/Forks?/, "포크"],
-        [/Settings · Tags · ([^ ]+)/, "설정 · 꼬리표 · $1"],
-        [/Tags?/, "꼬리표"],
-        [/Edit release/, "릴리스 편집"],
-        [/Releases?/, "릴리스"],
-        [/Draft Advisory/, "보안 공지 초안"],
-        [/Code scanning alerts/, "코드 스캔 경고"],
-        [/Repository topics/, "저장소 주제"],
-        [/Scheduled reminders/, "예약 알림"],
-        [/Sponsorship Log/, "후원 로그"],
-        [/Sponsor @([^ ]+) on GitHub Sponsors/, "GitHub Sponsors에서 $1님을 후원"],
-        [/OAuth applications/, "OAuth 앱"],
-        [/People · Pending Collaborators/, "사람 · 대기 중인 협업자"],
-        [/Members · People · ([^ ]+)/, "사람 · $1"],
-        [/People/, "사람"],
-        [/Outside collaborators/, "외부 협업자"],
+        [/Stargazers/, "별표누른 사용자들"],
+        [/Forks?/, "가지들"],
+        [/Settings · Tags · ([^ ]+)/, "설정 · 꼬리표들 · $1"],
+        [/Tags?/, "꼬리표들"],
+        [/Edit release/, "출시편집"],
+        [/Releases?/, "출시들"],
+        [/Draft Advisory/, "보안통고 초안"],
+        [/Code scanning alerts/, "코드검사 경고들"],
+        [/Repository topics/, "저장고 주제들"],
+        [/Scheduled reminders/, "예정된 알림들"],
+        [/Sponsorship Log/, "후원일지"],
+        [/Sponsor @([^ ]+) on GitHub Sponsors/, "GitHub 후원자들에서 $1동지를 후원"],
+        [/OAuth applications/, "OAuth 응용프로그람들"],
+        [/People · Pending Collaborators/, "사람들 · 대기중인 협력자들"],
+        [/Members · People · ([^ ]+)/, "사람들 · $1"],
+        [/People/, "사람들"],
+        [/Outside collaborators/, "외부협력자들"],
         [/New Discussion/, "새 토론"],
-        [/Discussions/, "토론"],
-        [/Workflow runs/, "워크플로 실행"],
-        [/Webhooks · Settings/, "웹훅 · 설정"],
-        [/Add a code of conduct to/, "코드 행동 강령 추가하기"],
-        [/Caches?/, "캐시"],
-        [/Runners?/, "실행기"],
-        [/Attestations?/, "증명"],
-        [/Activit(y|ies)/, "활동"],
-        [/Rate limit/, "요청 제한"],
+        [/Discussions/, "토론들"],
+        [/Workflow runs/, "작업흐름 실행들"],
+        [/Webhooks · Settings/, "웹고리들 · 설정"],
+        [/Add a code of conduct to/, "행동강령을 추가하기"],
+        [/Caches?/, "고속기억기들"],
+        [/Runners?/, "실행기들"],
+        [/Attestations?/, "증명서들"],
+        [/Activit(y|ies)/, "활동들"],
+        [/Rate limit/, "속도제한"],
         [/Comparing/, "비교"],
-        [/History for ([^ ]+)/, "$1의 기록"],
-        [/Compare plans for ([^ ]+)/, "$1의 요금제 비교"],
-        [/([^ ]+)’s gists/, "$1님의 코드 조각"],
-        [/Secret scanning · ([^ ]+)/, "비밀 스캔 · $1"],
-        [/Dependabot secrets · ([^ ]+)/, "Dependabot 비밀 · $1"],
-        [/Contributors to ([^ ]+)/, "$1의 기여자"],
-        [/([^ ]+) repositories^/, "$1의 저장소"],
-        [/Create new page · ([^ ]+) Wiki/, "새 페이지 생성 · $1 위키"],
-        [/Settings · Branches · ([^ ]+)/, "설정 · 분기 · $1"],
-        [/Webhooks · Settings · ([^ ]+)/, "웹훅 · 설정 · $1"],
-        [/Environments · ([^ ]+)/, "환경 · $1"],
-        [/Branches · ([^ ]+)/, "분기 · $1"],
-        [/([^ ]+) · GitHub Topics/, "$1 · GitHub 주제"],
-        [/New release · ([^ ]+)/, "새 릴리스 · $1"],
-        [/Codespaces secrets · ([^ ]+)/, "코드스페이스 비밀 · $1"],
-        [/Dependabot secrets · ([^ ]+)/, "Dependabot 비밀 · $1"],
-        [/Invitation to join ([^ ]+)/, "$1 가입 초대"],
-        [/Security Managers for · ([^ ]+)/, "보안 관리자 · $1"],
+        [/History for ([^ ]+)/, "$1의 력사"],
+        [/Compare plans for ([^ ]+)/, "$1의 료금제 비교"],
+        [/([^ ]+)'s gists/, "$1동지의 코드조각들"],
+        [/Secret scanning · ([^ ]+)/, "비밀검사 · $1"],
+        [/Dependabot secrets · ([^ ]+)/, "Dependabot 비밀들 · $1"],
+        [/Contributors to ([^ ]+)/, "$1의 기여자들"],
+        [/([^ ]+) repositories^/, "$1의 저장고들"],
+        [/Create new page · ([^ ]+) Wiki/, "새 페지창조 · $1 위키"],
+        [/Settings · Branches · ([^ ]+)/, "설정 · 가지들 · $1"],
+        [/Webhooks · Settings · ([^ ]+)/, "웹고리들 · 설정 · $1"],
+        [/Environments · ([^ ]+)/, "환경들 · $1"],
+        [/Branches · ([^ ]+)/, "가지들 · $1"],
+        [/([^ ]+) · GitHub Topics/, "$1 · GitHub 주제들"],
+        [/New release · ([^ ]+)/, "새 출시 · $1"],
+        [/Codespaces secrets · ([^ ]+)/, "코드공간 비밀들 · $1"],
+        [/Dependabot secrets · ([^ ]+)/, "Dependabot 비밀들 · $1"],
+        [/Invitation to join ([^ ]+)/, "$1 가입초대"],
+        [/Security Managers for · ([^ ]+)/, "보안관리자들 · $1"],
         ["_regexp_end", "끝"]
     ],
 };
 
-I18N["ko-KR"]["public"] = { // 公共区域翻译
+I18N["ko-KP"]["public"] = { // 公共区域翻译
     "static": { // 静态翻译
         // 错误页面
         "No server is currently available to service your request.": "현재 서버에서 요청을 처리해드릴 수 없어요.",
@@ -1632,7 +1629,7 @@ I18N["ko-KR"]["public"] = { // 公共区域翻译
     };
     
 
-I18N["ko-KR"]["orgs-public"] = { // 组织公共部分
+I18N["ko-KP"]["orgs-public"] = { // 组织公共部分
     "static": { // 静态翻译
     },
     "regexp": [ // 正则翻译
@@ -1644,333 +1641,331 @@ I18N["ko-KR"]["orgs-public"] = { // 组织公共部分
     ],
 };
 
-I18N["ko-KR"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组织）
-    "static": { // 静态翻译
+I18N["ko-KP"]["page-dashboard"] = { // 등록된 첫페지 - 조종판(조직포함)
+    "static": { // 정적번역
         // GPT 부분
-        "Ask Copilot": "Copilot에게 무엇이든 물어보세요!",
-            "Open issues in facebook/react": "facebook/react의 열린 이슈",
+        "Ask Copilot": "조종사에게 무엇이든 물어보십시오!",
+            "Open issues in facebook/react": "facebook/react의 열린 문제들",
             // "Pull requests in": "microsoft/vscode", 
             // "microsoft/vscode": "에 있는 끌어오기 요청",
             // -- 작동 안함 --
-            "Recent commits in torvalds/linux": "torvalds/linux의 최근 커밋",
-            "Find issues assigned to me": "나에게 할당된 이슈 찾기",
-            "What is a hash table in JS?": "JS에서 해시 테이블이란?",
-            "Latest nodejs/node release": "최신 nodejs/node 릴리스",
-            "Create a profile README for me": "프로필 README 생성",
-            "Recent bugs in primer/react": "primer/react의 최근 버그",
-            "My open pull requests": "내 열린 끌어오기 요청",
+            "Recent commits in torvalds/linux": "torvalds/linux의 최근 위탁들",
+            "Find issues assigned to me": "나에게 할당된 문제 찾기",
+            "What is a hash table in JS?": "JS에서 해시표란 무엇입니까?",
+            "Latest nodejs/node release": "최신 nodejs/node 출시",
+            "Create a profile README for me": "개인자료 README 창조",
+            "Recent bugs in primer/react": "primer/react의 최근 오류들",
+            "My open pull requests": "내 열린 끌기요청들",
             "Generate an HTML/JS calculator": "HTML/JS 계산기 생성",
-            "Python password endpoint": "Python 비밀번호 엔드포인트",
-            "Rails authentication endpoint": "Rails 인증 엔드포인트",
-            "Email validation regex in JS": "JS 이메일 검증 정규식",
-            "What are Python decorators?": "Python 데코레이터란?",
-            "Python Panda data analysis": "Python Panda 데이터 분석",
-            "How can you help?": "어떻게 도와줄 수 있어?", 
-            "What can I do here?": "내가 여기서 뭘 할 수 있을까?",
-            "To-do list with local storage": "로컬 스토리지를 사용하는 할 일 목록",
-            "A digital time zone clock": "디지털 시간대 시계",
-            "Develop a weather dashboard": "날씨 대시보드 개발",
-            "Create a joke generator": "농담 생성기 만들기",
+            "Python password endpoint": "Python 암호 끝점",
+            "Rails authentication endpoint": "Rails 인증 끝점",
+            "Email validation regex in JS": "JS 전자우편 검증 정규식",
+            "What are Python decorators?": "Python 장식자란 무엇입니까?",
+            "Python Panda data analysis": "Python Panda 자료분석",
+            "How can you help?": "어떻게 도와줄수 있습니까?", 
+            "What can I do here?": "내가 여기서 무엇을 할수 있습니까?",
+            "To-do list with local storage": "국부기억기를 사용하는 할일목록",
+            "A digital time zone clock": "수자식 시간대 시계",
+            "Develop a weather dashboard": "날씨조종판 개발",
+            "Create a joke generator": "농담생성기 만들기",
         "Send": "전송",
-        "uses AI. Check for mistakes.": "AI를 사용해요. 실수를 확인해보세요!",
+        "uses AI. Check for mistakes.": "인공지능을 사용합니다. 실수를 확인하십시오!",
         // 초보자 도움말
-        "Learn Git and GitHub without any code!": "Git과 GitHub를 단 한 줄의 코드도 없이 배워보세요!",
-        "Using the Hello World guide, you’ll create a repository, start a branch,": "헬로 월드 가이드를 사용해서, 저장소를 생성하고 분기를 시작할 거예요,",
-        "write comments, and open a pull request.": "댓글도 작성하고 끌어오기 요청을 열 거예요.",
-        "Let's get started!": "시작해봐요!",
-        "Hide this notice forever": "이 알림을 영원히 숨기기",
+        "Learn Git and GitHub without any code!": "Git과 GitHub를 단 한줄의 코드도 없이 학습하십시오!",
+        "Using the Hello World guide, you'll create a repository, start a branch,": "Hello World 안내서를 사용하여, 저장고를 창조하고 가지를 시작하고,",
+        "write comments, and open a pull request.": "평을 작성하고 끌기요청을 열게 됩니다.",
+        "Let's get started!": "시작하십시오!",
+        "Hide this notice forever": "이 통지를 영원히 숨기기",
     
-        "Welcome to GitHub! What’s next?": "GitHub에 오신 것을 환영해요! 이제 뭘 할까요?",
-        "Create a repository": "저장소를 만들기",
-        "Tell us about yourself": "자신에 대해 소개해 주세요",
-        "Browse interesting repositories": "흥미로운 저장소들을 둘러보기",
+        "Welcome to GitHub! What's next?": "GitHub에 오신것을 환영합니다! 이제 무엇을 할까요?",
+        "Create a repository": "저장고를 만들기",
+        "Tell us about yourself": "자신에 대해 소개하십시오",
+        "Browse interesting repositories": "흥미로운 저장고들을 돌아보기",
         "on Twitter": "Twitter에서",
     
-        "You don’t have any repositories yet!": "아직 저장소가 없어요!",
-        "Create your first repository": "첫 번째 저장소를 만들어보세요",
+        "You don't have any repositories yet!": "아직 저장고가 없습니다!",
+        "Create your first repository": "첫번째 저장고를 만드십시오",
         "or": "아니면",
         "Learn more about Git and GitHub": "Git과 GitHub에 대해 더 알아보기",
     
         // 교육판
-        "Join GitHub Education!": "GitHub 교육에 가입해보세요!",
-            "GitHub Education opens doors to new skills, tools, and a collaborative community eager to drive innovation. Join us and build a foundation for your future in technology.": "GitHub 교육은 새로운 기술과 도구, 그리고 혁신을 향한 열정을 가진 협업 커뮤니티로 나아갈 수 있는 기회를 제공해요. 지금 합류해서 여러분의 기술 미래를 위한 기반을 마련해보세요.",
-        "Join GitHub Education": "GitHub 교육에 가입해보세요",
+        "Join GitHub Education!": "GitHub 교육에 가입하십시오!",
+            "GitHub Education opens doors to new skills, tools, and a collaborative community eager to drive innovation. Join us and build a foundation for your future in technology.": "GitHub 교육은 새로운 기술과 도구, 그리고 혁신을 추진하는 협력공동체로 나아갈수 있는 기회를 제공합니다. 지금 가입하여 당신의 기술미래를 위한 토대를 마련하십시오.",
+        "Join GitHub Education": "GitHub 교육에 가입하십시오",
     
         // 조직
-        // [/You’re an owner of the ([^ ]+) organization!/, "사용자님은 $1 조직의 소유자에요!"],
+        // [/You're an owner of the ([^ ]+) organization!/, "사용자님은 $1 조직의 소유자에요!"],
         // [/Create a repository for ([^ ]+)/, "$1을 위한 저장소를 만들어보세요"],
         "Welcome to the": "환영합니다 :",
-        "View your teams": "팀을 확인해보세요",
-        "View and create teams": "팀을 확인하고 만들어보세요",
-        "See all owners": "모든 소유자를 확인해보세요",
+        "View your teams": "팀들을 확인하십시오",
+        "View and create teams": "팀들을 확인하고 만드십시오",
+        "See all owners": "모든 소유자들을 확인하십시오",
         "You've been added to the": "이미",
-        "organization.": "조직에 추가되어 있어요.",
-        // [/Edit ([^ ]+)’s settings/, "$1의 설정을 편집해보세요"],
-        "Return to your personal dashboard": "개인 대시보드로 돌아가기",
+        "organization.": "조직에 추가되였습니다.",
+        // [/Edit ([^ ]+)'s settings/, "$1의 설정을 편집해보세요"],
+        "Return to your personal dashboard": "개인조종판으로 돌아가기",
     
         // 이미 저장소가 있는 프로젝트
         // 왼쪽 사이드바
-        "View organization": "조직 보기", // 조직
-        "Browse organization's repositories": "조직의 저장소들을 둘러보기", // 조직
-        "Top repositories": "상위 저장소",
-        "Top Repositories": "상위 저장소", // 안드로이드 UA
+        "View organization": "조직보기", // 조직
+        "Browse organization's repositories": "조직의 저장고들을 돌아보기", // 조직
+        "Top repositories": "상위저장고들",
+        "Top Repositories": "상위저장고들", // 안드로이드 UA
         "New": "새로 만들기",
-        "Find a repository…": "저장소 검색…",
+        "Find a repository…": "저장고 검색…",
         "Show more": "더 보기",
-        "Your teams": "내 팀",
-            "You don’t belong to any teams yet!": "아직 어떤 팀에도 속해 있지 않아요!",
+        "Your teams": "내 팀들",
+            "You don't belong to any teams yet!": "아직 어떤 팀에도 속해있지 않습니다!",
         "Find a team…": "팀 검색…",
-        "Recent activity": "최근 활동",
-            "When you take actions across GitHub, we’ll provide links to that activity here.": "GitHub 전반에서 활동을 하실 때, 해당 활동에 대한 링크를 이곳에 제공해드릴게요.", // 조직
+        "Recent activity": "최근활동",
+            "When you take actions across GitHub, we'll provide links to that activity here.": "GitHub 전반에서 활동을 하실때, 해당 활동에 대한 련결을 이곳에 제공해드리겠습니다.", // 조직
     
-        "Create your first project": "첫 번째 프로젝트를 만들어보세요.",
-            "Ready to start building? Create a repository for a new idea or bring over an existing repository to keep contributing to it.": "구축을 시작할 준비가 되셨나요? 새로운 아이디어를 위한 저장소를 만들어보거나 기존 저장소를 가져와서 계속 기여해보세요.",
-            "Create repository": "저장소 만들기.",
+        "Create your first project": "첫번째 사업을 만드십시오.",
+            "Ready to start building? Create a repository for a new idea or bring over an existing repository to keep contributing to it.": "구축을 시작할 준비가 되였습니까? 새로운 착상을 위한 저장고를 만들거나 기존 저장고를 가져와서 계속 기여하십시오.",
+            "Create repository": "저장고 만들기.",
 
         // 中间栏
-        "The home for all developers — including you.": "모든 개발자들의 집이에요! — 사용자님도 당연히 포함해서요.",
-        "Welcome to your personal dashboard, where you can find an introduction to how GitHub works, tools to help you build software, and help merging your first lines of code.": "개인 대시보드에 오신 것을 환영해요. 여기서 GitHub의 작동 원리, 소프트웨어 개발에 도움을 주는 도구들, 그리고 첫 코드를 병합하는 방법을 확인해보실 수 있어요.",
-        "Learn with a tutorial project": "튜토리얼 프로젝트로 배우기",
+        "The home for all developers — including you.": "모든 개발자들의 집입니다! — 당신도 당연히 포함해서입니다.",
+        "Welcome to your personal dashboard, where you can find an introduction to how GitHub works, tools to help you build software, and help merging your first lines of code.": "개인조종판에 오신것을 환영합니다. 여기서 GitHub의 작동원리, 소프트웨어 개발에 도움을 주는 도구들, 그리고 첫 코드를 병합하는 방법을 확인하실수 있습니다.",
+        "Learn with a tutorial project": "지도서사업으로 학습하기",
           "Introduction to GitHub": "GitHub 소개",
-          "Get started using GitHub in less than an hour.": "한 시간 안에 GitHub 사용법을 익혀보세요.",
-          "Create a site or blog from your GitHub repositories with GitHub Pages.": "GitHub 저장소를 활용해 GitHub Pages로 사이트나 블로그를 만들어보세요.",
-          "Code with Copilot": "Copilot으로 코드 작성하기",
-          "Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.": "GitHub Copilot, Codespaces, 그리고 VS Code를 사용해 AI 기반의 코드 제안을 받아 개발해보세요.",
-          "Hello GitHub Actions": "GitHub 액션아 안녕!",
-          "Create a GitHub Action and use it in a workflow.": "GitHub 액션을 만들어 워크플로에서 사용해보세요.",
-          "See more tutorial projects": "더 많은 튜토리얼 프로젝트 보기",
-        "Start writing code": "코드 작성 시작하기",
-          "A repository contains all of your project's files, revision history, and collaborator discussion.": "저장소는 프로젝트의 모든 파일, 수정 이력, 그리고 협업자 간의 토론을 포함하고 있어요.",
-          "Repository name": "저장소 이름",
-          "name your new repository...": "새 저장소의 이름을 지어보세요…",
-          "Anyone on the internet can see this repository": "인터넷상의 누구나 이 저장소를 볼 수 있어요.",
-          "You choose who can see and commit to this repository": "이 저장소를 볼 수 있고 커밋할 수 있는 사람은 직접 선택할 수 있어요.",
-          "Create a new repository": "새 저장소 만들기",
-          "You're seeing this because you haven't created a repository in a while.": "오랫동안 저장소를 만들지 않으셔서 이 메시지가 보이고 있어요.",
-          "You're seeing this because you haven't used repositories, issues, and pull requests recently.": "최근에 저장소, 이슈, 끌어오기 요청을 사용하지 않으셔서 이 메시지가 보이고 있어요.",
-          "Remove from dashboard": "대시보드에서 제거하기",
-        "Use tools of the trade": "개발 도구 사용하기",
-          "You're seeing this because you haven't opened a pull request in a while.": "오랫동안 끌어오기 요청을 열지 않으셔서 이 메시지가 보이고 있어요.",
-            "Simplify your development workflow with a GUI": "GUI를 사용해 개발 워크플로를 간소화해보세요.",
+          "Get started using GitHub in less than an hour.": "한시간안에 GitHub 사용법을 익히십시오.",
+          "Create a site or blog from your GitHub repositories with GitHub Pages.": "GitHub 저장고를 활용해 GitHub 페지들로 사이트나 일지를 만드십시오.",
+          "Code with Copilot": "조종사로 코드작성하기",
+          "Develop with AI-powered code suggestions using GitHub Copilot, Codespaces, and VS Code.": "GitHub 조종사, 코드공간들, 그리고 VS Code를 사용해 인공지능기반의 코드제안을 받아 개발하십시오.",
+          "Hello GitHub Actions": "GitHub 동작들아 안녕!",
+          "Create a GitHub Action and use it in a workflow.": "GitHub 동작을 만들어 작업흐름에서 사용하십시오.",
+          "See more tutorial projects": "더 많은 지도서사업들 보기",
+        "Start writing code": "코드작성 시작하기",
+          "A repository contains all of your project's files, revision history, and collaborator discussion.": "저장고는 사업의 모든 파일들, 수정력사, 그리고 협력자간의 토론을 포함하고 있습니다.",
+          "Repository name": "저장고 이름",
+          "name your new repository...": "새 저장고의 이름을 지어주십시오…",
+          "Anyone on the internet can see this repository": "인터네트상의 누구나 이 저장고를 볼수 있습니다.",
+          "You choose who can see and commit to this repository": "이 저장고를 볼수 있고 위탁할수 있는 사람은 직접 선택할수 있습니다.",
+          "Create a new repository": "새 저장고 만들기",
+          "You're seeing this because you haven't created a repository in a while.": "오랫동안 저장고를 만들지 않아서 이 통지가 보이고 있습니다.",
+          "You're seeing this because you haven't used repositories, issues, and pull requests recently.": "최근에 저장고들, 문제들, 끌기요청들을 사용하지 않아서 이 통지가 보이고 있습니다.",
+          "Remove from dashboard": "조종판에서 제거하기",
+        "Use tools of the trade": "개발도구 사용하기",
+          "You're seeing this because you haven't opened a pull request in a while.": "오랫동안 끌기요청을 열지 않아서 이 통지가 보이고 있습니다.",
+            "Simplify your development workflow with a GUI": "GUI를 사용해 개발작업흐름을 간소화하십시오.",
             "Install GitHub Desktop": "GitHub Desktop 설치하기",
-            "to visualize, commit, and push changes without ever touching the command line.": "명령줄을 전혀 사용하지 않고도 변경 사항을 시각화, 커밋, 푸시할 수 있어요.",
-          "Get AI-based coding suggestions": "AI 기반 코딩 제안 받아보기",
-            "Try GitHub Copilot free for 30 days,": "GitHub Copilot을 30일 동안 무료로 사용해보세요,",
-            "which suggests entire functions in real time, right from your editor.": "편집기에서 바로 전체 함수를 실시간으로 제안해줘요.",
-          "Write code in your web browser": "웹 브라우저에서 코드 작성하기",
+            "to visualize, commit, and push changes without ever touching the command line.": "명령줄을 전혀 사용하지 않고도 변경사항들을 시각화, 위탁, 밀기할수 있습니다.",
+          "Get AI-based coding suggestions": "인공지능기반 코딩제안 받아보기",
+            "Try GitHub Copilot free for 30 days,": "GitHub 조종사를 30일동안 무료로 사용해보십시오,",
+            "which suggests entire functions in real time, right from your editor.": "편집기에서 바로 전체함수들을 실시간으로 제안해줍니다.",
+          "Write code in your web browser": "웹탐색기에서 코드작성하기",
             "Use": " ",
-            "the github.dev web-based editor": "github.dev 웹 기반 편집기를",
-            "from your repository or pull request to create and commit changes.": "저장소 또는 끌어오기 요청에서 사용해 변경 사항을 만들고 커밋해보세요.",
-        "Install a powerful code editor": "강력한 코드 편집기 설치하기",
-          "is a multi-platform code editor optimized for building and debugging software.": "이 편집기는 소프트웨어 빌드와 디버깅에 최적화된 다중 플랫폼 코드 편집기에요.",
-        "Set up your local dev environment": "로컬 개발 환경 설정하기",
+            "the github.dev web-based editor": "github.dev 웹기반 편집기를",
+            "from your repository or pull request to create and commit changes.": "저장고 또는 끌기요청에서 사용해 변경사항들을 만들고 위탁하십시오.",
+        "Install a powerful code editor": "강력한 코드편집기 설치하기",
+          "is a multi-platform code editor optimized for building and debugging software.": "이 편집기는 소프트웨어 구축과 오류수정에 최적화된 다중무대 코드편집기입니다.",
+        "Set up your local dev environment": "국부개발환경 설정하기",
           "set up Git": "Git 설정하기",
-          ", simplify your dev workflow with": "개발 워크플로 간소화하기",
+          ", simplify your dev workflow with": "개발작업흐름 간소화하기",
           ", or": ", 아니면",
           "bring GitHub to the command line": "GitHub를 명령줄에서 사용하기",
         "Get started on GitHub": "GitHub 시작하기",
-          "You're seeing this because you haven't used GitHub's core features, yet.": "아직 GitHub의 핵심 기능을 사용하지 않으셔서 이 메시지가 보이고 있어요.",
-        "Introduce yourself with a profile README": "프로필 README로 자신을 소개하기",
-          "Share information about yourself by creating a profile README, which appears at the top of your profile page.": "프로필 페이지 상단에 표시되는 프로필 README를 작성하여 자신에 대한 정보를 공유해보세요.",
-        "Follow this exercise to try the GitHub flow": "이 연습을 따라 GitHub 흐름을 체험해보세요.",
-          "GitHub's “Hello World” tutorial teaches you essentials, where you create your own repository and learn GitHub's pull request workflow for creating and reviewing code.": "GitHub의 ‘Hello World’ 튜토리얼은 필수 사항을 알려주며, 여기서 본인의 저장소를 만들고 코드를 작성 및 검토하는 끌어오기 요청 워크플로를 배울 수 있어요.",
+          "You're seeing this because you haven't used GitHub's core features, yet.": "아직 GitHub의 핵심기능들을 사용하지 않아서 이 통지가 보이고 있습니다.",
+        "Introduce yourself with a profile README": "개인자료 README로 자신을 소개하기",
+          "Share information about yourself by creating a profile README, which appears at the top of your profile page.": "개인자료페지 상단에 표시되는 개인자료 README를 작성하여 자신에 대한 정보를 공유하십시오.",        "Follow this exercise to try the GitHub flow": "이 연습을 따라 GitHub 흐름을 체험하십시오.",
+          "GitHub's \"Hello World\" tutorial teaches you essentials, where you create your own repository and learn GitHub's pull request workflow for creating and reviewing code.": "GitHub의 'Hello World' 지도서는 필수사항들을 알려주며, 여기서 본인의 저장고를 만들고 코드를 작성 및 검토하는 끌기요청 작업흐름을 배울수 있습니다.",
           "Try the GitHub flow": "GitHub 흐름 체험하기",
-        "About version control and Git": "버전 관리 및 Git에 대해 알아보기",
-          "Learn about the version control system, Git, and how it works with GitHub.": "버전 관리 시스템인 Git과 GitHub와의 연동 방식에 대해 알아보세요.",
+        "About version control and Git": "판본관리 및 Git에 대해 알아보기",
+          "Learn about the version control system, Git, and how it works with GitHub.": "판본관리체계인 Git과 GitHub와의 련동방식에 대해 알아보십시오.",
         "The GitHub Flow": "GitHub 흐름",
-          "Adopt GitHub's lightweight, branch-based workflow to collaborate on projects.": "프로젝트 협업을 위해 GitHub의 경량화된 분기 기반 워크플로를 도입해보세요.",
+          "Adopt GitHub's lightweight, branch-based workflow to collaborate on projects.": "사업협력을 위해 GitHub의 경량화된 가지기반 작업흐름을 도입하십시오.",
 
-        "One moment please...": "잠시만요...",
-        "Loading activity...": "작업을 로드중이에요...",
-        "All activity": "모든 작업",
+        "One moment please...": "잠깐만 기다리십시오...",
+        "Loading activity...": "작업을 불러오는중입니다...",
+        "All activity": "모든 작업들",
 
-        "Welcome to the new feed!": "새 피드에 오신것을 환영합니다!",
-        "We’re updating the cards and ranking all the time, so check back regularly. At first, you might need to follow some people or star some repositories to get started": "우리는 항상 카드를 업데이트하고 순위를 매기기 때문에 정기적으로 다시 확인해보세요. 처음에는 몇몇 사람들을 팔로우하거나 리포지토리를 선택해야 시작될 수도 있어요",
-        "Send feedback": "피드백 보내기",
+        "Welcome to the new feed!": "새 공급에 오신것을 환영합니다!",
+        "We're updating the cards and ranking all the time, so check back regularly. At first, you might need to follow some people or star some repositories to get started": "우리는 항상 카드들을 갱신하고 순위를 매기기때문에 정기적으로 다시 확인하십시오. 처음에는 몇몇 사람들을 따르거나 저장고들을 선택해야 시작될수도 있습니다",
+        "Send feedback": "반향보내기",
 
-        "Updates to your homepage feed": "홈페이지 피드 업데이트",
-        "We've combined the power of the Following feed with the For you feed so there’s one place to discover content on GitHub. There’s improved filtering so you can customize your feed exactly how you like it, and a shiny new visual design. ✨": "GitHub에서 팔로우 피드와 추천 피드의 기능을 합쳐서 콘텐츠를 한 곳에서 발견할 수 있게 되었어요. 원하는 대로 피드를 맞춤 설정할 수 있도록 필터링 기능이 개선되었고, 새로운 디자인으로 더욱 보기 좋아졌답니다. ✨",
+        "Updates to your homepage feed": "홈페지공급 갱신",
+        "We've combined the power of the Following feed with the For you feed so there's one place to discover content on GitHub. There's improved filtering so you can customize your feed exactly how you like it, and a shiny new visual design. ✨": "GitHub에서 따르기공급과 추천공급의 기능을 합쳐서 내용을 한곳에서 발견할수 있게 되였습니다. 원하는대로 공급을 맞춤설정할수 있도록 거르기기능이 개선되였고, 새로운 설계로 더욱 보기좋아졌습니다. ✨",
         "Learn more": "자세히 알아보기",
 
         // 提要筛选
-        "Filter": "필터",
-            "Feed filters": "피드 필터",
-            "Events": "이벤트",
-                "Activity you want to see on your feed": "피드에서 보고 싶은 활동을 골라보세요!",
-            "Announcements": "공지",
-                "Special discussion posts from repositories": "저장소에서 올라온 특별 토론 게시글들",
-            "Releases": "릴리즈",
-                "Update posts from repositories": "저장소의 업데이트 게시글들",
+        "Filter": "거르개",
+            "Feed filters": "공급거르개들",
+            "Events": "사건들",
+                "Activity you want to see on your feed": "공급에서 보고싶은 활동을 골라보십시오!",
+            "Announcements": "공고들",
+                "Special discussion posts from repositories": "저장고들에서 올라온 특별토론 게시글들",
+            "Releases": "출시들",
+                "Update posts from repositories": "저장고들의 갱신게시글들",
             // 후원
-                "Relevant projects or people that are being sponsored": "후원을 받고 있는 관련 프로젝트나 사람들",
-            "Stars": "별표",
-                "Repositories being starred by people": "사람들이 별표 표시한 저장소",
-            "Repositories": "저장소",
-                "Repositories that are created or forked by people": "사람들이 생성하거나 포크한 저장소",
-            "Repository activity": "저장소 활동",
-                "Issues and pull requests from repositories": "저장소에서 온 이슈와 끌어오기 요청",
-            "Follows": "팔로우",
-                "Who people are following": "사람들이 팔로우하는 사람들",
-            "Recommendations": "추천",
-                "Repositories and people you may like": "사용자님이 좋아할 만한 저장소와 사람들",
+                "Relevant projects or people that are being sponsored": "후원을 받고있는 관련사업들이나 사람들",
+            "Stars": "별표들",
+                "Repositories being starred by people": "사람들이 별표표시한 저장고들",
+            "Repositories": "저장고들",
+                "Repositories that are created or forked by people": "사람들이 생성하거나 갈라놓은 저장고들",
+            "Repository activity": "저장고활동",
+                "Issues and pull requests from repositories": "저장고들에서 온 문제들과 끌기요청들",
+            "Follows": "따르기",
+                "Who people are following": "사람들이 따르는 사람들",
+            "Recommendations": "추천들",
+                "Repositories and people you may like": "당신이 좋아할만한 저장고들과 사람들",
 
-            "Include events from starred repositories": "별표 표시한 저장소에서 온 이벤트 포함하기",
-                "By default, the feed shows events from repositories you sponsor or watch, and people you follow.": "기본적으로, 피드에는 후원하거나 구독하는 저장소와 팔로우하는 사람들의 이벤트가 표시돼요.",
+            "Include events from starred repositories": "별표표시한 저장고들에서 온 사건들 포함하기",
+                "By default, the feed shows events from repositories you sponsor or watch, and people you follow.": "기본적으로, 공급에는 후원하거나 구독하는 저장고들과 따르는 사람들의 사건들이 표시됩니다.",
             "Reset to default": "기본값으로 재설정하기",
-            "Save": "저장하기",
+            "Save": "보관하기",
 
         "Show all": "모두 표시하기",
         "Show less": "덜 표시하기",
 
-        "Uh oh!": "헐...",
-        "There was an error in loading the activity feed.": "활동 피드를 불러오는 중 오류가 발생했어요.",
-        "Reload this page": "이 페이지 다시 불러오기",
+        "Uh oh!": "어휴...",
+        "There was an error in loading the activity feed.": "활동공급을 불러오는중 오류가 발생하였습니다.",
+        "Reload this page": "이 페지 다시 불러오기",
 
         // 动态 状态词
-        "starred": "에 별표했어요",
+        "starred": "에 별표하였습니다",
         "created": "생성 :",
-        "forked from": "포크됨 :",
+        "forked from": "갈라놓음 :",
         "generated from": "생성됨 :",
-        "mirrored from": "미러됨 :",
-        "forked": "을(를) 포크했어요",
-        "from": "쀐이거어디서나오는지알아냈다면이슈에올려주시거나디스코드jinyoon으로연락주세요왜냐하면이게어디서나오는지진짜모르겠거든요",
+        "mirrored from": "거울됨 :",
+        "forked": "을(를) 갈라놓았습니다",
+        "from": "원본으로부터",
         "for": "",
-        "pushed to": "푸시됨 :",
-        "released": "에서 새로 릴리즈했어요",
-        "published": "님이 공개했어요",
-        "started sponsoring": "을(를) 후원하기 시작했어요",
-        "started following": "을(를) 팔로우하기 시작했어요",
+        "pushed to": "밀기됨 :",
+        "released": "에서 새로 출시하였습니다",
+        "published": "동지가 공개하였습니다",
+        "started sponsoring": "을(를) 후원하기 시작하였습니다",
+        "started following": "을(를) 따르기 시작하였습니다",
         "you": "나",
-        "Updated": "업데이트 :",
-        "a repository": "저장소",
-        "has a new repository": "에게 새 저장소가 있어요",
-        "created a repository": "님이 새 저장소를 만들었어요",
-        "created a branch in": "님이 새 분기를 만들었어요 :",
-        "in": ":", //쀐
-        "Forked to": "포크했어요", //쀐
+        "Updated": "갱신 :",
+        "a repository": "저장고",
+        "has a new repository": "에게 새 저장고가 있습니다",
+        "created a repository": "동지가 새 저장고를 만들었습니다",
+        "created a branch in": "동지가 새 가지를 만들었습니다 :",
+        "in": ":", 
+        "Forked to": "갈라놓았습니다", 
         "of": "",
-        "made": "만들었어요", //쀐
+        "made": "만들었습니다", 
         "public": "공개", 
-        "committed": "님이 커밋했어요",
-        "posted a discussion in": "님이 토론을 열었어요 :",
-        "made this repository public": "님이 이 저장소를 공개로 설정했어요",
-        "labeled a pull request": "님이 끌어오기 요청을 라벨했어요",
-        "launched their sponsorship page 💖": "이(가) 새 후원 페이지를 열었어요 💖",
+        "committed": "동지가 위탁하였습니다",
+        "posted a discussion in": "동지가 토론을 열었습니다 :",
+        "made this repository public": "동지가 이 저장고를 공개로 설정하였습니다",
+        "labeled a pull request": "동지가 끌기요청을 표식하였습니다",
+        "launched their sponsorship page 💖": "이(가) 새 후원페지를 열었습니다 💖",
         //[/and (\d+) more/, "和另外 $1 个"],
-        "All reactions": "모든 반응",
+        "All reactions": "모든 반응들",
 
-        "published a release": "님이 릴리즈를 공개했어요",
-        "forked a repository": "님이 저장소를 포크했어요",
-        "starred a repository": "님이 저장소에 별표했어요",
-        "sponsored": "님이 후원했어요",
-        "followed": "님이 다른 사용자를 팔로우했어요.",
-        "added a repository to": "목록에 추가했어요",
-        "contributed to": "님이 기여했어요",
+        "published a release": "동지가 출시를 공개하였습니다",
+        "forked a repository": "동지가 저장고를 갈라놓았습니다",
+        "starred a repository": "동지가 저장고에 별표하였습니다",
+        "sponsored": "동지가 후원하였습니다",
+        "followed": "동지가 다른 사용자를 따랐습니다.",
+        "added a repository to": "목록에 추가하였습니다",
+        "contributed to": "동지가 기여하였습니다",
             // 现在会显示拉取请求状态
             "Merged": "병합됨",
 
-        "your repository": "내 저장소",
+        "your repository": "내 저장고",
 
         "Read more": "더 보기",
 
         "More": "더 보기",
-        "Loading more…": "불러오는 중…",
+        "Loading more…": "불러오는중…",
 
-        "Subscribe to your news feed": "뉴스 피드 구독하기",
+        "Subscribe to your news feed": "뉴스공급 구독하기",
         "Subscribe to the": "구독하기", // 조직
-        "organization news feed": "조직의 뉴스 피드", // 조직
+        "organization news feed": "조직의 뉴스공급", // 조직
       
         // 홈페이지에 있는 저장소의 3점 메뉴
-        "Feed item options": "피드 항목 옵션",
-        "You're seeing this because of your activity.": "사용자님의 활동 때문에 이 메시지가 보이고 있어요.",
+        "Feed item options": "공급항목 선택들",
+        "You're seeing this because of your activity.": "당신의 활동때문에 이 통지가 보이고 있습니다.",
         "Show less activity like this": "이런 활동 덜 보기",
         // [/You're seeing this because you collaborated with ([^ ]+)/, "사용자님의 활동 때문에 $1와 협업했기 때문이에요"],
         // [/You're seeing this because you starred ([^ ]+)/, "사용자님의 활동 때문에 $1에 별표를 눌렀기 때문이에요"],
-        "Unstar this repository": "이 저장소 별표 취소하기",
+        "Unstar this repository": "이 저장고 별표취소하기",
         // [/You're seeing this because you follow ([^ ]+)/, "사용자님의 활동 때문에 $1를 팔로우했기 때문이에요"],
-        "Unfollow this user": "이 사용자 팔로우 취소하기",
+        "Unfollow this user": "이 사용자 따르기취소하기",
       
-        "Contributors": "기여자",
+        "Contributors": "기여자들",
         "Report": "신고하기",
-        "Recommended for you": "사용자님을 위해 준비했어요",
-        "Trending repositories": "유행하는 저장소",
+        "Recommended for you": "당신을 위해 준비하였습니다",
+        "Trending repositories": "유행하는 저장고들",
         "See more": "더 보기",
-        "You're seeing this based on GitHub-wide trends.": "이 메시지는 GitHub 전반의 트렌드를 바탕으로 보여드리고 있어요.",
-        "Recommended based on people you follow": "팔로우 중인 사람들을 기준으로 추천드려요.",
-        "has a new discussion in": "새로운 토론이 있어요 :",
-        "Join discussion": "토론 참여하기",
-        "Popular among": "인기 있어요",
-        "people you follow": "내가 팔로우하는 사람들",
+        "You're seeing this based on GitHub-wide trends.": "이 통지는 GitHub 전반의 동향을 토대로 보여드리고 있습니다.",
+        "Recommended based on people you follow": "따르고있는 사람들을 기준으로 추천드립니다.",
+        "has a new discussion in": "새로운 토론이 있습니다 :",
+        "Join discussion": "토론참여하기",
+        "Popular among": "인기있습니다",
+        "people you follow": "내가 따르는 사람들",
         "Sponsor": "후원하기",
       
         // 오른쪽 사이드바
-        "Latest changes": "최근 변경 사항",
-        "View changelog →": "변경 로그 보기 →",
-        "Explore repositories": "저장소 둘러보기",
-        "Explore more →": "더 둘러보기 →",
+        "Latest changes": "최근변경사항들",
+        "View changelog →": "변경일지 보기 →",
+        "Explore repositories": "저장고들 돌아보기",
+        "Explore more →": "더 돌아보기 →",
       
-        "Member statuses": "멤버 상태", // 조직
+        "Member statuses": "성원상태들", // 조직
       
         // 대시보드 우측 상단 패널
-        "The world’s fair of software is here.": "세계 소프트웨어 박람회가 여기 있어요.",
-        "The GitHub Universe call for sessions is now open! Apply to share your expertise by submitting a session proposal today. Plus, get 35% off your tickets to GitHub Universe only for a limited time.": "GitHub Universe 세션 제안 접수가 지금 열려 있어요! 오늘 바로 세션 제안을 제출해서 전문 지식을 공유해보세요. 또한, 한정 기간 동안 GitHub Universe 티켓을 35% 할인된 가격에 구입할 수 있어요.",
+        "The world's fair of software is here.": "세계소프트웨어박람회가 여기 있습니다.",
+        "The GitHub Universe call for sessions is now open! Apply to share your expertise by submitting a session proposal today. Plus, get 35% off your tickets to GitHub Universe only for a limited time.": "GitHub Universe 회의제안 접수가 지금 열려있습니다! 오늘 바로 회의제안을 제출해서 전문지식을 공유하십시오. 또한, 한정기간동안 GitHub Universe 표를 35% 할인된 가격에 구입할수 있습니다.",
       
         // 교육 대시보드 (교육 패키지 신청 시 제공)
-        "Learn. Collaborate. Grow.": "배우고, 협업하고, 성장해요.",
-        "GitHub Education gives you the tools and community support to take on tech challenges and turn them into opportunities. Your future in tech starts here!": "GitHub Education은 기술 도전을 기회로 바꿀 수 있도록 도구와 커뮤니티 지원을 제공해요. 기술 분야에서의 사용자님의 미래는 여기서 시작돼요!",
+        "Learn. Collaborate. Grow.": "학습하고, 협력하고, 성장하십시오.",
+        "GitHub Education gives you the tools and community support to take on tech challenges and turn them into opportunities. Your future in tech starts here!": "GitHub 교육은 기술도전들을 기회로 바꿀수 있도록 도구들과 공동체지원을 제공합니다. 기술분야에서의 당신의 미래는 여기서 시작됩니다!",
         "Go to GitHub Education": "GitHub 교육으로 이동하기",
       
         // 사용자 플로팅 정보 카드
-        "Member of": "소속 조직",
+        "Member of": "소속조직",
         // [/, and (\d+) more/, "그리고 추가로 $1개의 조직"],
       
         // 조직 플로팅 정보 카드
         // [/(\d+) repositor(y|ies)/, "$1개의 저장소"],
         // [/(\d+) members?/, "$1명의 멤버"],
       
-        "Switch dashboard context": "기본 아이덴티티 전환하기", // 조직
-        "Manage organizations": "조직 관리하기", // 조직
+        "Switch dashboard context": "기본정체성 전환하기", // 조직
+        "Manage organizations": "조직들 관리하기", // 조직
         "Create organization": "조직 만들기", // 조직
       
         // 처음 조직에 가입했을 때 알림
-        "You’ve been added to the": "(경) 조직에 |",
-        "organization!": "| 초대 되셨어요! (축)",
-        "Here are some quick tips for a first-time organization member.": "처음 조직에 가입한 분들을 위한 간단한 팁이에요.",
-        "Use the switch context button in the upper left corner of this page to switch between your personal context (": "이 페이지 왼쪽 상단의 전환 버튼을 사용하여 개인 아이덴티티 (",
-        ") and organizations you are a member of.": ")와 소속 조직 아이덴티티 사이를 전환할 수 있어요.",
-        "After you switch contexts you’ll see an organization-focused dashboard that lists out organization repositories and activities.": "아이덴티티를 전환하면 조직 저장소와 활동이 나열된 조직 중심의 대시보드를 보실 수 있어요.",
+        "You've been added to the": "(경) 조직에 |",
+        "organization!": "| 초대되였습니다! (축)",
+        "Here are some quick tips for a first-time organization member.": "처음 조직에 가입한 분들을 위한 간단한 팁입니다.",
+        "Use the switch context button in the upper left corner of this page to switch between your personal context (": "이 페지 왼쪽상단의 전환단추를 사용하여 개인정체성 (",
+        ") and organizations you are a member of.": ")와 소속조직정체성 사이를 전환할수 있습니다.",
+        "After you switch contexts you'll see an organization-focused dashboard that lists out organization repositories and activities.": "정체성을 전환하면 조직저장고들과 활동들이 나열된 조직중심의 조종판을 보실수 있습니다.",
       
         // 단축키
-        "Dashboards": "대시보드",
-        "Go to your issues": "내 이슈로 이동하기",
-        "Go to your pull requests": "내 끌어오기 요청으로 이동하기",
+        "Dashboards": "조종판들",
+        "Go to your issues": "내 문제들로 이동하기",
+        "Go to your pull requests": "내 끌기요청들로 이동하기",
     },
-    "regexp": [ // 正则翻译
-        [/added (\d+) repositor(y|ies) to/, "저장소 $1개를 추가하기"],
-        [/, and (\d+) more/, "，그리고 다른 $1개의 조직"], // 사용자 플로팅 정보 카드
-        [/(\d+) repositor(y|ies)/, "저장소 $1개"], // 조직 플로팅 정보 카드
-        [/(\d+) of your repositor(y|ies)/, "사용자님의 $1개의 저장소"],
-        [/(\d+) members?/, "$1 명의 멤버"], // 조직 플로팅 정보 카드
-        [/is being deleted./, "삭제 중이에요."], // 저장소 및 조직 삭제 중
-        [/Your repository \"([^ ]+)\" was successfully deleted./, "사용자님의 저장소 “$1”가 성공적으로 삭제되었어요."], // 저장소 삭제
-        [/(\d+) releases?/, "$1 개의 릴리즈"],
-        [/(\d+k?) followers?/, "팔로워 $1명"],
-        [/(\d+) users?/, "$1명의 사용자"],
-        [/(\d+) comments?/, "$1 개의 댓글"],
-        [/(\d+) commits? to/, "$1 개의 커밋을"],
-        [/(\d+) more commits? »/, "$1 개의 추가 커밋을"],
-        [/(\d+) issues? needs? help/, "$1 개의 이슈에 도움이 필요해요"],
-        [/Join discussion/, "토론에 참여하기"],
+    "regexp": [ // 정규번역
+        [/added (\d+) repositor(y|ies) to/, "저장고 $1개를 추가하기"],
+        [/, and (\d+) more/, "，그리고 다른 $1개의 조직들"], // 사용자 플로팅 정보 카드
+        [/(\d+) repositor(y|ies)/, "저장고 $1개"], // 조직 플로팅 정보 카드
+        [/(\d+) of your repositor(y|ies)/, "당신의 $1개의 저장고들"],
+        [/(\d+) members?/, "$1 명의 성원들"], // 조직 플로팅 정보 카드        [/is being deleted./, "삭제중입니다."], // 저장소 및 조직 삭제 중
+        [/Your repository \"([^ ]+)\" was successfully deleted./, "당신의 저장고 \"$1\"가 성공적으로 삭제되였습니다."], // 저장소 삭제
+        [/(\d+) releases?/, "$1 개의 출시들"],
+        [/(\d+k?) followers?/, "따르는이 $1명"],
+        [/(\d+) users?/, "$1명의 사용자들"],
+        [/(\d+) comments?/, "$1 개의 평들"],
+        [/(\d+) commits? to/, "$1 개의 위탁들을"],
+        [/(\d+) more commits? »/, "$1 개의 추가위탁들을"],
+        [/(\d+) issues? needs? help/, "$1 개의 문제들에 도움이 필요합니다"],
+        [/Join discussion/, "토론에 참가하기"],
         // [/Updated/, "업데이트됨"],
-        [/You’re an owner of the ([^ ]+) organization!/, "사용자님은 $1 조직의 소유자에요!"], // 조직
-        [/Create a repository for ([^ ]+)/, "$1 을 위해 저장소 만들기"], // 조직
-        [/Edit ([^ ]+)’s settings/, "$1 의 설정 편집하기"], // 조직
-        [/Check out ([^ ]+)’s public profile/, "$1 의 공개 프로필 보기"], // 조직
+        [/You're an owner of the ([^ ]+) organization!/, "당신은 $1 조직의 소유자입니다!"], // 조직
+        [/Create a repository for ([^ ]+)/, "$1 을 위해 저장고 만들기"], // 조직
+        [/Edit ([^ ]+)'s settings/, "$1 의 설정편집하기"], // 조직
+        [/Check out ([^ ]+)'s public profile/, "$1 의 공개개인자료 보기"], // 조직
         [/and (\d+) more/, "그리고 $1개 더"],
-        [/You're seeing this because you collaborated with ([^ ]+)/, "이 메시지가 보이는 이유는 $1 과(와) 협업했기 때문이에요"],
-        [/You're seeing this because you starred ([^ ]+)/, "이 메시지가 보이는 이유는 $1 에 별표를 눌렀기 때문이에요"],
-        [/You're seeing this because you follow ([^ ]+)/, "이 메시지가 보이는 이유는 $1 을 팔로우했기 때문이에요"],
-        [/You and/, "사용자님과"],
+        [/You're seeing this because you collaborated with ([^ ]+)/, "이 통지가 보이는 리유는 $1 과(와) 협력했기때문입니다"],
+        [/You're seeing this because you starred ([^ ]+)/, "이 통지가 보이는 리유는 $1 에 별표를 눌렀기때문입니다"],
+        [/You're seeing this because you follow ([^ ]+)/, "이 통지가 보이는 리유는 $1 을 따랐기때문입니다"],
+        [/You and/, "당신과"],
         [/You reacted with (thumbs up|thumbs down|laugh|hooray|confused|heart|rocket|eyes)/, function (all, reacted) {
             var reactedKey = {
                 'thumbs up': "좋아요",
@@ -1978,12 +1973,12 @@ I18N["ko-KR"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
                 laugh: "웃음",
                 hooray: "환호",
                 confused: "혼란",
-                heart: "하트",
-                rocket: "로켓",
+                heart: "심장",
+                rocket: "로케트",
                 eyes: "관심"
             };
 
-            return '사용자님' + reactedKey[reacted];
+            return '당신' + reactedKey[reacted];
         }],
         [/(\d+) (?:people|person) reacted with (thumbs up|thumbs down|laugh|hooray|confused|heart|rocket|eyes)/, function (all, number, reacted) {
             var reactedKey = {
@@ -1992,28 +1987,28 @@ I18N["ko-KR"]["page-dashboard"] = { // 已登录的首页 - 仪表板（含组�
                 laugh: "웃음",
                 hooray: "환호",
                 confused: "혼란",
-                heart: "하트",
-                rocket: "로켓",
+                heart: "심장",
+                rocket: "로케트",
                 eyes: "관심"
             };
 
             return number + ' 명' + reactedKey[reacted];
         }],
-        [/Support ([^ ]+)'s open source work/, "​$1 의 오픈 소스 작업 지원하기"],
-        [/Start a new repository for/, "새 저장소 만들기:"],
-        [/([^ ]+) requested changes, you commented/, "$1 가 변경 요청을 했고, 사용자님은 댓글을 남겼어요."], // 끌어오기 요청 플로팅 정보 카드
+        [/Support ([^ ]+)'s open source work/, "​$1 의 공개원천작업 지원하기"],
+        [/Start a new repository for/, "새 저장고 만들기:"],
+        [/([^ ]+) requested changes, you commented/, "$1 가 변경요청을 했고, 당신은 평을 남겼습니다."], // 끌어오기 요청 플로팅 정보 카드
         // 상단 알림
         // 후임자 관련
-        [/You are now the designated successor for ([^ ]+)'s account./, "사용자님은 이제 $1 의 지정 후임자가 되었어요."],
-        [/You have declined to become the designated successor for ([^ ]+)'s account./, "사용자님은 이미 $1 계정의 지정 후임자가 되는 것을 거절하셨어요."],
+        [/You are now the designated successor for ([^ ]+)'s account./, "당신은 이제 $1 의 지정후임자가 되였습니다."],
+        [/You have declined to become the designated successor for ([^ ]+)'s account./, "당신은 이미 $1 계정의 지정후임자가 되는것을 거절하였습니다."],
         // 끌어오기 요청 상태
-        [/merged (\d+) commits?/, "커밋 $1개가 병합되었어요."],
+        [/merged (\d+) commits?/, "위탁 $1개가 병합되였습니다."],
     ],
 };
-I18N["ko-KR"]["dashboard"] = I18N["ko-KR"]["page-dashboard"];
-I18N["ko-KR"]["orgs/dashboard"] = I18N["ko-KR"]["page-dashboard"];
+I18N["ko-KP"]["dashboard"] = I18N["ko-KP"]["page-dashboard"];
+I18N["ko-KP"]["orgs/dashboard"] = I18N["ko-KP"]["page-dashboard"];
 
-I18N["ko-KR"]["page-profile-public"] = { // 个人首页（含组织）
+I18N["ko-KP"]["page-profile-public"] = { // 个人首页（含组织）
     "static": { // 静态翻译
         // 左侧用户信息栏
         "Change your avatar": "아바타 변경하기",
@@ -2185,13 +2180,13 @@ I18N["ko-KR"]["page-profile-public"] = { // 个人首页（含组织）
         }],
     ],
 };
-I18N["ko-KR"]["page-profile/achievements"] = I18N["ko-KR"]["page-profile-public"]; // ?tab=achievements
-I18N["ko-KR"]["page-profile/followers"] = I18N["ko-KR"]["page-profile-public"]; // ?tab=followers
-I18N["ko-KR"]["page-profile/following"] = I18N["ko-KR"]["page-profile-public"]; // ?tab=following
+I18N["ko-KP"]["page-profile/achievements"] = I18N["ko-KP"]["page-profile-public"]; // ?tab=achievements
+I18N["ko-KP"]["page-profile/followers"] = I18N["ko-KP"]["page-profile-public"]; // ?tab=followers
+I18N["ko-KP"]["page-profile/following"] = I18N["ko-KP"]["page-profile-public"]; // ?tab=following
 
-I18N["ko-KR"]["page-profile"] = { // 个人首页
+I18N["ko-KP"]["page-profile"] = { // 个人首页
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
 
             // 概述标签卡 即主页 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             "Customize your pins": "고정 항목 맞춤 설정하기",
@@ -2307,7 +2302,7 @@ I18N["ko-KR"]["page-profile"] = { // 个人首页
         [/([\d,]+) contributions? in (\d+)/, "$2년에 $1회 기여했어요."],
         [/(\d+) contributions? in private repositor(y|ies)/, "비공개 저장소에서 $1회 기여했어요."],
         [/(\d+|No) contribution(?:s)? on (.+)(?:st|nd|rd|th)./, (match, number, p1) => {
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             //return optKey[opt] + `${translatedDate}`;
             return number === 'No' ? `${translatedDate}，기여 없어요` : `${translatedDate}，` + number + `회 기여했어요`;
@@ -2363,11 +2358,11 @@ I18N["ko-KR"]["page-profile"] = { // 个人首页
         [/coauthored commits on merged pull requests./, "병합된 끌어오기 요청에서 다른 사람과 함께 커밋했어요."], // 페어 엑스트라오디네어
     ],
 };
-I18N["ko-KR"]["page-profile/overview"] = I18N["ko-KR"]["page-profile"];
+I18N["ko-KP"]["page-profile/overview"] = I18N["ko-KP"]["page-profile"];
 
-I18N["ko-KR"]["page-profile/repositories"] = { // 个人首页 - 仓库标签卡
+I18N["ko-KP"]["page-profile/repositories"] = { // 个人首页 - 仓库标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
 
         // 仓库标签卡 ?tab=repositories >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2536,16 +2531,16 @@ I18N["ko-KR"]["page-profile/repositories"] = { // 个人首页 - 仓库标签卡
         [/Your repository \"([^ ]+)\" was successfully deleted./, "사용자님의 저장소 “$1”가 성공적으로 삭제되었어요."],
         [/(\d+) issues? needs? help/, "$1 개 이슈가 도움이 필요해요."],
         [/and (\d+) more/, "등 $1 명"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
     "selector": [ // 元素筛选器规则
         ["#type-options > summary > span:nth-child(1)", "유형"], // 个人主页 --> 仓库标签页-->类型筛选器 Type
     ],
 };
 
-I18N["ko-KR"]["page-profile/projects"] = { // 个人首页- 项目标签卡
+I18N["ko-KP"]["page-profile/projects"] = { // 个人首页- 项目标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
 
         // 项目标签卡 ?tab=projects >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             "There aren't any projects yet": "아직 아무 프로젝트도 없네요",
@@ -2700,13 +2695,13 @@ I18N["ko-KR"]["page-profile/projects"] = { // 个人首页- 项目标签卡
         [/View (\d+)/, "视图 $1"],
         [/([\d,]+) Open/, "$1 打开"], // 项目标签卡
         [/([\d,]+) Closed/, "$1 已关闭"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["page-profile/sponsoring"] = { // 个人首页- 赞助标签卡
+I18N["ko-KP"]["page-profile/sponsoring"] = { // 个人首页- 赞助标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
             "has sponsored": "님이 후원함 :",
             "organization or maintainer in the past": "과거의 조직 혹은 유지 관리자",
             "organization or maintainer": "조직 혹은 유지 관리자",
@@ -2726,9 +2721,9 @@ I18N["ko-KR"]["page-profile/sponsoring"] = { // 个人首页- 赞助标签卡
     ],
 };
 
-I18N["ko-KR"]["page-profile/packages"] = { // 个人首页 - 软件包标签卡
+I18N["ko-KP"]["page-profile/packages"] = { // 个人首页 - 软件包标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
 
         // 软件包标签卡 ?tab=packages >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             "Get started with GitHub Packages": "开始使用 GitHub 软件包",
@@ -2769,13 +2764,13 @@ I18N["ko-KR"]["page-profile/packages"] = { // 个人首页 - 软件包标签卡
         [/(\d+) packages?/, "$1 软件包"],
         [/(\d+) repositor(y|ies)/, "$1 个仓库"],
         [/(\d+) members?/, "$1 成员"], // 组织 浮动信息卡
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["page-profile/sponsors"] = { // 个人首页 - 赞助标签卡
+I18N["ko-KP"]["page-profile/sponsors"] = { // 个人首页 - 赞助标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
 
         // 赞助标签卡 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             // [/is sponsoring/, "正在赞助"],
@@ -2788,9 +2783,9 @@ I18N["ko-KR"]["page-profile/sponsors"] = { // 个人首页 - 赞助标签卡
     ],
 };
 
-I18N["ko-KR"]["page-profile/stars"] = { // 个人首页 - 星标标签卡
+I18N["ko-KP"]["page-profile/stars"] = { // 个人首页 - 星标标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["page-profile-public"]["static"],
+        ...I18N["ko-KP"]["page-profile-public"]["static"],
 
         // 星标标签卡 ?tab=stars >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             "Show all lists...": "显示所有列表...",
@@ -2902,7 +2897,7 @@ I18N["ko-KR"]["page-profile/stars"] = { // 个人首页 - 星标标签卡
     ],
 };
 
-I18N["ko-KR"]["confirm-access"] = { // “授权访问” 对话框
+I18N["ko-KP"]["confirm-access"] = { // “授权访问” 对话框
     "static": { // 静态翻译
         // 授权访问 sudo 模式身份验证
             "Confirm access": "접근 확인",
@@ -2943,7 +2938,7 @@ I18N["ko-KR"]["confirm-access"] = { // “授权访问” 对话框
     },
 };
 
-I18N["ko-KR"]["settings-menu"] = { // 设置 - 公共部分
+I18N["ko-KP"]["settings-menu"] = { // 设置 - 公共部分
     "static": { // 静态翻译
         "Settings": "설정", // 新版全局导航
 
@@ -2996,13 +2991,13 @@ I18N["ko-KR"]["settings-menu"] = { // 设置 - 公共部分
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs-settings-menu"] = { // 组织设置 公共部分
+I18N["ko-KP"]["orgs-settings-menu"] = { // 组织设置 公共部分
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-public"]["static"],
+        ...I18N["ko-KP"]["orgs-public"]["static"],
 
         // 公用部分
             "Organization": "조직",
@@ -3073,13 +3068,13 @@ I18N["ko-KR"]["orgs-settings-menu"] = { // 组织设置 公共部分
             "Developer Settings": "개발자 설정"
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["settings/profile"] = { // 设置 - 个人资料
+I18N["ko-KP"]["settings/profile"] = { // 设置 - 个人资料
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Profile 个人资料 https://github.com/settings/profile
             "Public profile": "프로필",
@@ -3198,11 +3193,11 @@ I18N["ko-KR"]["settings/profile"] = { // 设置 - 个人资料
     "regexp": [ // 正则翻译
     ],
 };
-I18N["ko-KR"]["settings"] = I18N["ko-KR"]["settings/profile"];
+I18N["ko-KP"]["settings"] = I18N["ko-KP"]["settings/profile"];
 
-I18N["ko-KR"]["settings/admin"] = { // 设置 - 账户
+I18N["ko-KP"]["settings/admin"] = { // 设置 - 账户
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
             // Account settings 账户设置 https://github.com/settings/admin
             "Change username": "사용자 이름 변경하기",
@@ -3330,7 +3325,7 @@ I18N["ko-KR"]["settings/admin"] = { // 设置 - 账户
     ],
 };
 
-I18N["ko-KR"]["succession/invitation"] = {
+I18N["ko-KP"]["succession/invitation"] = {
     "static": {
       // 초대받은 사용자
       "invited you to be their account successor": "계정 승계자로 초대받았어요",
@@ -3365,9 +3360,9 @@ I18N["ko-KR"]["succession/invitation"] = {
 };
   
 
-I18N["ko-KR"]["settings/appearance"] = { // 设置 - 外观
+I18N["ko-KP"]["settings/appearance"] = { // 设置 - 外观
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Appearance 外观 https://github.com/settings/appearance
             "Theme preferences": "테마 환경설정",
@@ -3408,9 +3403,9 @@ I18N["ko-KR"]["settings/appearance"] = { // 设置 - 外观
     ],
 };
 
-I18N["ko-KR"]["settings/accessibility"] = { // 设置 - 无障碍
+I18N["ko-KP"]["settings/accessibility"] = { // 设置 - 无障碍
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Accessibility 无障碍 https://github.com/settings/accessibility
         "GitHub keyboard shortcuts": "GitHub 키보드 단축키",
@@ -3480,9 +3475,9 @@ I18N["ko-KR"]["settings/accessibility"] = { // 设置 - 无障碍
     ],
 };
 
-I18N["ko-KR"]["settings/notifications"] = { // 设置 - 通知
+I18N["ko-KP"]["settings/notifications"] = { // 设置 - 通知
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Notification center 通知 https://github.com/settings/notifications
             "Default notifications email": "기본 알림 이메일 설정",
@@ -3571,10 +3566,10 @@ I18N["ko-KR"]["settings/notifications"] = { // 设置 - 通知
     ],
 };
 
-I18N["ko-KR"]["settings/billing"] = { // 设置 - 账单和计划
+I18N["ko-KP"]["settings/billing"] = { // 设置 - 账单和计划
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"], // 组织设置
+        ...I18N["ko-KP"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"], // 组织设置
 
         // 상단 알림
         "Successfully updated billing information.": "결제 정보가 성공적으로 업데이트되었어요.",
@@ -4077,27 +4072,27 @@ I18N["ko-KR"]["settings/billing"] = { // 设置 - 账单和计划
         //[/Due by (.+)/, "$1 마감"],
         [/(Due by|On|Expires) (.+)/, (match, opt, p1) => {
             var optKey = {"Due by": "마감", "On": "시작", "Expires": "만료"};
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `${translatedDate}` + optKey[opt];
         }],
         [/until (.+)./, (match, p1) => { // p1은 (.+) 이에요.
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `까지 ${translatedDate}.`; // 여기에 번역 결과를 작성해요.
         }],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["account/billing/history"] = I18N["ko-KR"]["settings/billing"];
-I18N["ko-KR"]["orgs/settings/billing"] = I18N["ko-KR"]["settings/billing"];
-I18N["ko-KR"]["orgs/billing_managers/new"] = I18N["ko-KR"]["settings/billing"];
-I18N["ko-KR"]["orgs/billing/history"] = I18N["ko-KR"]["settings/billing"];
-I18N["ko-KR"]["orgs/billing/plans"] = I18N["ko-KR"]["settings/billing"];
+I18N["ko-KP"]["account/billing/history"] = I18N["ko-KP"]["settings/billing"];
+I18N["ko-KP"]["orgs/settings/billing"] = I18N["ko-KP"]["settings/billing"];
+I18N["ko-KP"]["orgs/billing_managers/new"] = I18N["ko-KP"]["settings/billing"];
+I18N["ko-KP"]["orgs/billing/history"] = I18N["ko-KP"]["settings/billing"];
+I18N["ko-KP"]["orgs/billing/plans"] = I18N["ko-KP"]["settings/billing"];
 
-I18N["ko-KR"]["settings/emails"] = { // 设置 - 电子邮箱
+I18N["ko-KP"]["settings/emails"] = { // 设置 - 电子邮箱
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 이메일 电子邮箱 https://github.com/settings/emails
             // 노란색 경고 상자
@@ -4191,10 +4186,10 @@ I18N["ko-KR"]["settings/emails"] = { // 设置 - 电子邮箱
     ],
 };
 
-I18N["ko-KR"]["settings/security"] = { // 설정 - 비밀번호와 인증
+I18N["ko-KP"]["settings/security"] = { // 설정 - 비밀번호와 인증
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
-        ...I18N["ko-KR"]["confirm-access"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["confirm-access"]["static"],
 
         // 비밀번호와 인증 - 계정 보안 https://github.com/settings/security
             "Change password": "비밀번호 변경하기",
@@ -4350,7 +4345,7 @@ I18N["ko-KR"]["settings/security"] = { // 설정 - 비밀번호와 인증
     ],
 };
 
-I18N["ko-KR"]["settings/auth"] = {
+I18N["ko-KP"]["settings/auth"] = {
     "static": { // 정적 번역
 
         // 복구 코드 확인 https://github.com/settings/auth/recovery-codes
@@ -4383,9 +4378,9 @@ I18N["ko-KR"]["settings/auth"] = {
     ],
 };
 
-I18N["ko-KR"]["settings/sessions"] = {
+I18N["ko-KP"]["settings/sessions"] = {
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 세션 세부정보 https://github.com/settings/sessions
             "Web sessions": "웹 세션",
@@ -4422,9 +4417,9 @@ I18N["ko-KR"]["settings/sessions"] = {
     ],
 };
 
-I18N["ko-KR"]["settings/keys"] = { // 설정 - SSH 및 GPG 공개 키
+I18N["ko-KP"]["settings/keys"] = { // 설정 - SSH 및 GPG 공개 키
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // SSH와 GPG 키 https://github.com/settings/keys
             "SSH keys": "SSH 키",
@@ -4481,9 +4476,9 @@ I18N["ko-KR"]["settings/keys"] = { // 설정 - SSH 및 GPG 공개 키
     ],
 };
 
-I18N["ko-KR"]["settings/ssh"] = { // 설정 - SSH 및 GPG 공개 키 - SSH 공개 키 추가
+I18N["ko-KP"]["settings/ssh"] = { // 설정 - SSH 및 GPG 공개 키 - SSH 공개 키 추가
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // SSH 공개 키 추가 https://github.com/settings/ssh/new
             "Add new SSH Key": "새 SSH 키 추가하기",
@@ -4499,9 +4494,9 @@ I18N["ko-KR"]["settings/ssh"] = { // 설정 - SSH 및 GPG 공개 키 - SSH 공�
     ],
 };
 
-I18N["ko-KR"]["settings/gpg"] = { // 설정 - SSH 및 GPG 공개 키 - GPG 공개 키 추가
+I18N["ko-KP"]["settings/gpg"] = { // 설정 - SSH 및 GPG 공개 키 - GPG 공개 키 추가
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // GPG 공개 키 추가 https://github.com/settings/gpg/new
             "Add new GPG key": "새 GPG 키 추가하기",
@@ -4514,9 +4509,9 @@ I18N["ko-KR"]["settings/gpg"] = { // 설정 - SSH 및 GPG 공개 키 - GPG 공�
     ],
 };
 
-I18N["ko-KR"]["settings/organizations"] = { // 설정 - 조직
+I18N["ko-KP"]["settings/organizations"] = { // 설정 - 조직
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Organizations 조직 https://github.com/settings/organizations
             "You are not a member of any organizations.": "사용자님은 아직 어떠한 조직에도 소속되어 있지 않아요.",
@@ -4551,9 +4546,9 @@ I18N["ko-KR"]["settings/organizations"] = { // 설정 - 조직
     ],
 };
 
-I18N["ko-KR"]["settings/enterprises"] = { // 설정 - 기업
+I18N["ko-KP"]["settings/enterprises"] = { // 설정 - 기업
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 企业版 https://github.com/settings/enterprises
         "Enterprises": "기업",
@@ -4567,9 +4562,9 @@ I18N["ko-KR"]["settings/enterprises"] = { // 설정 - 기업
     ],
 };
 
-I18N["ko-KR"]["settings/blocked_users"] = { // 설정 - 차단된 사용자
+I18N["ko-KP"]["settings/blocked_users"] = { // 설정 - 차단된 사용자
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Blocked users 차단된 사용자 https://github.com/settings/blocked_users
             "Block a user": "사용자 차단하기",
@@ -4593,9 +4588,9 @@ I18N["ko-KR"]["settings/blocked_users"] = { // 설정 - 차단된 사용자
     ],
 };
 
-I18N["ko-KR"]["settings/interaction_limits"] = { // 설정 - 상호작용 제한
+I18N["ko-KP"]["settings/interaction_limits"] = { // 설정 - 상호작용 제한
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Interaction limits 상호작용 제한 https://github.com/settings/interaction_limits
             "Temporary interaction limits": "일시적인 상호작용 제한",
@@ -4630,9 +4625,9 @@ I18N["ko-KR"]["settings/interaction_limits"] = { // 설정 - 상호작용 제한
 };
 
 
-I18N["ko-KR"]["settings/code_review_limits"] = { // 설정 - 코드 리뷰 제한
+I18N["ko-KP"]["settings/code_review_limits"] = { // 설정 - 코드 리뷰 제한
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 상단 알림
             "Code review limit settings saved.": "코드 리뷰 제한 설정이 저장되었어요.",
@@ -4655,9 +4650,9 @@ I18N["ko-KR"]["settings/code_review_limits"] = { // 설정 - 코드 리뷰 제�
     ],
 };
 
-I18N["ko-KR"]["settings/repositories"] = { // 설정 - 저장소
+I18N["ko-KP"]["settings/repositories"] = { // 설정 - 저장소
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 저장소 https://github.com/settings/repositories
             "Repository default branch": "저장소 기본 분기",
@@ -4673,9 +4668,9 @@ I18N["ko-KR"]["settings/repositories"] = { // 설정 - 저장소
     ],
 };
 
-I18N["ko-KR"]["settings/deleted_repositories"] = { // 설정 - 저장소 - 삭제된 저장소
+I18N["ko-KP"]["settings/deleted_repositories"] = { // 설정 - 저장소 - 삭제된 저장소
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 삭제된 저장소 https://github.com/settings/deleted_repositories
             "Deleted repositories": "삭제된 저장소",
@@ -4704,9 +4699,9 @@ I18N["ko-KR"]["settings/deleted_repositories"] = { // 설정 - 저장소 - 삭�
     ],
 };
 
-I18N["ko-KR"]["settings/codespaces"] = { // 설정 - 코드스페이스
+I18N["ko-KP"]["settings/codespaces"] = { // 설정 - 코드스페이스
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 코드스페이스 https://github.com/settings/codespaces
             "Dotfiles": "도트파일",
@@ -4844,10 +4839,10 @@ I18N["ko-KR"]["settings/codespaces"] = { // 설정 - 코드스페이스
     ],
 };
 
-I18N["ko-KR"]["settings/packages"] = { // 설정 - 패키지
+I18N["ko-KP"]["settings/packages"] = { // 설정 - 패키지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"], // 조직 설정
+        ...I18N["ko-KP"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"], // 조직 설정
 
         // Packages 패키지 https://github.com/settings/packages
             "Packages permissions": "패키지 권한",
@@ -4877,14 +4872,14 @@ I18N["ko-KR"]["settings/packages"] = { // 설정 - 패키지
     },
     "regexp": [ // 정규식 번역
         [/No recoverable packages were found for ([^ ]+)./, "$1 에 대해 복원 가능한 패키지를 찾을 수 없어요."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/settings/packages"] = I18N["ko-KR"]["settings/packages"];
+I18N["ko-KP"]["orgs/settings/packages"] = I18N["ko-KP"]["settings/packages"];
 
-I18N["ko-KR"]["settings/copilot"] = { // 설정 - GitHub Copilot
+I18N["ko-KP"]["settings/copilot"] = { // 설정 - GitHub Copilot
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // GitHub Copilot https://github.com/settings/copilot
             "Trained on billions of lines of code,": "수십억 줄의 코드로 훈련되었어요,",
@@ -4986,10 +4981,10 @@ I18N["ko-KR"]["settings/copilot"] = { // 설정 - GitHub Copilot
     ],
 };
 
-I18N["ko-KR"]["settings/pages"] = { // 설정 - GitHub 페이지
+I18N["ko-KP"]["settings/pages"] = { // 설정 - GitHub 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"], // 조직 설정 메뉴
+        ...I18N["ko-KP"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"], // 조직 설정 메뉴
 
         // GitHub Pages https://github.com/settings/pages
             "Verified domains": "인증된 도메인",
@@ -5027,14 +5022,14 @@ I18N["ko-KR"]["settings/pages"] = { // 설정 - GitHub 페이지
     },
     "regexp": [ // 정규식 번역
         [/Successfully verified/, "성공적으로 인증되었어요"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/settings/pages"] = I18N["ko-KR"]["settings/pages"];
+I18N["ko-KP"]["orgs/settings/pages"] = I18N["ko-KP"]["settings/pages"];
 
-I18N["ko-KR"]["settings/replies"] = { // 설정 - 빠른 답글
+I18N["ko-KP"]["settings/replies"] = { // 설정 - 빠른 답글
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Saved replies 빠른 답글 https://github.com/settings/replies
             "Saved replies are re-usable text snippets that you can use throughout GitHub comment fields. Saved replies can save you time if you’re often typing similar responses.": "빠른 답글은 GitHub 댓글 입력란에서 반복 사용 가능한 텍스트 스니펫이에요. 비슷한 답글을 자주 입력하신다면, 빠른 답글을 사용해 시간을 절약할 수 있어요.",
@@ -5055,9 +5050,9 @@ I18N["ko-KR"]["settings/replies"] = { // 설정 - 빠른 답글
     ],
 };
 
-I18N["ko-KR"]["settings/security_analysis"] = { // 설정 - 코드 보안 및 분석
+I18N["ko-KP"]["settings/security_analysis"] = { // 설정 - 코드 보안 및 분석
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 코드 보안 및 분석 https://github.com/settings/security_analysis
             "Security and analysis features help keep your repositories secure and updated. By enabling these features, you're granting us permission to perform read-only analysis on your repositories.":
@@ -5241,10 +5236,10 @@ I18N["ko-KR"]["settings/security_analysis"] = { // 설정 - 코드 보안 및 �
     ],
 };
 
-I18N["ko-KR"]["settings/installations"] = { // 설정 - GitHub 앱/설치
+I18N["ko-KP"]["settings/installations"] = { // 설정 - GitHub 앱/설치
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         "Installed GitHub Apps": "설치된 GitHub 앱",
         "Authorized GitHub Apps": "승인된 GitHub 앱",
@@ -5446,18 +5441,18 @@ I18N["ko-KR"]["settings/installations"] = { // 설정 - GitHub 앱/설치
         [/The (.*) app will retain its current permissions if you choose not to accept the new permissions./, "새로운 권한을 수락하지 않으시면, “$1” 앱은 현재 권한을 유지할 거예요."],
         [/(.*) is authorized to access this organization’s resources/, "$1 은(는) 이 조직의 자원에 접근할 수 있도록 승인되었어요."],
         [/(.*) is denied access this organization’s resources/, "$1 은(는) 이 조직의 자원 접근이 거부되었어요."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["settings/apps/authorizations"] = I18N["ko-KR"]["settings/installations"];
-I18N["ko-KR"]["settings/applications"] = I18N["ko-KR"]["settings/installations"];
-I18N["ko-KR"]["settings/connections/applications"] = I18N["ko-KR"]["settings/installations"];
-I18N["ko-KR"]["orgs/settings/installations"] = I18N["ko-KR"]["settings/installations"];
-I18N["ko-KR"]["orgs/policies/applications"] = I18N["ko-KR"]["settings/installations"];
+I18N["ko-KP"]["settings/apps/authorizations"] = I18N["ko-KP"]["settings/installations"];
+I18N["ko-KP"]["settings/applications"] = I18N["ko-KP"]["settings/installations"];
+I18N["ko-KP"]["settings/connections/applications"] = I18N["ko-KP"]["settings/installations"];
+I18N["ko-KP"]["orgs/settings/installations"] = I18N["ko-KP"]["settings/installations"];
+I18N["ko-KP"]["orgs/policies/applications"] = I18N["ko-KP"]["settings/installations"];
 
-I18N["ko-KR"]["settings/reminders"] = { // 설정 - 예약 알림
+I18N["ko-KP"]["settings/reminders"] = { // 설정 - 예약 알림
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 예약 알림 https://github.com/settings/reminders
             "Reminders allow you to push certain events to authorized instances of Microsoft Teams or Slack.": "예약 알림을 사용하면 Microsoft Teams나 Slack의 권한 있는 인스턴스로 특정 이벤트를 전송할 수 있어요.",
@@ -5500,9 +5495,9 @@ I18N["ko-KR"]["settings/reminders"] = { // 설정 - 예약 알림
     ],
 };
 
-I18N["ko-KR"]["settings/security-log"] = { // 설정 - 보안 로그
+I18N["ko-KP"]["settings/security-log"] = { // 설정 - 보안 로그
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // 보안 로그 https://github.com/settings/security-log
             "Loading audit log entries…": "감사 로그 항목을 불러오는 중이에요...",
@@ -5563,9 +5558,9 @@ I18N["ko-KR"]["settings/security-log"] = { // 설정 - 보안 로그
     ],
 };
 
-I18N["ko-KR"]["settings/sponsors-log"] = { // 설정 - 후원 로그
+I18N["ko-KP"]["settings/sponsors-log"] = { // 설정 - 후원 로그
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings-menu"]["static"],
+        ...I18N["ko-KP"]["settings-menu"]["static"],
 
         // Sponsorship log 후원 로그 https://github.com/settings/sponsors-log
             "Sponsors log": "후원 로그",
@@ -5585,7 +5580,7 @@ I18N["ko-KR"]["settings/sponsors-log"] = { // 설정 - 후원 로그
     ],
 };
 
-I18N["ko-KR"]["settings/apps"] = { // 설정 - 개발자 설정/GitHub 앱
+I18N["ko-KP"]["settings/apps"] = { // 설정 - 개발자 설정/GitHub 앱
     "static": { // 정적 번역
         "Developer Settings": "개발자 설정",
         "GitHub Apps": "GitHub 앱",
@@ -6168,12 +6163,12 @@ I18N["ko-KR"]["settings/apps"] = { // 설정 - 개발자 설정/GitHub 앱
         [/(\d+) accounts?/, "$1 개의 계정"],
         [/Activate optional features for (.*)/, "$1 의 선택적 기능 활성화하기"],
         [/Choose a feature to activate for (.*):/, "$1 에 활성화할 기능 선택하기:"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/settings/apps/new"] = I18N["ko-KR"]["settings/apps"];
+I18N["ko-KP"]["orgs/settings/apps/new"] = I18N["ko-KP"]["settings/apps"];
 
-I18N["ko-KR"]["settings/developers"] = { // 설정 - 개발자 설정/OAuth 앱
+I18N["ko-KP"]["settings/developers"] = { // 설정 - 개발자 설정/OAuth 앱
     "static": { // 정적 번역
             "Developer Settings": "개발자 설정",
             "GitHub Apps": "GitHub 앱",
@@ -6200,7 +6195,7 @@ I18N["ko-KR"]["settings/developers"] = { // 설정 - 개발자 설정/OAuth 앱
     ],
 };
 
-I18N["ko-KR"]["settings/applications/new"] = { // 설정 - 개발자 설정/OAuth 앱
+I18N["ko-KP"]["settings/applications/new"] = { // 설정 - 개발자 설정/OAuth 앱
     "static": { // 정적 번역
 
         // OAuth 앱 등록 https://github.com/settings/applications/new
@@ -6226,12 +6221,12 @@ I18N["ko-KR"]["settings/applications/new"] = { // 설정 - 개발자 설정/OAut
 
     },
     "regexp": [ // 정규 표현식 번역
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/settings/applications/new"] = I18N["ko-KR"]["settings/applications/new"];
+I18N["ko-KP"]["orgs/settings/applications/new"] = I18N["ko-KP"]["settings/applications/new"];
 
-I18N["ko-KR"]["settings/tokens"] = { // 설정 - 개발자 설정/개인 접근 토큰
+I18N["ko-KP"]["settings/tokens"] = { // 설정 - 개발자 설정/개인 접근 토큰
     "static": { // 정적 번역
             "Developer Settings": "개발자 설정",
             "GitHub Apps": "GitHub 앱",
@@ -6636,10 +6631,10 @@ I18N["ko-KR"]["settings/tokens"] = { // 설정 - 개발자 설정/개인 접근 
         [/Access:/, "접근:"],
     ],
 };
-I18N["ko-KR"]["settings/personal-access-tokens"] = I18N["ko-KR"]["settings/tokens"];
+I18N["ko-KP"]["settings/personal-access-tokens"] = I18N["ko-KP"]["settings/tokens"];
 
 // 仓库相关==
-I18N["ko-KR"]["repository-public"] = { // 저장소 - 공용 부분
+I18N["ko-KP"]["repository-public"] = { // 저장소 - 공용 부분
     "static": { // 정적 번역
         // 저장소 페이지 /<user-name>/<repo-name>/
             // GitHub 공식에 의해 비활성화됨
@@ -6942,7 +6937,7 @@ I18N["ko-KR"]["repository-public"] = { // 저장소 - 공용 부분
         [/You have previously committed to the (.*) repository./, "당신은 이전에 $1 저장소에 커밋했어요."],
         [/This user has previously committed to the (.*) repository./, "이 사용자는 이전에 $1 저장소에 커밋했어요."],
         [/This repository has been archived by the owner on (.+). It is now read-only./, (match, p1) => {
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `이 저장소는 소유자에 의해 ${translatedDate}에 아카이브되었어요. 지금은 읽기 전용이에요.`;
         }],
@@ -6963,14 +6958,14 @@ I18N["ko-KR"]["repository-public"] = { // 저장소 - 공용 부분
         }],
         // 협업자 권한 관련 알림
         [/You now have push access to the ([^ ]+) repository./, "당신은 이제 $1 저장소에 푸시할 권한이 있어요."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
 
-I18N["ko-KR"]["page-new-repo"] = { // 저장소 - 새로 만들기/가져오기/포크하기
+I18N["ko-KP"]["page-new-repo"] = { // 저장소 - 새로 만들기/가져오기/포크하기
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 새 저장소 만들기 https://github.com/new
             "Create a new repository": "저장소 만들기",
@@ -7146,22 +7141,22 @@ I18N["ko-KR"]["page-new-repo"] = { // 저장소 - 새로 만들기/가져오기/
         // [/\(repository already exists\)/, "（저장소가 이미 있어요）"], // 포크 페이지
         [/You are creating a fork in the ([^ ]+) organization./, "사용자님은 $1 조직에서 포크를 생성하고 있어요."], // 포크 페이지
         [/Updating branches and (\d+) commit authors?…/, "분기와 $1명의 커밋 작성자를 업데이트 중이에요…"], // 저장소 가져오기 2페이지
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         // [/, and (\d+) more/, "，및 다른 $1개"],
         // [/(\d+) repositor(y|ies)/, "$1개의 저장소"],
         // [/(\d+) members?/, "$1명의 멤버"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["new"] = I18N["ko-KR"]["page-new-repo"];
-I18N["ko-KR"]["new/import"] = I18N["ko-KR"]["page-new-repo"];
-I18N["ko-KR"]["repository/import"] = I18N["ko-KR"]["page-new-repo"];
-I18N["ko-KR"]["repository/fork"] = I18N["ko-KR"]["page-new-repo"];
-I18N["ko-KR"]["orgs/repositories/new"] = I18N["ko-KR"]["page-new-repo"];
+I18N["ko-KP"]["new"] = I18N["ko-KP"]["page-new-repo"];
+I18N["ko-KP"]["new/import"] = I18N["ko-KP"]["page-new-repo"];
+I18N["ko-KP"]["repository/import"] = I18N["ko-KP"]["page-new-repo"];
+I18N["ko-KP"]["repository/fork"] = I18N["ko-KP"]["page-new-repo"];
+I18N["ko-KP"]["orgs/repositories/new"] = I18N["ko-KP"]["page-new-repo"];
 
-I18N["ko-KR"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
+I18N["ko-KP"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
     "static": { // 静态翻译
-            ...I18N["ko-KR"]["repository-public"]["static"],
+            ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 代码标签卡 & 仓库首页 /<user-name>/<repo-name>/ 和 /<user-name>/<repo-name>/tree/<branch>
             // [/Branch ([^ ]+) was renamed to ([^ ]+)./, "分支 $1 已更名为 $2."],
@@ -7717,7 +7712,7 @@ I18N["ko-KR"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
             // 개인 저장소에서 기여 및 동기화 포크 작업 후의 정보 알림
             [/Successfully fetched and fast-forwarded from upstream ([^ ]+)\./, "상위 저장소 $1 에서 성공적으로 가져와 패스트 포워드 병합을 했어요."],
             [/Successfully discarded changes and synchronized branch to match upstream ([^ ]+)\./, "변경 사항을 성공적으로 버리고, 상위 저장소 $1 에 맞춰 분기를 동기화했어요."],
-            ...I18N["ko-KR"]["repository-public"]["regexp"],
+            ...I18N["ko-KP"]["repository-public"]["regexp"],
             [/commits by (.+)/, "$1 님이 커밋했어요."],
             [/Branch ([^ ]+) was renamed to ([^ ]+)./, "분기 $1 의 이름이 $2 로 변경되었어요."],
             [/Your ([^ ]+) branch isn't protected/, "시용자님의 $1 분기는 보호되어 있지 않아요."], // 저장소 메인 페이지: 분기 보호
@@ -7759,11 +7754,11 @@ I18N["ko-KR"]["repository"] = { // 仓库页面 /<user-name>/<repo-name>/
             [/First (\d+) files? shown./, "첫 $1 개의 파일이 표시되었어요."],
         ],
     };    
-I18N["ko-KR"]["repository/tree"] = I18N["ko-KR"]["repository"];
+I18N["ko-KP"]["repository/tree"] = I18N["ko-KP"]["repository"];
 
-I18N["ko-KR"]["repository/milestones"] = { // 仓库 - 里程碑页面
+I18N["ko-KP"]["repository/milestones"] = { // 仓库 - 里程碑页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 里程碑页面 /<user-name>/<repo-name>/milestones
             "Labels": "라벨",
@@ -7810,13 +7805,13 @@ I18N["ko-KR"]["repository/milestones"] = { // 仓库 - 里程碑页面
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/([\d,]+) Open/, "$1 打开"],
         [/([\d,]+) Closed/, "$1 已关闭"],
     ],
 };
 
-I18N["ko-KR"]["repository/pull_issue_public"] = { // 仓库 - 이슈和拉取请求页面公共部分
+I18N["ko-KP"]["repository/pull_issue_public"] = { // 仓库 - 이슈和拉取请求页面公共部分
     "static": { // 静态翻译
         // pull 与 request 公共词条
             "Filters": "필터",
@@ -8159,10 +8154,10 @@ I18N["ko-KR"]["repository/pull_issue_public"] = { // 仓库 - 이슈和拉取请
         [/(\d+) hidden conversations/, "$1 条隐藏对话"],
     ]
 };
-I18N["ko-KR"]["repository/issues"] = { // 저장소 - 이슈 페이지
+I18N["ko-KP"]["repository/issues"] = { // 저장소 - 이슈 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository/pull_issue_public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository/pull_issue_public"]["static"],
 
         // 저장소 --> 이슈 라벨 탭 /<user-name>/<repo-name>/issues
         // /<user-name>/<repo-name>/labels/<label-name>
@@ -8551,17 +8546,17 @@ I18N["ko-KR"]["repository/issues"] = { // 저장소 - 이슈 페이지
         [/(.+) will be first item in the list./, "“$1” 은(는) 목록의 첫 번째 항목이에요."],
         [/(.+) will be last item in the list./, "“$1” 은(는) 목록의 마지막 항목이에요."],
         [/of (\d+) selected/, "/ $1 개 선택됨"],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
-        ...I18N["ko-KR"]["repository/pull_issue_public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository/pull_issue_public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/labels"] = I18N["ko-KR"]["repository/issues"];
+I18N["ko-KP"]["repository/labels"] = I18N["ko-KP"]["repository/issues"];
 
-I18N["ko-KR"]["repository/pulls"] = { // 저장소 - 끌어오기 요청 페이지 // 검토 필요
+I18N["ko-KP"]["repository/pulls"] = { // 저장소 - 끌어오기 요청 페이지 // 검토 필요
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository/pull_issue_public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository/pull_issue_public"]["static"],
 
         // 저장소 --> 끌어오기 요청 탭 /<user-name>/<repo-name>/pulls
             // 환영 메시지
@@ -8628,8 +8623,8 @@ I18N["ko-KR"]["repository/pulls"] = { // 저장소 - 끌어오기 요청 페이�
 
     },
     "regexp": [
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
-        ...I18N["ko-KR"]["repository/pull_issue_public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository/pull_issue_public"]["regexp"],
 
         [/(\d+) reviews? requesting changes?/, "$1 개의 변경 요청 검토"],
         [/(\d+) linked issues?/, "$1 개의 이슈 연결됨"],
@@ -8648,10 +8643,10 @@ I18N["ko-KR"]["repository/pulls"] = { // 저장소 - 끌어오기 요청 페이�
     ],
 };
 
-I18N["ko-KR"]["repository/pull"] = { // 저장소 - 특정 끌어오기 요청 페이지 // 검토 필요
+I18N["ko-KP"]["repository/pull"] = { // 저장소 - 특정 끌어오기 요청 페이지 // 검토 필요
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository/pull_issue_public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository/pull_issue_public"]["static"],
 
         // 특정 끌어오기 요청 페이지 /<user-name>/<repo-name>/pull/<id> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             // 상단 알림
@@ -9395,7 +9390,7 @@ I18N["ko-KR"]["repository/pull"] = { // 저장소 - 특정 끌어오기 요청 �
         // 새 PR 커밋 페이지
         [/wants to merge (\d+) commits? into/, "이 분기에 $1 개 커밋 병합하기를 원해요"],
         [/Commits on (.+)/,  (match, p1) => {
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `커밋 작성일${translatedDate}`;
         }],
@@ -9490,17 +9485,17 @@ I18N["ko-KR"]["repository/pull"] = { // 저장소 - 특정 끌어오기 요청 �
         // 충돌 해결 편집기 (F12 눌러야 번역됨)
         [/Search:/, "검색:"],
         [/\(Use \/re\/ syntax for regexp search\)/, "(정규식 검색을 위해 /re/ 구문 사용)"],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
-        ...I18N["ko-KR"]["repository/pull_issue_public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository/pull_issue_public"]["regexp"],
     ],
     "selector": [ // 요소 선택 규칙
         ["span[data-message='Review changes']", "변경 사항 검토하기"], // 끌어오기 요청 --> 변경된 파일
     ],
 };
 
-I18N["ko-KR"]["repository/compare"] = { // 저장소 - 끌어오기 요청 비교 및 생성
+I18N["ko-KP"]["repository/compare"] = { // 저장소 - 끌어오기 요청 비교 및 생성
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 변경 비교 페이지 /<user-name>/<repo-name>/compare
             "Compare changes": "변경 비교하기",
@@ -9760,7 +9755,7 @@ I18N["ko-KR"]["repository/compare"] = { // 저장소 - 끌어오기 요청 비�
     
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Show comments?/, "댓글 보기"], // 편집기 오른쪽 상단 세 점
         [/committed/, "커밋됨"],
         [/(\d+) contributors?/, "$1 명의 기여자"],
@@ -9773,9 +9768,9 @@ I18N["ko-KR"]["repository/compare"] = { // 저장소 - 끌어오기 요청 비�
     ],
 };
 
-I18N["ko-KR"]["repository/commit"] = { // 저장소 - 커밋 페이지
+I18N["ko-KP"]["repository/commit"] = { // 저장소 - 커밋 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
         
         // 특정 커밋 페이지 /<user-name>/<repo-name>/commit/<full SHA>
             "Commit": "커밋",
@@ -10024,7 +10019,7 @@ I18N["ko-KR"]["repository/commit"] = { // 저장소 - 커밋 페이지
             "You're receiving notifications because you're subscribed to this thread.": "이 대화를 구독 중이어서 알림을 받고 있어요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) parents?/, "$1 명의 부모"],
         [/lines? changed/, "줄 변경됨"],
         [/(\d+) changed files?/, "$1 개의 변경된 파일"],
@@ -10051,9 +10046,9 @@ I18N["ko-KR"]["repository/commit"] = { // 저장소 - 커밋 페이지
     ],
 };
 
-I18N["ko-KR"]["repository/blob"] = { // 저장소 - 코드 보기
+I18N["ko-KP"]["repository/blob"] = { // 저장소 - 코드 보기
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 파일 코드 페이지 /<user-name>/<repo-name>/blob/<branch>/<file>
             // 상단 알림
@@ -10274,7 +10269,7 @@ I18N["ko-KR"]["repository/blob"] = { // 저장소 - 코드 보기
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) lines? \((\d+) loc\) ·/, "$1 행（$2 비어있지 않은 행）·"],  // loc = 코드 줄 (비어있지 않은 줄 수)
         [/(\d+) References?/, "$1 회 참조"],
         [/Blame prior to change ([a-f0-9]{7}), made on ([^ ]+)/, "변경 전 $1 (작성일: $2) 추적"],
@@ -10286,11 +10281,11 @@ I18N["ko-KR"]["repository/blob"] = { // 저장소 - 코드 보기
         [/First (\d+) files? shown./, "처음 $1 개의 파일 표시됨."],
     ],
 };
-I18N["ko-KR"]["repository/blame"] = I18N["ko-KR"]["repository/blob"];
+I18N["ko-KP"]["repository/blame"] = I18N["ko-KP"]["repository/blob"];
 
-I18N["ko-KR"]["repository/discussions"] = { // 토론 페이지
+I18N["ko-KP"]["repository/discussions"] = { // 토론 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 토론 페이지 /<user-name>/<repo-name>/discussions
         // 조직 토론 페이지 /orgs/<orgs-name>/discussions
@@ -10719,7 +10714,7 @@ I18N["ko-KR"]["repository/discussions"] = { // 토론 페이지
             "Uh oh! You can't vote right now.": "앗, 지금은 투표할 수 없어요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) categories?/, "$1 개의 분류"],
         [/Congratulations, you've created the first discussion in ([^ ]+)!/, "축하해요, $1 에 첫 토론을 만드셨어요!"],
         [/(\d+) answers?/, "$1 명의 답변자"],
@@ -10755,10 +10750,10 @@ I18N["ko-KR"]["repository/discussions"] = { // 토론 페이지
         }],
     ],
 };
-I18N["ko-KR"]["repository/orgs/discussions"] = I18N["ko-KR"]["repository/discussions"];
-I18N["ko-KR"]["repository/actions"] = { // 저장소 - 작업 페이지 //검토 필요
+I18N["ko-KP"]["repository/orgs/discussions"] = I18N["ko-KP"]["repository/discussions"];
+I18N["ko-KP"]["repository/actions"] = { // 저장소 - 작업 페이지 //검토 필요
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 상단 알림
             "Actions Enabled.": "작업이 사용 중이에요.",
@@ -11189,7 +11184,7 @@ I18N["ko-KR"]["repository/actions"] = { // 저장소 - 작업 페이지 //검토
                 "Copy permalink": "영구 링크 복사하기",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Back to pull request (#\d+)/, "끌어오기 요청으로 돌아가기 $1"],
         [/Workflow (.*) pinned./, "작업 흐름 $1이(가) 고정되었어요"],
         [/Workflow (.*) unpinned./, "작업 흐름 $1이(가) 고정 해제되었어요"],
@@ -11218,10 +11213,10 @@ I18N["ko-KR"]["repository/actions"] = { // 저장소 - 작업 페이지 //검토
         [/Branch "([^ ]+)" is not allowed to deploy to ([^ ]+) due to environment protection rules./, "환경 보호 규칙으로 인해 “$1” 분기는 $2 에 배포할 수 없어요."],
     ],
 };
-I18N["ko-KR"]["repository/runs"] = I18N["ko-KR"]["repository/actions"];
-I18N["ko-KR"]["repository/deployments"] = { // 저장소 - 배포 페이지
+I18N["ko-KP"]["repository/runs"] = I18N["ko-KP"]["repository/actions"];
+I18N["ko-KP"]["repository/deployments"] = { // 저장소 - 배포 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // /<user-name>/<repo-name>/deployments
             // 왼쪽 사이드바
@@ -11304,16 +11299,16 @@ I18N["ko-KR"]["repository/deployments"] = { // 저장소 - 배포 페이지
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/deployments?/, "배포"],
         [/Filter contains (\d+) issues?:/, "필터에 $1 개의 문제가 포함됨:"], // 필터 오류 창
         [/via/, "통해"],
     ],
 };
 
-I18N["ko-KR"]["repository/attestations"] = { // 저장소 - 인증 페이지
+I18N["ko-KP"]["repository/attestations"] = { // 저장소 - 인증 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // /<user-name>/<repo-name>/attestations 인증
             "Attestations": "인증",
@@ -11323,9 +11318,9 @@ I18N["ko-KR"]["repository/attestations"] = { // 저장소 - 인증 페이지
     },
 };
 
-I18N["ko-KR"]["repository/watchers"] = { // 저장소 - 주시자 페이지
+I18N["ko-KP"]["repository/watchers"] = { // 저장소 - 주시자 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 주시자 페이지  /<user-name>/<repo-name>/watchers
             "Watchers": "주시자",
@@ -11333,14 +11328,14 @@ I18N["ko-KR"]["repository/watchers"] = { // 저장소 - 주시자 페이지
             "Learn more about how watching repositories works on GitHub": "깃허브에서 저장소 주시가 어떻게 작동하는지 자세히 알아보세요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         // [/Joined/,"가입함"], // 주시자 페이지
     ],
 };
 
-I18N["ko-KR"]["repository/stargazers"] = { // 저장소 - 별표 표시한 사람 페이지
+I18N["ko-KP"]["repository/stargazers"] = { // 저장소 - 별표 표시한 사람 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 별표 표시한 사람 페이지  /<user-name>/<repo-name>/stargazers
             "Stargazers": "별표 표시한 사람",
@@ -11355,14 +11350,14 @@ I18N["ko-KR"]["repository/stargazers"] = { // 저장소 - 별표 표시한 사�
             "Learn more about how starring works on GitHub.": "깃허브에서 별표 기능이 어떻게 작동하는지 자세히 알아보세요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         // [/Joined/,"가입함"], // 별표 표시한 사람 페이지
     ],
 };
 
-I18N["ko-KR"]["repository/new"] = { // 저장소 - 새로 만들기/편집/업로드/파일 삭제 페이지
+I18N["ko-KP"]["repository/new"] = { // 저장소 - 새로 만들기/편집/업로드/파일 삭제 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 새 파일 만들기 페이지 /<user-name>/<repo-name>/new/<branch>
             // 파일 트리 사이드바
@@ -11639,17 +11634,17 @@ I18N["ko-KR"]["repository/new"] = { // 저장소 - 새로 만들기/편집/업�
         [/Your license is ready. Please review it below and either commit it to the ([^ ]+) branch or to a new branch./, "사용자님의 라이선스가 준비되었어요. 아래에서 확인 후 $1 분기 또는 새 분기에 제출해 주세요."],
         [/Your search has returned (\d+) results?./, "검색 결과가 $1건 반환되었어요."],
         [/First (\d+) files? shown./, "처음 $1개의 파일이 표시되었어요."],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/edit"] = I18N["ko-KR"]["repository/new"];
-I18N["ko-KR"]["repository/delete"] = I18N["ko-KR"]["repository/new"];
-I18N["ko-KR"]["repository/upload"] = I18N["ko-KR"]["repository/new"];
+I18N["ko-KP"]["repository/edit"] = I18N["ko-KP"]["repository/new"];
+I18N["ko-KP"]["repository/delete"] = I18N["ko-KP"]["repository/new"];
+I18N["ko-KP"]["repository/upload"] = I18N["ko-KP"]["repository/new"];
 
-I18N["ko-KR"]["repository/find"] = { //  仓库 - 查找文件页面
+I18N["ko-KP"]["repository/find"] = { //  仓库 - 查找文件页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // Find file 页面 /<user-name>/<repo-name>/find/<branch>
             "You’ve activated the": "您已激活",
@@ -11662,13 +11657,13 @@ I18N["ko-KR"]["repository/find"] = { //  仓库 - 查找文件页面
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/wiki"] = { // 仓库 - wiki 页面
+I18N["ko-KP"]["repository/wiki"] = { // 仓库 - wiki 页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // wiki 页面  /<user-name>/<repo-name>/wiki
             // [/Welcome to the ([^ ]+) wiki!/, "欢迎访问 $1 的 Wiki"], // wiki页面
@@ -11815,7 +11810,7 @@ I18N["ko-KR"]["repository/wiki"] = { // 仓库 - wiki 页面
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Welcome to the ([^ ]+) wiki!/, "欢迎访问 $1 的 Wiki"], // wiki页面
         [/edited this page/, "编辑此页"], // wiki
         [/(\d+) revisions?/, "$1 次修订"], // wiki
@@ -11824,9 +11819,9 @@ I18N["ko-KR"]["repository/wiki"] = { // 仓库 - wiki 页面
     ],
 };
 
-I18N["ko-KR"]["repository/branches"] = { // 仓库 - 分支页面
+I18N["ko-KP"]["repository/branches"] = { // 仓库 - 分支页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 分支页面 branches  /<user-name>/<repo-name>/branches
             // 标签卡栏
@@ -11957,7 +11952,7 @@ I18N["ko-KR"]["repository/branches"] = { // 仓库 - 分支页面
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Your ([^ ]+) branch isn't protected/, "您的 $1 分支不受保护"],
         [/Rename default branch/, "重命名默认分支"],
         [/Rename branch/, "重命名分支"],
@@ -11975,9 +11970,9 @@ I18N["ko-KR"]["repository/branches"] = { // 仓库 - 分支页面
     ],
 };
 
-I18N["ko-KR"]["repository/activity"] = { // 仓库 - 活动页面
+I18N["ko-KP"]["repository/activity"] = { // 仓库 - 活动页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 活动页面 /<user-name>/<repo-name>/activity
             "Activity": "活动",
@@ -12039,15 +12034,15 @@ I18N["ko-KR"]["repository/activity"] = { // 仓库 - 活动页面
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/pushed (\d+) commits? to/, "推送 $1 个提交到"],
         [/pushed (\d+) commits?/, "推送 $1 个提交"],
     ],
 };
 
-I18N["ko-KR"]["repository/releases"] = { // 仓库 - 发行版页面
+I18N["ko-KP"]["repository/releases"] = { // 仓库 - 发行版页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 发行版 页面 /<user-name>/<repo-name>/releases
             "Releases": "릴리즈",
@@ -12311,14 +12306,14 @@ I18N["ko-KR"]["repository/releases"] = { // 仓库 - 发行版页面
         [/ and /, " 和 "],
         [/(\d+) (people|person) reacted/, "$1 人表达看法"],
         [/There are no releases containing \"([^ ]+)\"./, "没有发行版包含“$1”."],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["repository/tags"] = I18N["ko-KR"]["repository/releases"];
+I18N["ko-KP"]["repository/tags"] = I18N["ko-KP"]["repository/releases"];
 
-I18N["ko-KR"]["repository/packages"] = { // 仓库 - 软件包页面
+I18N["ko-KP"]["repository/packages"] = { // 仓库 - 软件包页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // /<user-name>/<repo-name>/packages
             "Get started with GitHub Packages": "开始使用 GitHub 软件包",
@@ -12441,10 +12436,10 @@ I18N["ko-KR"]["repository/packages"] = { // 仓库 - 软件包页面
     ],
 }
 
-I18N["ko-KR"]["repository/pkgs"] = { // 仓库 - 软件包
+I18N["ko-KP"]["repository/pkgs"] = { // 仓库 - 软件包
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository/packages"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository/packages"]["static"],
 
         // /<user-name>/<repo-name>/pkgs/container/<pag name>
             "Installation": "安装",
@@ -12514,7 +12509,7 @@ I18N["ko-KR"]["repository/pkgs"] = { // 仓库 - 软件包
             "I understand the consequences, delete this version": "我明白后果，依然删除此版本"
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository/packages"]["regexp"],
+        ...I18N["ko-KP"]["repository/packages"]["regexp"],
 
         [/Published (.*) · Digest/, "发布于 $1 · 摘要"],
         [/Published (.*)/, "发布于 $1"],
@@ -12525,9 +12520,9 @@ I18N["ko-KR"]["repository/pkgs"] = { // 仓库 - 软件包
         [/(\d+) deleted/, "$1 个已删除"]
     ],
 };
-I18N["ko-KR"]["packages"] = { // 软件包 - 未链接仓库的软件包
+I18N["ko-KP"]["packages"] = { // 软件包 - 未链接仓库的软件包
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository/pkgs"]["static"],
+        ...I18N["ko-KP"]["repository/pkgs"]["static"],
 
         "Link this package to a repository": "将此软件包链接到仓库",
         "By linking to a repository, you can automatically add a Readme, link discussions, and show contributors on this page.": "通过链接到仓库，您可以自动添加 README 自述文件、链接讨论、在此页面上显示贡献者.",
@@ -12537,13 +12532,13 @@ I18N["ko-KR"]["packages"] = { // 软件包 - 未链接仓库的软件包
         "Select a repository to link to this package.": "选择一个仓库以链接到此软件包."
     },
     "regexp": [  // 正则翻译
-        ...I18N["ko-KR"]["repository/pkgs"]["regexp"],
+        ...I18N["ko-KP"]["repository/pkgs"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/security"] = { // 仓库 - 安全页面
+I18N["ko-KP"]["repository/security"] = { // 仓库 - 安全页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 安全标签卡 & 安全概述 /<user-name>/<repo-name>/security
 
@@ -12970,7 +12965,7 @@ I18N["ko-KR"]["repository/security"] = { // 仓库 - 安全页面
             "Dependabot language support": "Dependabot 语言支持",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/([\d,]+) Triages?/, "$1 分类"],
         [/([\d,]+) Draft/, "$1 草案"],
         [/([\d,]+) Published/, "$1 发布"],
@@ -12996,7 +12991,7 @@ I18N["ko-KR"]["repository/security"] = { // 仓库 - 安全页面
     ],
 };
 
-I18N["ko-KR"]["repository/contribute"] = { // 仓库 - 贡献页面
+I18N["ko-KP"]["repository/contribute"] = { // 仓库 - 贡献页面
     "static": { // 静态翻译
 
         // 贡献页面 /<user-name>/<repo-name>/contribute
@@ -13018,7 +13013,7 @@ I18N["ko-KR"]["repository/contribute"] = { // 仓库 - 贡献页面
     ],
 };
 
-I18N["ko-KR"]["repository/subscription"] = { // 仓库 - 通知状态页面
+I18N["ko-KP"]["repository/subscription"] = { // 仓库 - 通知状态页面
     "static": { // 静态翻译
 
         // 仓库通知状态管理 /<user-name>/<repo-name>/subscription
@@ -13039,7 +13034,7 @@ I18N["ko-KR"]["repository/subscription"] = { // 仓库 - 通知状态页面
     ],
 };
 
-I18N["ko-KR"]["repository/invitations"] = { // 仓库 - 接受邀请页面
+I18N["ko-KP"]["repository/invitations"] = { // 仓库 - 接受邀请页面
     "static": { // 静态翻译
 
         // 接受邀请 /<user-name>/<repo-name>/invitations
@@ -13067,7 +13062,7 @@ I18N["ko-KR"]["repository/invitations"] = { // 仓库 - 接受邀请页面
 
 // 洞察 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-I18N["ko-KR"]["repository-insights-menu"] = { // 仓库 -> 洞察 - 公共部分
+I18N["ko-KP"]["repository-insights-menu"] = { // 仓库 -> 洞察 - 公共部分
     "static": { // 静态翻译
         // 公共部分
             // 左侧菜单
@@ -13101,10 +13096,10 @@ I18N["ko-KR"]["repository-insights-menu"] = { // 仓库 -> 洞察 - 公共部分
     ],
 };
 
-I18N["ko-KR"]["repository/pulse"] = { // 仓库 -> 洞察 - 统计
+I18N["ko-KP"]["repository/pulse"] = { // 仓库 -> 洞察 - 统计
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 统计 /<user-name>/<repo-name>/pulse
             "Period:": "周期：",
@@ -13169,7 +13164,7 @@ I18N["ko-KR"]["repository/pulse"] = { // 仓库 -> 洞察 - 统计
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) authors?/, "$1 位作者"],
         [/to ([^ ]+) and/, "到 $1 分支和"],
         [/to all branches. On ([^ ]+),/, "到全部分支.在 $1 分支，"],
@@ -13183,7 +13178,7 @@ I18N["ko-KR"]["repository/pulse"] = { // 仓库 -> 洞察 - 统计
     ],
 };
 
-I18N["ko-KR"]["repository/graphs/contributors"] = { // 仓库 -> 洞察 - 贡献者
+I18N["ko-KP"]["repository/graphs/contributors"] = { // 仓库 -> 洞察 - 贡献者
     "static": { // 静态翻译
 
         // 贡献者 /<user-name>/<repo-name>/graphs/contributors
@@ -13223,8 +13218,8 @@ I18N["ko-KR"]["repository/graphs/contributors"] = { // 仓库 -> 洞察 - 贡献
                         "DateTime": "日期时间",
                         "Week of": "周",
 
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
     },
     "regexp": [ // 正则翻译
         [/Contributions to (.*), excluding merge commits/, "贡献到 $1 分支，不包括合并提交"],
@@ -13241,18 +13236,18 @@ I18N["ko-KR"]["repository/graphs/contributors"] = { // 仓库 -> 洞察 - 贡献
             return user + ' 的' + contKey[cont];
         }],
         [/Week of (.+)/, (match, p1) => { // p1为(.+)
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `${translatedDate}当周`;
         }],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/graphs/community"] = { // 仓库 -> 洞察 - 社区
+I18N["ko-KP"]["repository/graphs/community"] = { // 仓库 -> 洞察 - 社区
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 社区 /<user-name>/<repo-name>/graphs/community
             "Enable Discussions to unlock Community Insights!": "启用讨论，以解锁社区见解！",
@@ -13290,7 +13285,7 @@ I18N["ko-KR"]["repository/graphs/community"] = { // 仓库 -> 洞察 - 社区
             "Crunching the latest data, just for you. Hang tight…": "正在为您准备最新数据，请稍后…",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) pull requests? created/, "$1 个拉取请求创建"],
         [/(\d+) issues? created/, "$1 个이슈创建"],
         [/(\d+) discussions? created/, "$1 个讨论创建"],
@@ -13298,10 +13293,10 @@ I18N["ko-KR"]["repository/graphs/community"] = { // 仓库 -> 洞察 - 社区
     ],
 };
 
-I18N["ko-KR"]["repository/community"] = { // 仓库 -> 洞察 - 社区准则
+I18N["ko-KP"]["repository/community"] = { // 仓库 -> 洞察 - 社区准则
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 社区准则 /<user-name>/<repo-name>/community
             "Here’s how this project compares to": "以下是该项目内容，不同于",
@@ -13390,14 +13385,14 @@ I18N["ko-KR"]["repository/community"] = { // 仓库 -> 洞察 - 社区准则
                 "Governing body": "管理机构",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/graphs/traffic"] = { // 仓库 -> 洞察 - 流量
+I18N["ko-KP"]["repository/graphs/traffic"] = { // 仓库 -> 洞察 - 流量
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 流量 /<user-name>/<repo-name>/graphs/traffic
             "Git clones": "Git 克隆",
@@ -13431,14 +13426,14 @@ I18N["ko-KR"]["repository/graphs/traffic"] = { // 仓库 -> 洞察 - 流量
             "Crunching the latest data, just for you. Hang tight…": "正在为您准备最新数据，请稍后…",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/graphs/commit-activity"] = { // 仓库 -> 洞察 - 提交
+I18N["ko-KP"]["repository/graphs/commit-activity"] = { // 仓库 -> 洞察 - 提交
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 提交 /<user-name>/<repo-name>/graphs/commit-activity
             "Sunday"    : "周日",
@@ -13452,7 +13447,7 @@ I18N["ko-KR"]["repository/graphs/commit-activity"] = { // 仓库 -> 洞察 - 提
             "Crunching the latest data, just for you. Hang tight…": "正在为您准备最新数据，请稍后…",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/commits? the week of (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) (\d+)/, function(all, month, day){
             var monthKey = {
                 "Jan": "1月",
@@ -13474,10 +13469,10 @@ I18N["ko-KR"]["repository/graphs/commit-activity"] = { // 仓库 -> 洞察 - 提
     ],
 };
 
-I18N["ko-KR"]["repository/graphs/code-frequency"] = { // 仓库 -> 洞察 - 代码频率
+I18N["ko-KP"]["repository/graphs/code-frequency"] = { // 仓库 -> 洞察 - 代码频率
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 代码频率 /<user-name>/<repo-name>/graphs/code-frequency
             "Code frequency over the history of": "历史上的代码频率",
@@ -13504,14 +13499,14 @@ I18N["ko-KR"]["repository/graphs/code-frequency"] = { // 仓库 -> 洞察 - 代�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/network/dependencies"] = { // 仓库 -> 洞察 - 依赖关系图 - 依赖关系
+I18N["ko-KP"]["repository/network/dependencies"] = { // 仓库 -> 洞察 - 依赖关系图 - 依赖关系
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         "Dependencies": "依赖关系",
         "Dependents": "依赖者",
@@ -13562,7 +13557,7 @@ I18N["ko-KR"]["repository/network/dependencies"] = { // 仓库 -> 洞察 - 依�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/View Dependabot alerts?/, "查看 Dependabot 警报"],
         [/Detected automatically on (.+)/, "自动检测于$1"],
         [/(\d+) Total/, "$1 总计"],
@@ -13576,10 +13571,10 @@ I18N["ko-KR"]["repository/network/dependencies"] = { // 仓库 -> 洞察 - 依�
     ],
 };
 
-I18N["ko-KR"]["repository/network/dependents"] = { // 仓库 -> 洞察 - 依赖关系图 - 依赖者
+I18N["ko-KP"]["repository/network/dependents"] = { // 仓库 -> 洞察 - 依赖关系图 - 依赖者
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         "Dependencies": "依赖关系",
         "Dependents": "依赖者",
@@ -13601,16 +13596,16 @@ I18N["ko-KR"]["repository/network/dependents"] = { // 仓库 -> 洞察 - 依赖�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) Repositor(y|ies)/, "$1 仓库"],
         [/(\d+) Packages?/, "$1 软件包"],
     ],
 };
 
-I18N["ko-KR"]["repository/network/updates"] = { // 仓库 -> 洞察 - 依赖关系图 - Dependabot
+I18N["ko-KP"]["repository/network/updates"] = { // 仓库 -> 洞察 - 依赖关系图 - Dependabot
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         "Dependencies": "依赖关系",
         "Dependents": "依赖者",
@@ -13639,14 +13634,14 @@ I18N["ko-KR"]["repository/network/updates"] = { // 仓库 -> 洞察 - 依赖关�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/network"] = { // 仓库 -> 洞察 - 网络图
+I18N["ko-KP"]["repository/network"] = { // 仓库 -> 洞察 - 网络图
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 网络图 /<user-name>/<repo-name>/network
             // 键盘快捷键
@@ -13670,14 +13665,14 @@ I18N["ko-KR"]["repository/network"] = { // 仓库 -> 洞察 - 网络图
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/network/members"] = { // 仓库 -> 洞察 - 复刻
+I18N["ko-KP"]["repository/network/members"] = { // 仓库 -> 洞察 - 复刻
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 复刻 - 树形视图 /<user-name>/<repo-name>/network/members
             "switch to list view": "切换到列表视图",
@@ -13692,14 +13687,14 @@ I18N["ko-KR"]["repository/network/members"] = { // 仓库 -> 洞察 - 复刻
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/forks"] = { // 仓库 -> 洞察 - 复刻
+I18N["ko-KP"]["repository/forks"] = { // 仓库 -> 洞察 - 复刻
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         // 复刻 - 列表视图 /<user-name>/<repo-name>/forks
             "Switch to tree view": "切换到树形视图",
@@ -13749,7 +13744,7 @@ I18N["ko-KR"]["repository/forks"] = { // 仓库 -> 洞察 - 复刻
             "Never updated": "从未更新",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Created/, "创建于"],
         [/Updated/, "更新于"],
     ],
@@ -13757,7 +13752,7 @@ I18N["ko-KR"]["repository/forks"] = { // 仓库 -> 洞察 - 复刻
 
 // 洞察 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-I18N["ko-KR"]["repository-settings-menu"] = { // 저장소 설정 공통 부분
+I18N["ko-KP"]["repository-settings-menu"] = { // 저장소 설정 공통 부분
     "static": { // 정적 번역
         // >>>>>>>>>>>>>>>>>>   저장소 설정 공통 부분  <<<<<<<<<<<<<<<<<<<
             // 상단 알림 표시줄
@@ -13806,10 +13801,10 @@ I18N["ko-KR"]["repository-settings-menu"] = { // 저장소 설정 공통 부분
 };
 
 
-I18N["ko-KR"]["repository/settings"] = { // 저장소 설정 - 보통 /<user-name>/<repo-name>/settings
+I18N["ko-KP"]["repository/settings"] = { // 저장소 설정 - 보통 /<user-name>/<repo-name>/settings
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 보통 - 설정 페이지 /<user-name>/<repo-name>/settings ====================================
             "Repository name": "저장소 이름",
@@ -14114,7 +14109,7 @@ I18N["ko-KR"]["repository/settings"] = { // 저장소 설정 - 보통 /<user-nam
                 "This will not change your billing plan. If you want to downgrade, you can do so in your Billing Settings.": "이 작업은 사용자님의 결제 플랜을 변경하지 않아요. 만약 다운그레이드하고 싶으시다면, 결제 설정에서 변경할 수 있어요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/is available./, "이름 사용 가능해요."],
         [/Make ([^ ]+) private/, "$1 을(를) 비공개로 설정하기"],
         [/Make ([^ ]+) public/, "$1 을(를) 공개로 설정하기"],
@@ -14133,10 +14128,10 @@ I18N["ko-KR"]["repository/settings"] = { // 저장소 설정 - 보통 /<user-nam
 };
 
 
-I18N["ko-KR"]["repository/settings/access"] = { // 저장소 설정 - 협업자/(조직 저장소 협업자 및 팀) /<user-name>/<repo-name>/settings/access
+I18N["ko-KP"]["repository/settings/access"] = { // 저장소 설정 - 협업자/(조직 저장소 협업자 및 팀) /<user-name>/<repo-name>/settings/access
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 협업자 / 협업자 및 팀 - 접근 관리 페이지 /<user-name>/<repo-name>/settings/access ====================================
             // 상단 알림
@@ -14213,15 +14208,15 @@ I18N["ko-KR"]["repository/settings/access"] = { // 저장소 설정 - 협업자/
         [/(\d+) invitations?/, "$1 개의 초대"],
         [/Awaiting ([^ ]+)’s response/, "$1 님의 응답을 기다리는 중"],
         [/([^ ]+) • Invite collaborator/, "$1 • 협업자 초대하기"],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
 
-I18N["ko-KR"]["repository/settings/interaction_limits"] = { // 저장소 설정 - 상호작용 제한 /<user-name>/<repo-name>/settings/interaction_limits
+I18N["ko-KP"]["repository/settings/interaction_limits"] = { // 저장소 설정 - 상호작용 제한 /<user-name>/<repo-name>/settings/interaction_limits
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 저장소 상호작용 제한 설정 (검토 설정) /<user-name>/<repo-name>/settings/interaction_limits
         // 전체 및 조직 저장소와 동일
@@ -14266,16 +14261,16 @@ I18N["ko-KR"]["repository/settings/interaction_limits"] = { // 저장소 설정 
             "Repository interaction limit settings saved.": "저장소 상호작용 제한 설정이 저장되었어요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
             [/You can restrict repository interactions across the ([^ ]+) organization in your/, "사용자님의 $1 조직 내에서 저장소와의 상호작용을 제한할 수 있어요."],
             [/to the ([^ ]+) branch of this repository will be unable to interact with the repository./, "이 저장소의 $1 분기에 해당하는 사용자들은 저장소와 상호작용할 수 없어요."],
     ],
 };
 
-I18N["ko-KR"]["repository/settings/code_review_limits"] = { // 저장소 설정 - 코드 리뷰 제한 /<user-name>/<repo-name>/settings/code_review_limits
+I18N["ko-KP"]["repository/settings/code_review_limits"] = { // 저장소 설정 - 코드 리뷰 제한 /<user-name>/<repo-name>/settings/code_review_limits
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 코드 리뷰 제한 /<user-name>/<repo-name>/settings/code_review_limits
             "Restrict users who are permitted to approve or request changes on pull requests in this repository.": "이 저장소의 끌어오기 요청에서 승인하거나 변경 요청할 수 있는 사용자를 제한해 보세요.",
@@ -14288,14 +14283,14 @@ I18N["ko-KR"]["repository/settings/code_review_limits"] = { // 저장소 설정 
                 "Code review limit settings saved.": "코드 리뷰 제한 설정이 저장되었어요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/settings/branches"] = { // 저장소 설정 - 분기 /<user-name>/<repo-name>/settings/branches
+I18N["ko-KP"]["repository/settings/branches"] = { // 저장소 설정 - 분기 /<user-name>/<repo-name>/settings/branches
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 분기 관리 페이지 /<user-name>/<repo-name>/settings/branches====================================
             "Branch protection rules": "분기 보호 규칙",
@@ -14335,15 +14330,15 @@ I18N["ko-KR"]["repository/settings/branches"] = { // 저장소 설정 - 분기 /
             "Branch protection rule was successfully deleted.": "분기 보호 규칙이 성공적으로 삭제되었어요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Currently applies to (\d+) branch(?:es|)/, "현재 $1 개의 분기에 적용됨"], // 저장소 설정-->분기-->분기 보호 규칙
     ],
 };
 
-I18N["ko-KR"]["repository/settings/branch_protection_rules"] = { // 저장소 설정 - 분기/분기 보호 /<user-name>/<repo-name>/settings/branch_protection_rules
+I18N["ko-KP"]["repository/settings/branch_protection_rules"] = { // 저장소 설정 - 분기/분기 보호 /<user-name>/<repo-name>/settings/branch_protection_rules
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 새 분기 보호 규칙 페이지 /<user-name>/<repo-name>/settings/branch_protection_rules/new====================================
             "Branch protection rule": "분기 보호 규칙",
@@ -14470,16 +14465,16 @@ I18N["ko-KR"]["repository/settings/branch_protection_rules"] = { // 저장소 �
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Applies to (\d+) branch(?:es|)/, "일치하는 $1 개 분기에 적용됨"], // 저장소 설정-->분기-->분기 보호 규칙-->편집
     ],
 };
 
 
-I18N["ko-KR"]["repository/settings/tag_protection"] = { // 저장소 설정 - 꼬리표 /<user-name>/<repo-name>/settings/tag_protection
+I18N["ko-KP"]["repository/settings/tag_protection"] = { // 저장소 설정 - 꼬리표 /<user-name>/<repo-name>/settings/tag_protection
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 꼬리표 페이지 /<user-name>/<repo-name>/settings/tag_protection===============================
             // 상단 알림
@@ -14534,17 +14529,17 @@ I18N["ko-KR"]["repository/settings/tag_protection"] = { // 저장소 설정 - �
     },
     "regexp": [ // 정규식 번역
         [/(\d+) rules?/, "$1 규칙"],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
 
-I18N["ko-KR"]["repository/settings/rules"] = { // 저장소 설정 - 규칙 - 규칙 집합 /<user-name>/<repo-name>/settings/rules
+I18N["ko-KP"]["repository/settings/rules"] = { // 저장소 설정 - 규칙 - 규칙 집합 /<user-name>/<repo-name>/settings/rules
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"], // 조직 설정
-        ...I18N["ko-KR"]["confirm-access"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"], // 조직 설정
+        ...I18N["ko-KP"]["confirm-access"]["static"],
 
         // 저장소 규칙 집합 페이지 /<user-name>/<repo-name>/rules
         // 규칙 집합 페이지 /<user-name>/<repo-name>/settings/rules
@@ -14881,7 +14876,7 @@ I18N["ko-KR"]["repository/settings/rules"] = { // 저장소 설정 - 규칙 - �
     },
     "regexp": [ // 정규식 번역
         [/Applies to (\d+) target/, "적용 대상 $1개"],
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) branch rules?/, "$1개의 분기 규칙"],
         [/(\d+) rules?/, "$1개의 규칙"],
         [/(\d+) branch(?:es|)?/, "$1개의 분기"],
@@ -14919,17 +14914,17 @@ I18N["ko-KR"]["repository/settings/rules"] = { // 저장소 설정 - 규칙 - �
         [/Branch name must not end with a matching pattern/, "분기 이름은 일치하는 패턴으로 끝나면 안 돼요"],
         [/Branch name must not contain a matching pattern/, "분기 이름은 일치하는 패턴을 포함하면 안 돼요"],
         [/Branch name must not match a given regex pattern/, "분기 이름은 지정된 정규 표현식과 일치하면 안 돼요"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/rules"] = I18N["ko-KR"]["repository/settings/rules"];
-I18N["ko-KR"]["repository/rules"] = I18N["ko-KR"]["repository/settings/rules"];
+I18N["ko-KP"]["orgs/settings/rules"] = I18N["ko-KP"]["repository/settings/rules"];
+I18N["ko-KP"]["repository/rules"] = I18N["ko-KP"]["repository/settings/rules"];
 
-I18N["ko-KR"]["repository/settings/actions"] = { // 저장소 설정 - 액션 /<user-name>/<repo-name>/settings/actions
+I18N["ko-KP"]["repository/settings/actions"] = { // 저장소 설정 - 액션 /<user-name>/<repo-name>/settings/actions
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 액션 페이지 /<user-name>/<repo-name>/settings/actions
             "Actions permissions": "액션 권한",
@@ -15039,15 +15034,15 @@ I18N["ko-KR"]["repository/settings/actions"] = { // 저장소 설정 - 액션 /<
         [/Any action or reusable workflow defined in a repository within ([^ ]+) can be used./, "$1 저장소 내에서 정의된 모든 액션이나 재사용 가능한 워크플로우를 사용할 수 있어요."], // 액션 페이지
         [/Allow ([^ ]+), and select non-([^ ]+), actions and reusable workflows/, "허용 $1, 그리고 $2 이외의 액션과 재사용 가능한 워크플로우 선택하기"],
         [/Any action or reusable workflow that matches the specified criteria, plus those defined in a repository within ([^ ]+), can be used./, "지정된 기준과 일치하는 액션이나 워크플로우, 그리고 $1 저장소 내에서 정의된 액션이나 재사용 가능한 워크플로우를 사용할 수 있어요."], // 액션 페이지
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/settings/hooks"] = { // 저장소 설정 - 웹훅 /<user-name>/<repo-name>/settings/hooks
+I18N["ko-KP"]["repository/settings/hooks"] = { // 저장소 설정 - 웹훅 /<user-name>/<repo-name>/settings/hooks
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 웹훅 페이지 /<user-name>/<repo-name>/settings/hooks====================================
             "Add webhook": "웹훅 추가하기",
@@ -15247,17 +15242,17 @@ I18N["ko-KR"]["repository/settings/hooks"] = { // 저장소 설정 - 웹훅 /<us
                     "Delivering payload…": "페이로드 전송 중…",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Completed in (\d+(\.\d+)) seconds?./, "在 $1 秒内完成."],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/hooks"] = I18N["ko-KR"]["repository/settings/hooks"];
+I18N["ko-KP"]["orgs/settings/hooks"] = I18N["ko-KP"]["repository/settings/hooks"];
 
-I18N["ko-KR"]["repository/settings/environments"] = { // 저장소 설정 - 환경 /<user-name>/<repo-name>/settings/environment
+I18N["ko-KP"]["repository/settings/environments"] = { // 저장소 설정 - 환경 /<user-name>/<repo-name>/settings/environment
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 저장소 환경 /<user-name>/<repo-name>/settings/environments
             "New environment": "새 환경 만들기",
@@ -15392,7 +15387,7 @@ I18N["ko-KR"]["repository/settings/environments"] = { // 저장소 설정 - 환�
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) protection rules?/, "$1 개의 보호 규칙"], // /environments
         [/(\d+) secrets?/, "$1 개의 기밀"],
         [/(\d+) variables?/, "$1 개의 변수"],
@@ -15407,10 +15402,10 @@ I18N["ko-KR"]["repository/settings/environments"] = { // 저장소 설정 - 환�
     ],
 };
 
-I18N["ko-KR"]["repository/settings/codespaces"] = { // 저장소 설정 - 코드스페이스 /<user-name>/<repo-name>/settings/codespaces
+I18N["ko-KP"]["repository/settings/codespaces"] = { // 저장소 설정 - 코드스페이스 /<user-name>/<repo-name>/settings/codespaces
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 코드스페이스 /<user-name>/<repo-name>/settings/codespaces
             // 상단 알림
@@ -15510,14 +15505,14 @@ I18N["ko-KR"]["repository/settings/codespaces"] = { // 저장소 설정 - 코드
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/settings/pages"] = { // 저장소 설정 페이지(조직 저장소 포함) /<user-name>/<repo-name>/settings
+I18N["ko-KP"]["repository/settings/pages"] = { // 저장소 설정 페이지(조직 저장소 포함) /<user-name>/<repo-name>/settings
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // GitHub 페이지 페이지 /<user-name>/<repo-name>/settings/pages====================================
             "is designed to host your personal, organization, or project pages from a GitHub repository.": "GitHub 저장소에서 개인, 조직 또는 프로젝트 페이지를 호스팅하도록 설계되었어요.",
@@ -15629,7 +15624,7 @@ I18N["ko-KR"]["repository/settings/pages"] = { // 저장소 설정 페이지(조
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Custom domain \"([a-zA-Z0-9][-a-zA-Z0-9]{0,62}(?:\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?)\" saved./, "사용자 지정 도메인 “$1”이 저장되었어요."],
         [/Both ([a-zA-Z0-9][-a-zA-Z0-9]{0,62}(?:\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?) and its alternate name are improperly configured/, "$1 및 그 대체 이름이 올바르게 구성되지 않았어요"],
         [/([a-zA-Z0-9][-a-zA-Z0-9]{0,62}(?:\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?) DNS check is in progress./, "$1 의 DNS 검사가 진행 중이에요."],
@@ -15638,10 +15633,10 @@ I18N["ko-KR"]["repository/settings/pages"] = { // 저장소 설정 페이지(조
     ],
 };
 
-I18N["ko-KR"]["repository/settings/security_analysis"] = { // 저장소 설정 - 코드 보안 및 분석 /<user-name>/<repo-name>/settings/security_analysis
+I18N["ko-KP"]["repository/settings/security_analysis"] = { // 저장소 설정 - 코드 보안 및 분석 /<user-name>/<repo-name>/settings/security_analysis
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 코드 보안 및 분석 /<user-name>/<repo-name>/settings/security_analysis
             "Security and analysis features help keep your repository secure and updated. By enabling these features, you're granting us permission to perform read-only analysis on your repository. Unarchive your repository to access additional features.": "보안 및 분석 기능은 저장소를 안전하고 최신 상태로 유지하는 데 도움을 줘요. 이 기능을 활성화하면 저장소에 대해 읽기 전용 분석을 수행할 수 있도록 권한을 부여하는 것으로, 저장소 보관 해제를 통해 추가 기능에 접근할 수 있어요.",
@@ -15850,16 +15845,16 @@ I18N["ko-KR"]["repository/settings/security_analysis"] = { // 저장소 설정 -
             "Save changes": "변경 사항 저장하기",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/(\d+) rules? enabled/, "이미 활성화된 $1개의 규칙"],
     ],
 };
 
 
-I18N["ko-KR"]["repository/settings/keys"] = { // 저장소 설정 - 배포 키 /<user-name>/<repo-name>/settings/keys
+I18N["ko-KP"]["repository/settings/keys"] = { // 저장소 설정 - 배포 키 /<user-name>/<repo-name>/settings/keys
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 배포 키 페이지 /<user-name>/<repo-name>/settings/keys====================================
             "Add deploy key": "배포 키 추가하기",
@@ -15895,16 +15890,16 @@ I18N["ko-KR"]["repository/settings/keys"] = { // 저장소 설정 - 배포 키 /
             "Key is invalid. You must supply a key in OpenSSH public key format": "키가 유효하지 않아요. OpenSSH 공개 키 형식의 키를 제공해야 해요.",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Last used within the last (\d+) weeks?/, "최근 $1주일 내에 마지막으로 사용됨"], // /keys
         [/Last used within the last (\d+) months?/, "최근 $1개월 내에 마지막으로 사용됨"], // /keys
     ],
 };
 
-I18N["ko-KR"]["repository/settings/secrets"] = { // 저장소 설정 - 기밀 /<user-name>/<repo-name>/settings/secrets
+I18N["ko-KP"]["repository/settings/secrets"] = { // 저장소 설정 - 기밀 /<user-name>/<repo-name>/settings/secrets
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 액션 기밀 및 변수 /<user-name>/<repo-name>/settings/secrets/actions
             "Actions secrets and variables": "액션 기밀 및 변수",
@@ -16027,16 +16022,16 @@ I18N["ko-KR"]["repository/settings/secrets"] = { // 저장소 설정 - 기밀 /<
             "Secret updated.": "기밀이 업데이트되었어요",
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
         [/Organization secrets for ([^ ]+) can be managed within/, "$1 의 조직 기밀은 조직 설정에서 관리할 수 있어요."], // /secrets/dependabot
     ],
 };
-I18N["ko-KR"]["repository/settings/variables"] = I18N["ko-KR"]["repository/settings/secrets"];
+I18N["ko-KP"]["repository/settings/variables"] = I18N["ko-KP"]["repository/settings/secrets"];
 
-I18N["ko-KR"]["repository/settings/installations"] = { // 仓库设置 - GitHub 应用 /<user-name>/<repo-name>/settings/installations
+I18N["ko-KP"]["repository/settings/installations"] = { // 仓库设置 - GitHub 应用 /<user-name>/<repo-name>/settings/installations
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 集成应用 页面 /<user-name>/<repo-name>/settings/installations====================================
         // 全局设置在 Applications 应用 /settings/installations
@@ -16050,14 +16045,14 @@ I18N["ko-KR"]["repository/settings/installations"] = { // 仓库设置 - GitHub 
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["repository/settings/notifications"] = { // 仓库设置 - 邮件通知 /<user-name>/<repo-name>/settings/notifications/edit
+I18N["ko-KP"]["repository/settings/notifications"] = { // 仓库设置 - 邮件通知 /<user-name>/<repo-name>/settings/notifications/edit
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         // 邮件通知管理 页面 /<user-name>/<repo-name>/settings/notifications/edit ====================================
             "Setup email addresses to receive notifications when push events are triggered.": "푸시 이벤트가 트리거될 때 알림을 받을 이메일 주소를 설정하세요.",
@@ -16074,13 +16069,13 @@ I18N["ko-KR"]["repository/settings/notifications"] = { // 仓库设置 - 邮件�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["repository-public"]["regexp"],
+        ...I18N["ko-KP"]["repository-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["repository/settings/key_links"] = { // 저장소 설정 - 자동 링크 참조 (참고: 전문 버전에서만 제공) /<user-name>/<repo-name>/settings/key_links
+I18N["ko-KP"]["repository/settings/key_links"] = { // 저장소 설정 - 자동 링크 참조 (참고: 전문 버전에서만 제공) /<user-name>/<repo-name>/settings/key_links
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
 
         "Add autolink reference": "자동 링크 참조 추가하기",
 
@@ -16108,7 +16103,7 @@ I18N["ko-KR"]["repository/settings/key_links"] = { // 저장소 설정 - 자동 
     "regexp": [],
 };
 
-I18N["ko-KR"]["repository/transfer"] = { // 저장소 이전
+I18N["ko-KP"]["repository/transfer"] = { // 저장소 이전
     "static": { // 정적 번역
 
         // 저장소 이전 /<user-name>/<repo-name>/transfer
@@ -16179,9 +16174,9 @@ I18N["ko-KR"]["repository/transfer"] = { // 저장소 이전
     ],
 };
 
-I18N["ko-KR"]["repository/codespaces"] = { // 저장소 - 코드스페이스 인터페이스 /<user-name>/<repo-name>/codespaces
+I18N["ko-KP"]["repository/codespaces"] = { // 저장소 - 코드스페이스 인터페이스 /<user-name>/<repo-name>/codespaces
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
 
         // 저장소 - 코드스페이스 인터페이스 /<user-name>/<repo-name>/codespaces
             "Codespace usage for this repository is paid for by": "이 저장소의 코드스페이스 사용 비용은 다음에서 부담해요",
@@ -16243,7 +16238,7 @@ I18N["ko-KR"]["repository/codespaces"] = { // 저장소 - 코드스페이스 인
     ],
 };
 
-I18N["ko-KR"]["repository/custom-properties"] = { // 저장소 - 사용자 지정 속성 https://github.com/<user-name>/<repo-name>/custom-properties
+I18N["ko-KP"]["repository/custom-properties"] = { // 저장소 - 사용자 지정 속성 https://github.com/<user-name>/<repo-name>/custom-properties
     "static": {
         "Custom properties": "사용자 지정 속성",
         "Custom properties allow you to decorate your repository with information such as compliance frameworks, data sensitivity, or project details.": "사용자 지정 속성을 통해 규정 준수 프레임워크, 데이터 민감도 또는 프로젝트 세부 정보와 같은 정보로 내 저장소를 장식할 수 있어요.",
@@ -16259,7 +16254,7 @@ I18N["ko-KR"]["repository/custom-properties"] = { // 저장소 - 사용자 지�
 // 저장소 관련==
 
 
-I18N["ko-KR"]["homepage"] = { // 未登录的首页
+I18N["ko-KP"]["homepage"] = { // 未登录的首页
     "static": { // 静态翻译
         //"Let’s build from here": "让我们从这里开始",
         //"The world’s leading AI-powered developer platform.": "全球领先的人工智能开发者平台.",
@@ -16484,9 +16479,9 @@ I18N["ko-KR"]["homepage"] = { // 未登录的首页
     ],
 };
 
-I18N["ko-KR"]["home"] = I18N["ko-KR"]["homepage"];
+I18N["ko-KP"]["home"] = I18N["ko-KP"]["homepage"];
 
-I18N["ko-KR"]["session-authentication"] = { // 登录页 包含(/login, /session, /sessions/two-factor, sessions/recovery, /sessions/recovery/token, /password_reset等)
+I18N["ko-KP"]["session-authentication"] = { // 登录页 包含(/login, /session, /sessions/two-factor, sessions/recovery, /sessions/recovery/token, /password_reset等)
     "static": { // 静态翻译
 
         // 登录页 https://github.com/login
@@ -16860,11 +16855,11 @@ I18N["ko-KR"]["session-authentication"] = { // 登录页 包含(/login, /session
         [/We just sent your authentication code via email to (.*)\. The code will expire at (.*)\./, "방금 인증 코드를 $1으로 보냈어요. 이 코드는 $2에 만료돼요."],
     ],
 };
-I18N["ko-KR"].login = I18N["ko-KR"]["session-authentication"];
-I18N["ko-KR"].logout = I18N["ko-KR"]["session-authentication"];
-I18N["ko-KR"].session = I18N["ko-KR"]["session-authentication"];
-I18N["ko-KR"].sessions = I18N["ko-KR"]["session-authentication"];
-I18N["ko-KR"].password_reset = I18N["ko-KR"]["session-authentication"];
+I18N["ko-KP"].login = I18N["ko-KP"]["session-authentication"];
+I18N["ko-KP"].logout = I18N["ko-KP"]["session-authentication"];
+I18N["ko-KP"].session = I18N["ko-KP"]["session-authentication"];
+I18N["ko-KP"].sessions = I18N["ko-KP"]["session-authentication"];
+I18N["ko-KP"].password_reset = I18N["ko-KP"]["session-authentication"];
 
 I18N["zh-CN"]["signup"] = { // 注册页
     "static": { // 静态翻译
@@ -16905,7 +16900,7 @@ I18N["zh-CN"]["signup"] = { // 注册页
     ],
 };
 
-I18N["ko-KR"]["notifications"] = { // 通知页面
+I18N["ko-KP"]["notifications"] = { // 通知页面
     "static": { // 静态翻译
         "Notifications": "通知",
         "All": "所有",
@@ -17063,7 +17058,7 @@ I18N["ko-KR"]["notifications"] = { // 通知页面
     ],
 };
 
-I18N["ko-KR"]["watching"] = { // 关注的仓库页面
+I18N["ko-KP"]["watching"] = { // 关注的仓库页面
     "static": { // 静态翻译
         "Notifications": "通知",
         "Watching": "关注",
@@ -17130,7 +17125,7 @@ I18N["ko-KR"]["watching"] = { // 关注的仓库页面
     ],
 };
 
-I18N["ko-KR"]["notifications/subscriptions"] = { //订阅的仓库页面
+I18N["ko-KP"]["notifications/subscriptions"] = { //订阅的仓库页面
     "static": { // 静态翻译
         "Notifications": "通知",
         "Watching": "关注",
@@ -17182,7 +17177,7 @@ I18N["ko-KR"]["notifications/subscriptions"] = { //订阅的仓库页面
     ],
 };
 
-I18N["ko-KR"]["stars"] = { // 星标 https://github.com/stars/<user-name>
+I18N["ko-KP"]["stars"] = { // 星标 https://github.com/stars/<user-name>
     "static": { // 静态翻译
         "Your Stars": "我的星标",
         "Browse your starred repositories and topics": "浏览我的星标仓库和主题",
@@ -17230,7 +17225,7 @@ I18N["ko-KR"]["stars"] = { // 星标 https://github.com/stars/<user-name>
     ],
 };
 
-I18N["ko-KR"]["issues"] = { // 이슈页面
+I18N["ko-KP"]["issues"] = { // 이슈页面
     "static": { // 静态翻译
         "Pull requests": "끌어오기 요청", // pulls
 
@@ -17345,9 +17340,9 @@ I18N["ko-KR"]["issues"] = { // 이슈页面
         [/Notify someone on an issue with a mention, like: @([^ ]+)./, "在某个问题上通知并提及某人，例如：@$1."], // 专业提示
     ],
 };
-I18N["ko-KR"].pulls = I18N["ko-KR"].issues;
+I18N["ko-KP"].pulls = I18N["ko-KP"].issues;
 
-I18N["ko-KR"]["search"] = { // 搜索页面
+I18N["ko-KP"]["search"] = { // 搜索页面
     "static": { // 静态翻译
         "More than": "多余",
         "ms": "毫秒", // 时间，前面"结果"走正则匹配
@@ -17731,9 +17726,9 @@ I18N["ko-KR"]["search"] = { // 搜索页面
         ["#search_form > div.container-lg.p-responsive.advanced-search-form > fieldset:nth-child(3) > label > select > option:nth-child(2)", "要"],
     ],
 };
-I18N["ko-KR"]["repository/search"] = I18N["ko-KR"]["search"];
+I18N["ko-KP"]["repository/search"] = I18N["ko-KP"]["search"];
 
-I18N["ko-KR"]["discussions"] = {
+I18N["ko-KP"]["discussions"] = {
     "static": { // 静态翻译
         // https://github.com/discussions
             "Discussions": "토론",
@@ -17752,7 +17747,7 @@ I18N["ko-KR"]["discussions"] = {
     ],
 };
 
-I18N["ko-KR"]["gist"] = { // 代码片段页面
+I18N["ko-KP"]["gist"] = { // 代码片段页面
     "static": { // 静态翻译
         // 快捷键
         "Site wide shortcuts": "全局快捷键",
@@ -18014,7 +18009,7 @@ I18N["ko-KR"]["gist"] = { // 代码片段页面
     ],
 };
 
-I18N["ko-KR"]["login/oauth"] = { // 应用授权
+I18N["ko-KP"]["login/oauth"] = { // 应用授权
     "static": { // 静态翻译
         // 第三页 安装中
 
@@ -18092,9 +18087,9 @@ I18N["ko-KR"]["login/oauth"] = { // 应用授权
         [/Selected (\d+) repositor(y|ies)./, "选择了 $1 个仓库."],
     ],
 };
-// I18N["ko-KR"]["installations/new"] = I18N["ko-KR"]["login/oauth"];
+// I18N["ko-KP"]["installations/new"] = I18N["ko-KP"]["login/oauth"];
 
-I18N["ko-KR"]["explore"] = { // 探索页面
+I18N["ko-KP"]["explore"] = { // 探索页面
     "static": { // 静态翻译
 
         // github.com/explore
@@ -18167,7 +18162,7 @@ I18N["ko-KR"]["explore"] = { // 探索页面
     ],
 };
 
-I18N["ko-KR"]["topics"] = { // 探索-->主题页面
+I18N["ko-KP"]["topics"] = { // 探索-->主题页面
     "static": { // 静态翻译
 
         // github.com/topics
@@ -18224,7 +18219,7 @@ I18N["ko-KR"]["topics"] = { // 探索-->主题页面
     ],
 };
 
-I18N["ko-KR"]["trending"] = { // 热门页面
+I18N["ko-KP"]["trending"] = { // 热门页面
     "static": { // 静态翻译
         "Explore": "탐험하기",
         "Topics": "主题",
@@ -18287,7 +18282,7 @@ I18N["ko-KR"]["trending"] = { // 热门页面
     ],
 };
 
-I18N["ko-KR"]["collections"] = { // 集合页面
+I18N["ko-KP"]["collections"] = { // 集合页面
     "static": { // 静态翻译
         "Explore": "탐험하기",
         "Topics": "主题",
@@ -18307,7 +18302,7 @@ I18N["ko-KR"]["collections"] = { // 集合页面
     ],
 };
 
-I18N["ko-KR"]["events"] = { // 活动页面
+I18N["ko-KP"]["events"] = { // 活动页面
     "static": { // 静态翻译
         "Signed in as": "登录身份为",
         "Help": "帮助",
@@ -18327,7 +18322,7 @@ I18N["ko-KR"]["events"] = { // 活动页面
     ],
 };
 
-I18N["ko-KR"]["sponsors"] = { // 赞助界面
+I18N["ko-KP"]["sponsors"] = { // 赞助界面
     "static": {
         // 赞助者首页 https://github.com/sponsors
             "Invest in the software that powers your world": "投资驱动您世界的项目",
@@ -18535,7 +18530,7 @@ I18N["ko-KR"]["sponsors"] = { // 赞助界面
     ],
 };
 
-I18N["ko-KR"]["showcases"] = { // 展示页面
+I18N["ko-KP"]["showcases"] = { // 展示页面
     "static": { // 静态翻译
         "Open source showcases": "开源展示",
         "Browse popular repositories based on the topic that interests you most.": "浏览热门仓库基于您最感兴趣的主题.",
@@ -18545,7 +18540,7 @@ I18N["ko-KR"]["showcases"] = { // 展示页面
     ],
 };
 
-I18N["ko-KR"]["account/organizations/new"] = { // 创建组织
+I18N["ko-KP"]["account/organizations/new"] = { // 创建组织
     "static": { // 静态翻译
         // 创建免费的组织 https://github.com/account/organizations/new?coupon=&plan=team_free
         // https://github.com/account/organizations/new?coupon=&plan=free
@@ -18605,7 +18600,7 @@ I18N["ko-KR"]["account/organizations/new"] = { // 创建组织
     ],
 };
 
-I18N["ko-KR"]["account/choose"] = { // 账户升级选择
+I18N["ko-KP"]["account/choose"] = { // 账户升级选择
     "static": { // 静态翻译
         // https://github.com/account/choose?action=upgrade
             "Which do you want to upgrade?": "您想升级哪个？",
@@ -18618,7 +18613,7 @@ I18N["ko-KR"]["account/choose"] = { // 账户升级选择
     ],
 };
 
-I18N["ko-KR"]["account/upgrade"] = { // 账户
+I18N["ko-KP"]["account/upgrade"] = { // 账户
     "static": {
         "Change how often your account is billed": "更改您账户的计费频率",
 
@@ -18681,14 +18676,14 @@ I18N["ko-KR"]["account/upgrade"] = { // 账户
     },
     "regexp": [
         [/Payment due (.+)/, (match, p1) => {
-        const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+        const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
         const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
         return `${translatedDate}结算`;
         }],
     ],
 };
 
-I18N["ko-KR"]["marketplace"] = { // GitHub 장터
+I18N["ko-KP"]["marketplace"] = { // GitHub 장터
     "static": { // 정적 번역
 
         // GitHub 장터 메인 페이지 및 관련 type 페이지 https://github.com/marketplace
@@ -19266,7 +19261,7 @@ I18N["ko-KR"]["marketplace"] = { // GitHub 장터
     ],
 };
 
-I18N["ko-KR"]["apps"] = { // GitHub 应用
+I18N["ko-KP"]["apps"] = { // GitHub 应用
     "static": { // 静态翻译
 
         // GitHub 应用页面 https://github.com/apps/<app-name>
@@ -19360,7 +19355,7 @@ I18N["ko-KR"]["apps"] = { // GitHub 应用
     ],
 };
 
-I18N["ko-KR"]["orgs"] = { // 组织页面
+I18N["ko-KP"]["orgs"] = { // 组织页面
     "static": { // 静态翻译
         //>>>>>>>>>>>>>>>>>> 组织主页/概况页 <<<<<<<<<<<<<<<<<<<<<
             // [/doesn't have any pinned public repositories yet./, "还没有任何置顶的公共仓库."],
@@ -19549,22 +19544,22 @@ I18N["ko-KR"]["orgs"] = { // 组织页面
         [/Invite a member to/, "邀请成员加入"],
         [/\((\d+) issues? need help\)/, "($1 个이슈需要帮助)"],
         [/([^ ]+)’s past year of commit activity/, "近几年 $1 的提交活动"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
     "selector": [ // 元素筛选器规则
         ["#type-options > summary > span:nth-child(1)", "유형"], // 组织主页 --> 仓库标签页-->类型筛选器 Type
     ],
 };
 
-I18N["ko-KR"]["orgs/repositories"] = I18N["ko-KR"]["page-profile/repositories"];
+I18N["ko-KP"]["orgs/repositories"] = I18N["ko-KP"]["page-profile/repositories"];
 
-I18N["ko-KR"]["orgs/projects"] = I18N["ko-KR"]["page-profile/projects"];
+I18N["ko-KP"]["orgs/projects"] = I18N["ko-KP"]["page-profile/projects"];
 
-I18N["ko-KR"]["orgs/packages"] = I18N["ko-KR"]["page-profile/packages"];
+I18N["ko-KP"]["orgs/packages"] = I18N["ko-KP"]["page-profile/packages"];
 
-I18N["ko-KR"]["orgs/people"] = { // 组织 - 成员标签卡
+I18N["ko-KP"]["orgs/people"] = { // 组织 - 成员标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-public"]["static"],
+        ...I18N["ko-KP"]["orgs-public"]["static"],
 
         // 成员标签页 https://github.com/orgs/<orgs-name>/people
             // 左侧栏
@@ -19705,20 +19700,20 @@ I18N["ko-KR"]["orgs/people"] = { // 组织 - 成员标签卡
         [/You've canceled (\d+) invitations? from ([^ ]+). It may take a few minutes to process./, "您已经取消了来自 $2 的 $1 个邀请.可能需要几分钟处理."],
         [/(\d+) invitations?/, "$1 邀请"],
         [/Invited on (.+)/, (match, p1) => {
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `邀请于${translatedDate}`;
         }],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
    ],
 };
-I18N["ko-KR"]["orgs/outside-collaborators"] = I18N["ko-KR"]["orgs/people"];
-I18N["ko-KR"]["orgs/pending_collaborators"] = I18N["ko-KR"]["orgs/people"];
+I18N["ko-KP"]["orgs/outside-collaborators"] = I18N["ko-KP"]["orgs/people"];
+I18N["ko-KP"]["orgs/pending_collaborators"] = I18N["ko-KP"]["orgs/people"];
 
 
-I18N["ko-KR"]["orgs/teams"] = { // 组织 - 团队标签卡
+I18N["ko-KP"]["orgs/teams"] = { // 组织 - 团队标签卡
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-public"]["static"],
+        ...I18N["ko-KP"]["orgs-public"]["static"],
 
         // 团队标签卡 https://github.com/orgs/<orgs-name>/teams
             "Seamless communication with teams": "与团队的无缝沟通",
@@ -19766,14 +19761,14 @@ I18N["ko-KR"]["orgs/teams"] = { // 组织 - 团队标签卡
     "regexp": [ // 正则翻译
         [/(\d+) members?/, "$1 成员"],
         [/(\d+) teams?/, "$1 团队"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/new-team"]= I18N["ko-KR"]["orgs/teams"];
+I18N["ko-KP"]["orgs/new-team"]= I18N["ko-KP"]["orgs/teams"];
 
-I18N["ko-KR"]["orgs/invitations"] = { // 组织 - 邀请页面
+I18N["ko-KP"]["orgs/invitations"] = { // 组织 - 邀请页面
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-public"]["static"],
+        ...I18N["ko-KP"]["orgs-public"]["static"],
 
         // 邀请 https://github.com/orgs/<orgs-name>/invitations/<user-name>/edit
             // [/Invite ([^ ]+) to ([^ ]+)/, "邀请 $1 加入 $2 组织"],
@@ -19807,7 +19802,7 @@ I18N["ko-KR"]["orgs/invitations"] = { // 组织 - 邀请页面
     ],
 };
 
-I18N["ko-KR"]["orgs/invitation"] = { // 组织 - 接受邀请页面
+I18N["ko-KP"]["orgs/invitation"] = { // 组织 - 接受邀请页面
     "static": {
 
         // 接受邀请 https://github.com/<orgs-name>/invitation
@@ -19839,11 +19834,11 @@ I18N["ko-KR"]["orgs/invitation"] = { // 组织 - 接受邀请页面
     "regexp": [
         [/Join ([^ ]+)/, "加入 $1"],
         [/of ([^ ]+) may be able to see:/, "$1 将可以查看："],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/domain/new"] = { // 组织 - 添加域名
+I18N["ko-KP"]["orgs/domain/new"] = { // 组织 - 添加域名
     "static": { // 静态翻译
         "Verified & approved domains": "经验证和批准的域名",
         "Add a domain": "添加域名",
@@ -19852,13 +19847,13 @@ I18N["ko-KR"]["orgs/domain/new"] = { // 组织 - 添加域名
         "Domain name has already been added": "域名已添加",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/profile"] = { // 组织设置 - 组织资料
+I18N["ko-KP"]["orgs/settings/profile"] = { // 组织设置 - 组织资料
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 组织资料 /organizations/<org-login>/settings/profile
             "Most organization settings are hidden for an archived organization. This organization must be unarchived to change them.": "对于已存档的组织，组织大多数设置都是隐藏的.必须取消对该组织的归档才能更改它们.",
@@ -19984,13 +19979,13 @@ I18N["ko-KR"]["orgs/settings/profile"] = { // 组织设置 - 组织资料
     "regexp": [ // 正则翻译
         [/Your organization ([^ ]+) is being archived./, "您的组织 $1 已归档."],
         [/Your organization ([^ ]+) has been unarchived./, "您的组织 $1 已解除归档."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/roles"] = { // 组织设置 - 仓库角色
+I18N["ko-KP"]["orgs/settings/roles"] = { // 组织设置 - 仓库角色
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 仓库角色 /organizations/<org-login>/settings/roles
             // "Roles are used to grant access and permissions for teams and members. In addition to the available pre-defined roles, you can create up to 0 custom roles to fit your needs.": "角色是用来为团队和成员授予访问和权限的.除了可用的预定义角色外，您可以创建多达 0 个自定义角色以满足您的需求.",
@@ -20020,13 +20015,13 @@ I18N["ko-KR"]["orgs/settings/roles"] = { // 组织设置 - 仓库角色
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/member_privileges"] = { // 组织设置 - 成员权限
+I18N["ko-KP"]["orgs/settings/member_privileges"] = { // 组织设置 - 成员权限
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 成员权限 /organizations/<org-login>/settings/member_privileges
             "Member repository permissions": "成员仓库权限",
@@ -20168,13 +20163,13 @@ I18N["ko-KR"]["orgs/settings/member_privileges"] = { // 组织设置 - 成员权
     "regexp": [ // 正则翻译
         [/This may change the permission that the organization’s (\d+) members? has on its (\d+) repositories?./, "这可能会更改组织的 $1 个成员对其 $2 个仓库的权限."], // 组织 基本权限更改
         [/If enabled, all users with read access can create and comment on discussions in ([^ ]+)’s repositories./, "如果启用，所有具有读取权限的用户都可以在 $1 的仓库中创建和评论讨论."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/teams"] = { // 组织设置 - 团队讨论
+I18N["ko-KP"]["orgs/settings/teams"] = { // 组织设置 - 团队讨论
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 团队讨论 /organizations/<org-login>/settings/teams
             "Team discussions provide a place for a team to have conversations that span across projects or repositories and that don’t belong in an issue or a pull request.": "团队讨论为团队提供了一个进行跨项目或仓库，且不属于이슈或拉取请求的对话的场所.",
@@ -20193,13 +20188,13 @@ I18N["ko-KR"]["orgs/settings/teams"] = { // 组织设置 - 团队讨论
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/import-export"] = { // 组织设置 - 导入/导出
+I18N["ko-KP"]["orgs/settings/import-export"] = { // 组织设置 - 导入/导出
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // Import/Export 导入/导出 - 占位账户 /organizations/<org-login>/settings/import-export
             "Mannequins": "占位账户",
@@ -20214,13 +20209,13 @@ I18N["ko-KR"]["orgs/settings/import-export"] = { // 组织设置 - 导入/导出
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/blocked_users"] = { // 组织设置 - 黑名单
+I18N["ko-KP"]["orgs/settings/blocked_users"] = { // 组织设置 - 黑名单
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // Blocked users 黑名单 /organizations/<org-login>/settings/blocked_users
             "Block a user": "拉黑用户",
@@ -20243,13 +20238,13 @@ I18N["ko-KR"]["orgs/settings/blocked_users"] = { // 组织设置 - 黑名单
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/interaction_limits"] = { // 组织设置 - 互动限制
+I18N["ko-KP"]["orgs/settings/interaction_limits"] = { // 组织设置 - 互动限制
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // Interaction limits 互动限制 /organizations/<org-login>/settings/interaction_limits
             "Temporary interaction limits": "临时互动限制",
@@ -20282,13 +20277,13 @@ I18N["ko-KR"]["orgs/settings/interaction_limits"] = { // 组织设置 - 互动�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/code_review_limits"] = { // 组织设置 - 代码审查限制
+I18N["ko-KP"]["orgs/settings/code_review_limits"] = { // 组织设置 - 代码审查限制
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 代码审查限制 /organizations/<org-login>/settings/code_review_limits
             "Restrict users who are permitted to approve or request changes on pull requests in public repositories within this organization.": "限制该组织内允许批准或请求更改公共仓库中拉取请求的用户.",
@@ -20300,13 +20295,13 @@ I18N["ko-KR"]["orgs/settings/code_review_limits"] = { // 组织设置 - 代码�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/moderators"] = { // 组织设置 - 版主
+I18N["ko-KP"]["orgs/settings/moderators"] = { // 组织设置 - 版主
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // Moderators 版主 /organizations/<org-login>/settings/moderators
             "You can add organization members or teams as moderators for your organization. Moderators can block and unblock users from the organization, minimize comments, and manage interaction limits for all public organization repositories.": "您可以将组织成员或团队添加为组织的主版主.版主可以阻止和解除对该组织用户的阻止、最小化评论、并管理所有公共组织仓库的交互限制.",
@@ -20325,13 +20320,13 @@ I18N["ko-KR"]["orgs/settings/moderators"] = { // 组织设置 - 版主
     "regexp": [ // 正则翻译
         [/Successfully added (@[^\n]+) as a moderator/, "已成功将 $1 添加为版主"],
         [/Successfully removed (@[^\n]+) as a moderator/, "已成功将 $1 的版主身份移除"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/repository-defaults"] = { // 组织设置 - 仓库 / 默认值
+I18N["ko-KP"]["orgs/settings/repository-defaults"] = { // 组织设置 - 仓库 / 默认值
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 仓库默认分支 /organizations/<org-login>/settings/repository-defaults
             "Repository default branch": "仓库默认分支",
@@ -20398,13 +20393,13 @@ I18N["ko-KR"]["orgs/settings/repository-defaults"] = { // 组织设置 - 仓库 
     "regexp": [ // 正则翻译
         [/New repositories created in ([^ ]+) will use main as their default branch./, "在 $1 中创建的新仓库将使用 main 作为其默认分支."],
         [/Your default branch name will be ([^ ]+)/, "您的默认分支名称将是 $1"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/topics"] = { // 组织设置 - 仓库 /仓库主题
+I18N["ko-KP"]["orgs/topics"] = { // 组织设置 - 仓库 /仓库主题
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 仓库主题 /orgs/<org-login>/topics
             "No repositories": "尚无仓库",
@@ -20414,13 +20409,13 @@ I18N["ko-KR"]["orgs/topics"] = { // 组织设置 - 仓库 /仓库主题
     "regexp": [ // 正则翻译
         [/([^ ]+) repositories you contribute to/, "您贡献的 $1 仓库"],
         [/There are no repositories in ([^ ]+) that you’ve contributed to and that you can set topics on./, "$1  中没有您贡献过的并且可以设置主题的仓库."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/codespaces"] = { // 组织设置 - 仓库 /代码空间
+I18N["ko-KP"]["orgs/settings/codespaces"] = { // 组织设置 - 仓库 /代码空间
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
         "To manage Codespace ownership settings, please": "要管理代码空间所有权设置，请",
         "upgrade your plan": "升级您的计划",
         "to enable your organization.": "以启用您的组织.",
@@ -20454,13 +20449,13 @@ I18N["ko-KR"]["orgs/settings/codespaces"] = { // 组织设置 - 仓库 /代码�
                 "All codespaces created by your organization’s members on your organization’s repositories are owned by the creating member": "组织的成员在组织仓库上创建的所有代码空间都归创建成员所有",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/copilot"] = {  // 组织设置 - GitHub Copilot
+I18N["ko-KP"]["orgs/settings/copilot"] = {  // 组织设置 - GitHub Copilot
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 组织设置 - GitHub Copilot /orgs/<org-login>/settings/copilot
             "The AI powered pair programmer for your organization. Once you complete onboarding, you’ll have the ability to manage policies and control which users or teams will have access to": "为您的组织提供人工智能助理程序员.完成入职后，您将能够管理策略并控制哪些用户或团队有权访问组织内的",
@@ -20469,13 +20464,13 @@ I18N["ko-KR"]["orgs/settings/copilot"] = {  // 组织设置 - GitHub Copilot
             "Enable GitHub Copilot": "启用 GitHub Copilot",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/actions"] = { // 组织设置 - 操作
+I18N["ko-KP"]["orgs/settings/actions"] = { // 组织设置 - 操作
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 操作页面 /organizations/<org-login>/settings/actions
             "General actions permissions": "常规操作权限",
@@ -20683,13 +20678,13 @@ I18N["ko-KR"]["orgs/settings/actions"] = { // 组织设置 - 操作
         [/Any action or reusable workflow that matches the specified criteria, plus those defined in a repository within the ([^ ]+) organization, can be used./, "可以使用符合指定条件的操作或可复用的工作流程，以及在 $1 组织内的仓库中定义的操作或可复用的工作流程."], // 操作页面
         [/(\d+) active jobs?/ ,"$1 个活跃的工作"], // settings/actions/runners
         [/(\d+) caches?/, "$1 项缓存"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/discussions"] = { // 组织设置 - 讨论
+I18N["ko-KP"]["orgs/settings/discussions"] = { // 组织设置 - 讨论
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 讨论 /organizations/<org-login>/settings/discussions
             "Discussions for your organization": "您组织的讨论",
@@ -20710,13 +20705,13 @@ I18N["ko-KR"]["orgs/settings/discussions"] = { // 组织设置 - 讨论
                 "View organization discussions": "查看组织讨论",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/projects"] = { // 组织设置 - 计划 - 项目
+I18N["ko-KP"]["orgs/settings/projects"] = { // 组织设置 - 计划 - 项目
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 项目 /organizations/<org-login>/settings/projects
             "Projects on GitHub help you organize and prioritize your work. You can create projects for specific feature work, comprehensive roadmaps, or even release checklists.": "GitHub 上的项目可以帮助您组织和安排工作的优先级.您可以为特定的功能工作、全面的路线图、甚至是发布清单创建项目.",
@@ -20735,13 +20730,13 @@ I18N["ko-KR"]["orgs/settings/projects"] = { // 组织设置 - 计划 - 项目
                 "New template": "新建模板",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/security"] = { // 组织设置 - 身份验证安全
+I18N["ko-KP"]["orgs/settings/security"] = { // 组织设置 - 身份验证安全
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 身份验证安全  /organizations/<org-login>/settings/security
             "Two-factor authentication": "双因素身份验证",
@@ -20766,13 +20761,13 @@ I18N["ko-KR"]["orgs/settings/security"] = { // 组织设置 - 身份验证安全
     },
     "regexp": [ // 正则翻译
         [/Require two-factor authentication for everyone in the ([^]+) organization./, "要求对 $1 组织中的每个成员进行双因素身份验证."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/security_analysis"] = { // 组织设置 - 代码安全性与分析
+I18N["ko-KP"]["orgs/settings/security_analysis"] = { // 组织设置 - 代码安全性与分析
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 代码安全性与分析 /organizations/<org-login>/settings/security_analysis
             "Try our new settings": "尝试我们的新设置",
@@ -20939,15 +20934,15 @@ I18N["ko-KR"]["orgs/settings/security_analysis"] = { // 组织设置 - 代码安
         [/This will disable push protection on (\d+) repositori(y|es) where it is enabled./, "这将在已启用推送保护的 $1 个仓库中禁用推送保护."],
         [/(\d+) rules? enabled/, "$1 条规则启用"],
         [/(\d+) selected repositor(y|ies)/, "$1 个选定的仓库"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/dependabot_rules"] = { // 组织设置 - Dependabot 规则
+I18N["ko-KP"]["orgs/settings/dependabot_rules"] = { // 组织设置 - Dependabot 规则
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-settings-menu"]["static"],
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // Dependabot 规则 /organizations/<org-login>/settings/dependabot_rules
             // 顶部提醒
@@ -21037,14 +21032,14 @@ I18N["ko-KR"]["orgs/settings/dependabot_rules"] = { // 组织设置 - Dependabot
     "regexp": [ // 正则翻译
         [/Managed by ([^ ]+)/, "由 $1 管理"],
         [/This will permanently delete the rule \"(.*)\" and potentially reopen associated alerts./, "这将永久删除规则 “$1” 并可能重新打开相关警报."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["repository/settings/dependabot_rules"] = I18N["ko-KR"]["orgs/settings/dependabot_rules"];
+I18N["ko-KP"]["repository/settings/dependabot_rules"] = I18N["ko-KP"]["orgs/settings/dependabot_rules"];
 
-I18N["ko-KR"]["orgs/settings/domains"] = { // 组织设置 - 经验证和批准的域名
+I18N["ko-KP"]["orgs/settings/domains"] = { // 组织设置 - 经验证和批准的域名
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 经验证和批准的域名 /organizations/<org-login>/settings/domains
             "Verified & approved domains": "经验证和批准的域名",
@@ -21054,14 +21049,14 @@ I18N["ko-KR"]["orgs/settings/domains"] = { // 组织设置 - 经验证和批准�
             "Learn more about verifying or approving a domain for your enterprise.": "了解更多关于验证或批准企业域名的信息.",
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/secrets"] = { // 组织设置 - 机密和变量
+I18N["ko-KP"]["orgs/settings/secrets"] = { // 组织设置 - 机密和变量
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
-        ...I18N["ko-KR"]["confirm-access"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["confirm-access"]["static"],
 
         // 操作机密 /organizations/<org-login>/settings/secrets/actions
             "Actions secrets and variables": "操作机密和变量",
@@ -21235,14 +21230,14 @@ I18N["ko-KR"]["orgs/settings/secrets"] = { // 组织设置 - 机密和变量
     },
     "regexp": [ // 正则翻译
         [/(\d+) selected repositor(y|ies)/, "$1 个选定的仓库"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/settings/variables"] = I18N["ko-KR"]["orgs/settings/secrets"];
+I18N["ko-KP"]["orgs/settings/variables"] = I18N["ko-KP"]["orgs/settings/secrets"];
 
-I18N["ko-KR"]["orgs/settings/oauth_application_policy"] = { // 组织设置 - 第三方应用访问策略
+I18N["ko-KP"]["orgs/settings/oauth_application_policy"] = { // 组织设置 - 第三方应用访问策略
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 第三方应用访问策略 /organizations/<org-login>/settings/oauth_application_policy
             "Third-party application access policy": "第三方应用访问策略",
@@ -21292,13 +21287,13 @@ I18N["ko-KR"]["orgs/settings/oauth_application_policy"] = { // 组织设置 - �
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/personal-access-token"] = { // 组织设置 - 个人访问令牌
+I18N["ko-KP"]["orgs/settings/personal-access-token"] = { // 组织设置 - 个人访问令牌
     "static": { // 静态翻译
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 个人访问令牌 - 精细化令牌 /organizations/<org-login>/settings/personal-access-tokens
             "Fine-grained tokens": "精细化令牌",
@@ -21414,12 +21409,12 @@ I18N["ko-KR"]["orgs/settings/personal-access-token"] = { // 组织设置 - 个�
 
     },
     "regexp": [ // 正则翻译
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/settings/reminders"] = { // 조직 설정 - 정기 알림
+I18N["ko-KP"]["orgs/settings/reminders"] = { // 조직 설정 - 정기 알림
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 정기 알림 /organizations/<org-login>/settings/reminders
             "No scheduled reminders created.": "예정된 알림이 없어요.",
@@ -21436,13 +21431,13 @@ I18N["ko-KR"]["orgs/settings/reminders"] = { // 조직 설정 - 정기 알림
 
     },
     "regexp": [ // 정규 표현 번역
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/sponsors-log"] = { // 조직 설정 - 후원 로그
+I18N["ko-KP"]["orgs/settings/sponsors-log"] = { // 조직 설정 - 후원 로그
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 스폰서 로그 /organizations/<org-login>/settings/sponsors-log
             "Sponsors log": "스폰서 로그",
@@ -21460,13 +21455,13 @@ I18N["ko-KR"]["orgs/settings/sponsors-log"] = { // 조직 설정 - 후원 로그
     },
     "regexp": [ // 정규 표현 번역
         [/This is where you can review activity from ([^ ]+)'s sponsorships./,  "여기에서 $1 님의 후원 활동을 확인할 수 있어요."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/audit-log"] = { // 조직 설정 - 감사 로그
+I18N["ko-KP"]["orgs/settings/audit-log"] = { // 조직 설정 - 감사 로그
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 감사 로그 /organizations/<org-login>/settings/audit-log
             "Events": "이벤트",
@@ -21507,14 +21502,14 @@ I18N["ko-KR"]["orgs/settings/audit-log"] = { // 조직 설정 - 감사 로그
     },
     "regexp": [ // 정규 표현 번역
         [/Found (\d+) events?/, "이벤트 $1개를 찾았어요"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
-I18N["ko-KR"]["orgs/audit-log/event_settings"] = I18N["ko-KR"]["orgs/settings/audit-log"];
+I18N["ko-KP"]["orgs/audit-log/event_settings"] = I18N["ko-KP"]["orgs/settings/audit-log"];
 
-I18N["ko-KR"]["orgs/settings/deleted_repositories"] = { // 조직 설정 - 삭제된 저장소
+I18N["ko-KP"]["orgs/settings/deleted_repositories"] = { // 조직 설정 - 삭제된 저장소
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 삭제된 저장소 /organizations/<org-login>/settings/deleted_repositories
             "Deleted Repositories": "삭제된 저장소",
@@ -21524,13 +21519,13 @@ I18N["ko-KR"]["orgs/settings/deleted_repositories"] = { // 조직 설정 - 삭�
     },
     "regexp": [ // 정규 표현 번역
         [/No recoverable repositories were found for ([^ ]+)./, " $1 에서 복구 가능한 저장소를 찾을 수 없어요"],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/applications"] = { // 조직 설정 - OAuth 앱
+I18N["ko-KP"]["orgs/settings/applications"] = { // 조직 설정 - OAuth 앱
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // OAuth 앱 /organizations/<org-login>/settings/applications
             "OAuth apps": "OAuth 앱",
@@ -21540,14 +21535,14 @@ I18N["ko-KR"]["orgs/settings/applications"] = { // 조직 설정 - OAuth 앱
 
     },
     "regexp": [ // 정규 표현 번역
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
 
-I18N["ko-KR"]["orgs/settings/apps"] = { // 조직 설정 - GitHub 앱
+I18N["ko-KP"]["orgs/settings/apps"] = { // 조직 설정 - GitHub 앱
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // GitHub 앱 /organizations/<org-login>/settings/apps
             "No GitHub Apps": "아직 GitHub 앱이 없어요",
@@ -21563,13 +21558,13 @@ I18N["ko-KR"]["orgs/settings/apps"] = { // 조직 설정 - GitHub 앱
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["orgs/settings/publisher"] = { // 조직 설정 - GitHub 게시자 검증
+I18N["ko-KP"]["orgs/settings/publisher"] = { // 조직 설정 - GitHub 게시자 검증
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["orgs-settings-menu"]["static"],
+        ...I18N["ko-KP"]["orgs-settings-menu"]["static"],
 
         // 게시자 검증 /organizations/<org-login>/settings/publisher
             "There must be 1 or more GitHub/OAuth App registered by the organization to request publisher verification": "게시자 검증을 요청하려면 조직에 최소 1개의 GitHub/OAuth 앱이 등록되어 있어야 해요",
@@ -21579,11 +21574,11 @@ I18N["ko-KR"]["orgs/settings/publisher"] = { // 조직 설정 - GitHub 게시자
 
     },
     "regexp": [ // 정규식 번역
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["projects"] = { // 프로젝트 페이지(저장소 프로젝트 포함)
+I18N["ko-KP"]["projects"] = { // 프로젝트 페이지(저장소 프로젝트 포함)
     "static": { // 정적 번역
         // >>>>>>>>>>>>>>>>>>저장소 공용 부분<<<<<<<<<<<<<<<<<<<<<<<<<<<
             // 헤더 바
@@ -22130,10 +22125,10 @@ I18N["ko-KR"]["projects"] = { // 프로젝트 페이지(저장소 프로젝트 �
     ],
 };
 
-I18N["ko-KR"]["new/project"] = I18N["ko-KR"]["projects"];
-I18N["ko-KR"]["repository/projects/new"] = I18N["ko-KR"]["projects"];
+I18N["ko-KP"]["new/project"] = I18N["ko-KP"]["projects"];
+I18N["ko-KP"]["repository/projects/new"] = I18N["ko-KP"]["projects"];
 
-I18N["ko-KR"]["redeem"] = { // 교환 페이지
+I18N["ko-KP"]["redeem"] = { // 교환 페이지
     "static": { // 정적 번역
         "Enter coupon code": "쿠폰 코드 입력하기",
         "Redeem": "교환하기",
@@ -22142,9 +22137,9 @@ I18N["ko-KR"]["redeem"] = { // 교환 페이지
     ],
 };
 
-I18N["ko-KR"]["github-copilot/signup"] = { // GitHub Copilot 개인 버전 가입 페이지
+I18N["ko-KP"]["github-copilot/signup"] = { // GitHub Copilot 개인 버전 가입 페이지
     "static": { // 정적 번역
-        ...I18N["ko-KR"]["settings/copilot"]["static"],
+        ...I18N["ko-KP"]["settings/copilot"]["static"],
 
         // https://github.com/github-copilot/signup
            "GitHub Copilot Individual": "GitHub Copilot 개인 버전",
@@ -22187,7 +22182,7 @@ I18N["ko-KR"]["github-copilot/signup"] = { // GitHub Copilot 개인 버전 가�
         "Select your preferences": "설정 선택하기",
             "You can change these at any time from your account settings.": "언제든지 계정 설정에서 변경할 수 있어요.",
 
-            // 이 부분은 I18N["ko-KR"]["settings/copilot"]의 일부 항목을 참조해 주세요.
+            // 이 부분은 I18N["ko-KP"]["settings/copilot"]의 일부 항목을 참조해 주세요.
 
             "Save and complete setup": "저장하고 설정 완료하기",
 
@@ -22205,7 +22200,7 @@ I18N["ko-KR"]["github-copilot/signup"] = { // GitHub Copilot 개인 버전 가�
     ],
 };
 
-I18N["ko-KR"]["github-copilot/free_signup"] = { // GitHub Copilot 개인 무료 버전 가입 페이지
+I18N["ko-KP"]["github-copilot/free_signup"] = { // GitHub Copilot 개인 무료 버전 가입 페이지
     "static": { // 정적 번역
 
         "Your AI pair programmer": "나만의 AI 페어 프로그래머",
@@ -22224,7 +22219,7 @@ I18N["ko-KR"]["github-copilot/free_signup"] = { // GitHub Copilot 개인 무료 
     ],
 };
 
-I18N["ko-KR"]["orgs/enterprise_plan"] = { // 엔터프라이즈 플랜 구독 페이지
+I18N["ko-KP"]["orgs/enterprise_plan"] = { // 엔터프라이즈 플랜 구독 페이지
     "static": {
         // https://github.com/organizations/enterprise_plan
             "Pick your trial plan": "체험 요금제 선택하기",
@@ -22241,7 +22236,7 @@ I18N["ko-KR"]["orgs/enterprise_plan"] = { // 엔터프라이즈 플랜 구독 �
     ],
 };
 
-I18N["ko-KR"]["codespaces"] = { // 코드스페이스 페이지
+I18N["ko-KP"]["codespaces"] = { // 코드스페이스 페이지
     "static": {
         // https://github.com/codespaces
             "All": "모두",
@@ -22401,7 +22396,7 @@ I18N["ko-KR"]["codespaces"] = { // 코드스페이스 페이지
         [/Are you sure you want to delete/, "정말로 삭제하시겠어요?"],
         [/(.+) has unpushed changes, are you sure you want to delete\?/, "$1에 푸시되지 않은 변경 사항이 있어요, 정말로 삭제하시겠어요?"],
         [/Last used (.+)/, (match, p1) => {
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `마지막 사용${translatedDate}`;
         }],
@@ -22409,7 +22404,7 @@ I18N["ko-KR"]["codespaces"] = { // 코드스페이스 페이지
     ],
 };
 
-I18N["ko-KR"]["codespaces/allow_permissions"] = { // 코드스페이스 추가 권한 요청 페이지 (사용 불가로 보임)
+I18N["ko-KP"]["codespaces/allow_permissions"] = { // 코드스페이스 추가 권한 요청 페이지 (사용 불가로 보임)
     "static": {
         "This codespace is requesting": "이 코드스페이스에서 요청 중인",
         "additional permissions": "추가 권한",
@@ -22429,7 +22424,7 @@ I18N["ko-KR"]["codespaces/allow_permissions"] = { // 코드스페이스 추가 �
     ],
 };
 
-I18N["ko-KR"]["developer/register"] = { // 개발자 등록 페이지
+I18N["ko-KP"]["developer/register"] = { // 개발자 등록 페이지
     "static": {
         // https://github.com/developer/register
             // 제목
@@ -22466,7 +22461,7 @@ I18N["ko-KR"]["developer/register"] = { // 개발자 등록 페이지
     ],
 };
 
-I18N["ko-KR"]["features"] = {
+I18N["ko-KP"]["features"] = {
     "static": {
         "The tools you need to build what you want.": "원하는 것을 만들기 위한 도구예요.",
         // 칸반
@@ -22521,7 +22516,7 @@ I18N["ko-KR"]["features"] = {
 };
 
 
-I18N["ko-KR"]["status"] = { // GitHub 상태
+I18N["ko-KP"]["status"] = { // GitHub 상태
     "static": {
         // https://www.githubstatus.com/
             "Help": "도움말",
@@ -22638,7 +22633,7 @@ I18N["ko-KR"]["status"] = { // GitHub 상태
     ],
 };
 
-I18N["ko-KR"]["skills"] = { // https://skills.github.com/
+I18N["ko-KP"]["skills"] = { // https://skills.github.com/
     "static": { // 정적 번역
         "GitHub Skills": "GitHub 스킬",
             "Learn how to use GitHub with interactive courses designed for beginners and experts.": "초보자와 전문가를 위해 설계된 상호작용형 코스로 GitHub 사용 방법을 배워보세요.",
@@ -22864,28 +22859,28 @@ I18N["ko-KR"]["skills"] = { // https://skills.github.com/
     ],
 };
 
-I18N["ko-KR"]["orgs/sponsoring"] = { // https://github.com/orgs/<org-name>/sponsoring 후원 페이지
+I18N["ko-KP"]["orgs/sponsoring"] = { // https://github.com/orgs/<org-name>/sponsoring 후원 페이지
     "static": {
         //"hasn’t sponsored any users yet.": "아직 후원한 사용자가 없어요.",
         "'s sponsorships": "의 후원자 목록",
     },
     "regexp": [
         [/([^ ]+) hasn’t sponsored any users yet./, "$1님은 아직 후원한 사용자가 없어요."],
-        ...I18N["ko-KR"]["orgs-public"]["regexp"],
+        ...I18N["ko-KP"]["orgs-public"]["regexp"],
     ],
 };
 
-I18N["ko-KR"]["organizations/plan"] = {
+I18N["ko-KP"]["organizations/plan"] = {
     "static": {
         "Pick a plan for your organization": "조직을 위한 요금제를 선택해주세요",
     },
     "regexp": [],
 };
 
-I18N["ko-KR"]["repository/actions/metrics/usage"] = { // 저장소 - 인사이트 - 액션 사용량
+I18N["ko-KP"]["repository/actions/metrics/usage"] = { // 저장소 - 인사이트 - 액션 사용량
     "static": {
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
             "Period": "기간",
                 "Current week (Mon-Sun)": "이번 주(월-일)",
@@ -23012,10 +23007,10 @@ I18N["ko-KR"]["repository/actions/metrics/usage"] = { // 저장소 - 인사이�
     ],
 };
 
-I18N["ko-KR"]["repository/actions/metrics/performance"] = {
+I18N["ko-KP"]["repository/actions/metrics/performance"] = {
     "static": {
-        ...I18N["ko-KR"]["repository-public"]["static"],
-        ...I18N["ko-KR"]["repository-insights-menu"]["static"],
+        ...I18N["ko-KP"]["repository-public"]["static"],
+        ...I18N["ko-KP"]["repository-insights-menu"]["static"],
 
         "Period": "기간",
         "Current week (Mon-Sun)": "이번 주(월요일 ~ 일요일)",
@@ -23119,7 +23114,7 @@ I18N["ko-KR"]["repository/actions/metrics/performance"] = {
         "of": "/",
     },
     "regexp": [
-        ...I18N["ko-KR"]["repository/actions/metrics/usage"]["regexp"],
+        ...I18N["ko-KP"]["repository/actions/metrics/usage"]["regexp"],
         [/(Average run time of|Average queue time of|Failure rate across|Total minutes used across failed) jobs in this organization for (current week \(mon-sun\)|current month|last month|last 30 days|last 90 days|last year|custom)/, function(all, type, period){
             var typeKey = {'Average run time of': '평균 실행 시간', 'Average queue time of': '평균 대기 시간', 'Failure rate across': '작업 실패율', 'Total minutes used across failed': '실패한 작업 횟수'};
 
@@ -23138,7 +23133,7 @@ I18N["ko-KR"]["repository/actions/metrics/performance"] = {
     ],
 };
 
-I18N["ko-KR"]["copilot"] = {
+I18N["ko-KP"]["copilot"] = {
     "static": {
         // 오류
             "Conversation failed to load": "대화 로드에 실패했어요.",
@@ -23257,16 +23252,16 @@ I18N["ko-KR"]["copilot"] = {
     ],
 }
 
-I18N["ko-KR"]["sitemap"] = { // 网站地图页，仅匹配公共部分
+I18N["ko-KP"]["sitemap"] = { // 网站地图页，仅匹配公共部分
     "static": {
-        ...I18N["ko-KR"]["homepage"]["static"],
+        ...I18N["ko-KP"]["homepage"]["static"],
     },
     "regexp":[],
 };
 
-I18N["ko-KR"]["education"] = { // 教育页面，申请学生包会用到
+I18N["ko-KP"]["education"] = { // 教育页面，申请学生包会用到
     "static": {
-        ...I18N["ko-KR"]["homepage"]["static"],
+        ...I18N["ko-KP"]["homepage"]["static"],
         // 상단 바
             "Students": "학생",
             "Teachers": "교사",
@@ -23562,18 +23557,18 @@ I18N["ko-KR"]["education"] = { // 教育页面，申请学生包会用到
     "regexp":[
         [/(\d+) requests?/, "$1회 요청"],
         [/Hi, ([^ ]+)! You were last verified as a on (.+). It is not necessary for you to reverify at this time. There may be a wait period between verification 와 access to academic benefits./, (match, user, p1) => {
-                const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+                const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
                 const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
                 return `안녕하세요, ${user}님! 최근에 ${translatedDate}에 인증하셨어요. 지금 다시 인증하실 필요 없어요. 인증에서 학업 혜택을 받기까지는 대기 시간이 있을 수 있어요.`;
         }],
         [/Hi, ([^ ]+)! You were last verified as a student on (.+). It is not necessary for you to reverify at this time. There may be a wait period between verification 와 access to academic benefits./, (match, user, p1)=> {
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return `안녕하세요, ${user}님! 최근에 ${translatedDate}에 학생 인증을 받으셨어요. 지금 다시 인증하실 필요 없어요. 인증에서 학업 혜택을 받기까지는 대기 시간이 있을 수 있어요.`;
         }],
         [/(Submitted|Verified since) (.+)/, (match, opt, p1) => { // p1为(.+)
             var optKey = {"Submitted": "제출됨 ", "Verified since": "인증된 이후 "};
-            const dateRegExp = I18N["ko-KR"]["public"]["time-regexp"];
+            const dateRegExp = I18N["ko-KP"]["public"]["time-regexp"];
             const translatedDate = dateRegExp.reduce((acc, [pattern, replacement]) => acc.replace(pattern, replacement), p1);
             return optKey[opt] + `${translatedDate}`;
         }],
