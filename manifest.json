@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "GitHub 한국어 확장프로그램",
+  "name": "GitHub 문화어 확장프로그램",
   "version": "1.0",
-  "description": "GitHub 페이지의 내용을 한국어로 번역하는 확장프로그램",
+  "description": "위대한 수령 김일성동지의 교시에따라 구현하는 GitHub 문화어 확장프로그램입니다.",
   "permissions": ["storage", "notifications"],
   "action": {
     "default_popup": "popup.html"
