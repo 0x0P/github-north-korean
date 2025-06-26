@@ -456,204 +456,204 @@ I18N["ko-KP"]["title"] = { // 제목번역
     ],
 };
 
-I18N["ko-KP"]["public"] = { // 公共区域翻译
-    "static": { // 静态翻译
-        // 错误页面
-        "No server is currently available to service your request.": "현재 서버에서 요청을 처리해드릴 수 없어요.",
-        "This page is taking too long to load.": "이 페이지 로딩 시간이 너무 오래 걸려요.",
-        "We had issues producing the response to your request.": "요청에 대한 응답을 생성하는 데 문제가 있었어요.",
-        "Sorry about that. Please try refreshing and contact us if the problem persists.": "죄송해요. 페이지를 새로 고침해 보시고, 문제가 계속된다면 저희에게 연락해 주세요.",
-        "Error": "오류",
-        "Looks like network is down!": "네트워크 연결이 안 된 것 같아요!",
-        "Contact Support": "GitHub 지원팀에 연락하기",
+I18N["ko-KP"]["public"] = { // 공통구역번역
+    "static": { // 정적번역
+        // 오유페지
+        "No server is currently available to service your request.": "현재 봉사기에서 요구를 처리할수 없습니다.",
+        "This page is taking too long to load.": "이 페지적재시간이 너무 오래 걸립니다.",
+        "We had issues producing the response to your request.": "요구에 대한 응답을 생성하는데 문제가 있었습니다.",
+        "Sorry about that. Please try refreshing and contact us if the problem persists.": "죄송합니다. 페지를 다시 적재해보시고, 문제가 계속된다면 저희에게 련락해주십시오.",
+        "Error": "오유",
+        "Looks like network is down!": "망이 련결안된것 같습니다!",
+        "Contact Support": "GitHub 지원팀에 련락하기",
         "GitHub Status": "GitHub 상태",
-        // 상단 안내
-        "You only have a single verified email address. We recommend verifying at least one more email address to ensure you can recover your account if you lose access to your primary email.": "확인된 이메일 주소가 하나밖에 없어요. 주 이메일에 접근할 수 없을 경우 계정을 복구할 수 있도록, 최소한 하나 이상의 이메일 주소를 추가로 확인해 보세요.",
-        "Email settings": "이메일 설정",
-        "Your recovery codes have not been saved in the past year. Make sure you still have them stored somewhere safe by viewing and downloading them again.": "지난 1년 동안 복구 코드를 저장하지 않으셨어요. 안전한 곳에 보관되어 있는지 확인하시려면, 복구 코드를 다시 확인하고 다운로드해 보세요.",
-        "View recovery codes": "복구 코드 보기",
-        // 하단 빨간 배너
-        "You can’t perform that action at this time.": "현재 해당 작업을 수행할 수 없어요.",
-        // 속도 제한 - 짧은 시간 동안 페이지를 자주 방문해서 발생해요 (최소 https://github.com/issues 포함)
-        "Whoa there!": "잠깐만요!",
-        "You have exceeded a secondary rate limit.": "보조 속도 제한을 초과하셨어요.",
-        "Please wait a few minutes before you try again;": "다시 시도하기 전에 몇 분만 기다려 주세요;",
-        "in some cases this may take up to an hour.": "경우에 따라 최대 한 시간까지 걸릴 수 있어요.",
-        // 이슈, 끌어오기 요청, 토론 플로팅 정보 카드 (링크가 참조되는 모든 페이지에 나타나요)
-        "You opened this issue": "이 이슈를 열었어요.",
-        "You opened this pull request": "이 끌어오기 요청를 열었어요.",
-        "You commented on this issue": "이 이슈에 댓글을 남겼어요.",
-        "You commented on and opened this issue": "이 이슈를 열고 댓글을 남겼어요.",
-        "You commented on this pull request": "이 끌어오기 요청에 댓글을 남겼어요.",
-        "You commented on and opened this pull request": "이 끌어오기 요청를 열고 댓글을 남겼어요.",
-        "You were mentioned on and commented on this issue": "이 이슈에서 언급되었고 댓글을 남겼어요.",
-        "You were mentioned on and commented on this pull request": "이 끌어오기 요청에서 언급되었고 댓글을 남겼어요.",
-        "You were mentioned on and opened this pull request": "이 끌어오기 요청에서 언급되었고 열었어요.",
-        "You are assigned to this pull request": "이 끌어오기 요청에 할당되었어요.",
-        "You left a review": "리뷰를 남겼어요.",
-        "Changes requested": "변경 요청", // 끌어오기 요청
-        "Review required": "리뷰 요청", // 끌어오기 요청
-        "Approved": "승인됨", // 끌어오기 요청
-        "replied": "답글 남겼어요", // 토론
+        // 상단안내
+        "You only have a single verified email address. We recommend verifying at least one more email address to ensure you can recover your account if you lose access to your primary email.": "확인된 전자편지주소가 하나밖에 없습니다. 기본전자편지에 접근할수 없을 경우 계정을 복구할수 있도록, 최소한 하나이상의 전자편지주소를 추가로 확인해보십시오.",
+        "Email settings": "전자편지설정",
+        "Your recovery codes have not been saved in the past year. Make sure you still have them stored somewhere safe by viewing and downloading them again.": "지난 1년동안 복구암호를 보관하지 않았습니다. 안전한 곳에 보관되여있는지 확인하시려면, 복구암호를 다시 확인하고 내려받기해보십시오.",
+        "View recovery codes": "복구암호 보기",
+        // 하단빨간배너
+        "You can't perform that action at this time.": "현재 해당 작업을 수행할수 없습니다.",
+        // 속도제한 - 짧은 시간동안 페지를 자주 방문해서 발생 (최소 https://github.com/issues 포함)
+        "Whoa there!": "잠간만요!",
+        "You have exceeded a secondary rate limit.": "보조속도제한을 초과했습니다.",
+        "Please wait a few minutes before you try again;": "다시 시도하기전에 몇분만 기다려주십시오;",
+        "in some cases this may take up to an hour.": "경우에 따라 최대 한시간까지 걸릴수 있습니다.",
+        // 문제, 끌어오기요구, 토론 뜨는 정보카드 (링크가 참조되는 모든 페지에 나타남)
+        "You opened this issue": "이 문제를 열었습니다.",
+        "You opened this pull request": "이 끌어오기요구를 열었습니다.",
+        "You commented on this issue": "이 문제에 의견을 남겼습니다.",
+        "You commented on and opened this issue": "이 문제를 열고 의견을 남겼습니다.",
+        "You commented on this pull request": "이 끌어오기요구에 의견을 남겼습니다.",
+        "You commented on and opened this pull request": "이 끌어오기요구를 열고 의견을 남겼습니다.",
+        "You were mentioned on and commented on this issue": "이 문제에서 언급되였고 의견을 남겼습니다.",
+        "You were mentioned on and commented on this pull request": "이 끌어오기요구에서 언급되였고 의견을 남겼습니다.",
+        "You were mentioned on and opened this pull request": "이 끌어오기요구에서 언급되였고 열었습니다.",
+        "You are assigned to this pull request": "이 끌어오기요구에 배정되였습니다.",
+        "You left a review": "검토를 남겼습니다.",
+        "Changes requested": "변경요구", // 끌어오기요구
+        "Review required": "검토요구", // 끌어오기요구
+        "Approved": "승인됨", // 끌어오기요구
+        "replied": "답글 남겼습니다", // 토론
 
-        // 상단바 (로그인 전)
+        // 상단띠 (로그인전)
         "Product": "제품",
             // 작업
-            "Automate any workflow": "어떤 작업 흐름도 자동화해보세요.",
-            // 패키지
-            "Host and manage packages": "패키지를 호스팅하고 관리해보세요.",
+            "Automate any workflow": "임의의 작업과정을 자동화하십시오.",
+            // 꾸러미
+            "Host and manage packages": "꾸러미를 호스팅하고 관리하십시오.",
             // 보안
-            "Find and fix vulnerabilities": "취약점을 찾아서 수정해보세요.",
-            // 코드스페이스
-            "Instant dev environments": "즉시 개발 환경",
-        "Code Review": "코드 리뷰",
-            "Manage code changes": "코드 변경 사항을 관리해보세요.",
+            "Find and fix vulnerabilities": "취약점을 찾아서 수정하십시오.",
+            // 암호공간
+            "Instant dev environments": "즉시 개발환경",
+        "Code Review": "암호검토",
+            "Manage code changes": "암호변경사항을 관리하십시오.",
             // Copilot
-            "Write better code with AI": "AI를 활용해 더 나은 코드를 작성해보세요.",
-            // 이슈
-            "Plan and track work": "작업을 계획하고 추적해보세요.",
+            "Write better code with AI": "인공지능을 활용해 더 나은 암호를 작성하십시오.",
+            // 문제
+            "Plan and track work": "작업을 계획하고 추적하십시오.",
             // 토론
-            "Collaborate outside of code": "코드 외부에서 협업해보세요.",
-        "Code Search": "코드 검색",
-            "Find more, search less": "더 많이 찾아보고, 덜 검색해보세요.",
+            "Collaborate outside of code": "암호외부에서 협력하십시오.",
+        "Code Search": "암호검색",
+            "Find more, search less": "더 많이 찾아보고, 덜 검색하십시오.",
         
         // 오른쪽
         "All features": "모든 기능",
-        "GitHub Skills": "GitHub 스킬",
-        "Solutions": "솔루션",
-            "By company size": "기업 규모별",
+        "GitHub Skills": "GitHub 기능",
+        "Solutions": "해결방안",
+            "By company size": "기업규모별",
             "By size": "규모별",
             "Enterprises": "기업",
-            "Small and medium teams": "중소 팀",
-            "Startups": "스타트업",
-            "By industry": "산업별",
-            "Healthcare": "헬스케어",
-            "Financial services": "금융 서비스",
+            "Small and medium teams": "중소팀",
+            "Startups": "신생기업",
+            "By industry": "업종별",
+            "Healthcare": "의료보건",
+            "Financial services": "금융봉사",
             "Manufacturing": "제조업",
             "Government": "정부",
-            "View all industries": "모든 산업 보기",
-            "By use case": "사용 사례별",
+            "View all industries": "모든 업종 보기",
+            "By use case": "사용실례별",
             "CI/CD & Automation": "CI/CD & 자동화",
-            "DevOps": "DevOps",
-            "DevSecOps": "DevSecOps",
-            "View all use cases": "모든 사용 사례 보기",
-            "View all solutions": "모든 솔루션 보기",
-        "Resources": "리소스",
-            "Innersource": "내부 소스",
-            "Learning Pathways": "학습 경로",
-            "White papers, Ebooks, Webinars": "백서, 전자책, 웨비나",
-            "Customer Stories": "고객 사례",
-            "Software Development": "소프트웨어 개발",
-            "Partners": "파트너",
+            "DevOps": "개발운영",
+            "DevSecOps": "개발보안운영",
+            "View all use cases": "모든 사용실례 보기",
+            "View all solutions": "모든 해결방안 보기",
+        "Resources": "자료",
+            "Innersource": "내부원천",
+            "Learning Pathways": "학습경로",
+            "White papers, Ebooks, Webinars": "백서, 전자도서, 웨비나",
+            "Customer Stories": "고객실례",
+            "Software Development": "프로그람개발",
+            "Partners": "동반자",
             "View all": "전체 보기",
-        "Open Source": "오픈 소스",
+        "Open Source": "열린원천",
             "GitHub Sponsors": "GitHub 후원자",
-            "Fund open source developers": "오픈 소스 개발자를 후원해보세요.",
-            "The ReadME Project": "ReadME 프로젝트",
-            "GitHub community articles": "GitHub 커뮤니티 글",
-            // 저장소
+            "Fund open source developers": "열린원천 개발자를 후원하십시오.",
+            "The ReadME Project": "ReadME 사업",
+            "GitHub community articles": "GitHub 공동체 글",
+            // 보관소
             "Topics": "주제",
-            "Trending": "트렌딩",
+            "Trending": "동향",
             "Collections": "모음",
         "Pricing": "가격",
         "Search": "검색",
         "Sign in": "로그인",
-        "Sign up": "회원가입",
+        "Sign up": "가입",
 
         "Team": "팀",
         "Enterprise": "기업",
-            "Enterprise platform": "기업 플랫폼",
-            "AI-powered developer platform": "AI 기반 개발자 플랫폼",
-            "Available add-ons": "사용 가능한 추가 기능",
-            "Advanced Security": "고급 보안",
-                "Enterprise-grade security features": "기업급 보안 기능을 제공해보세요.",
+            "Enterprise platform": "기업판",
+            "AI-powered developer platform": "인공지능기반 개발자판",
+            "Available add-ons": "사용가능한 추가기능",
+            "Advanced Security": "고급보안",
+                "Enterprise-grade security features": "기업급 보안기능을 제공하십시오.",
             // Copilot
-                "Enterprise-grade AI features": "기업급 AI 기능을 제공해보세요.",
-            // 고급 지원
-                "Enterprise-grade 24/7 support": "기업급 24시간 7일 지원을 제공해보세요.",
+                "Enterprise-grade AI features": "기업급 인공지능기능을 제공하십시오.",
+            // 고급지원
+                "Enterprise-grade 24/7 support": "기업급 24시간 7일 지원을 제공하십시오.",
 
         // 검색창
-        "Search or jump to...": "검색하거나 다음으로 이동해보세요…",
+        "Search or jump to...": "검색하거나 다음으로 이동하십시오…",
         "Type": " ",
         "to search": "키로 검색",
-        "Command palette": "명령 팔레트",
-        "Saved queries": "저장된 검색",
+        "Command palette": "명령판",
+        "Saved queries": "보관된 검색",
         "All of GitHub": "전체 GitHub",
-        "Autocomplete": "자동 완성",
+        "Autocomplete": "자동완성",
         "Search all of GitHub": "전체 GitHub 검색",
-        "Search in this directory": "이 디렉토리에서 검색",
-        "Search in this repository": "이 저장소에서 검색",
+        "Search in this directory": "이 등록부에서 검색",
+        "Search in this repository": "이 보관소에서 검색",
         "Search in this owner": "이 소유자에서 검색",
         "Search in this organization": "이 조직에서 검색",
         "Owners": "소유자",
         "Languages": "언어",
-        "Search syntax tips": "검색 문법 팁",
+        "Search syntax tips": "검색문법팁",
         "Jump to": "다음으로 이동:",
         
         "Ask Copilot": "Copilot에게 물어보기",
-        "Start a new Copilot thread": "새로운 Copilot 대화를 시작해보세요.",
+        "Start a new Copilot thread": "새로운 Copilot 대화를 시작하십시오.",
         
-        // 로그인 전일 때
+        // 로그인전일때
             "Enterprise": "기업",
             "Security": "보안",
             "Pricing": "가격",
         
-        // 왼쪽 상단 드롭다운 (로그인 후)
+        // 왼쪽상단 내리기목록 (로그인후)
         "Home": "홈",
-        "Issues": "이슈",
-        "Pull requests": "끌어오기 요청",
-        "Projects": "프로젝트",
-        "Codespaces": "코드스페이스",
+        "Issues": "문제",
+        "Pull requests": "끌어오기요구",
+        "Projects": "사업",
+        "Codespaces": "암호공간",
         "Explore": "탐험하기",
-        "Marketplace": "장터",
+        "Marketplace": "시장터",
         
-        "Filter repositories": "저장소 필터",
-        "Close filter": "필터 닫기",
+        "Filter repositories": "보관소 걸러내기",
+        "Close filter": "걸러내기 닫기",
         "Show more": "더 보기",
         
-        // 상단 알림 배너
-        "Don't get locked out of your account.": "계정에 접근할 수 없게 되지 않도록 해보세요.",
-        "Download your recovery codes": "복구 코드를 다운로드해보세요.",
-        "add a passkey": "패스키 추가하기",
-        "so you don't lose access when you get a new device.": "새 기기에서 로그인할 때 접근 권한을 잃지 않도록 해보세요.",
-        "GitHub users are": "GitHub 사용자들은",  // 아래 문장은 정규 표현식
-        "now required": "이제 필수예요",  // 아래 문장은 정규 표현식
+        // 상단알림배너
+        "Don't get locked out of your account.": "계정에 접근할수 없게 되지 않도록 하십시오.",
+        "Download your recovery codes": "복구암호를 내려받기하십시오.",
+        "add a passkey": "통과키 추가하기",
+        "so you don't lose access when you get a new device.": "새 장치에서 로그인할때 접근권한을 잃지 않도록 하십시오.",
+        "GitHub users are": "GitHub 사용자들은",  // 아래 문장은 정규표현식
+        "now required": "이제 필수입니다",  // 아래 문장은 정규표현식
         "Enable 2FA": "2FA 활성화하기",
         
-        // 오른쪽 상단 알림 버튼 메시지
-        "You have no unread notifications": "읽지 않은 알림이 없어요.",
-        "You have unread notifications": "읽지 않은 알림이 있어요.",
+        // 오른쪽상단 알림단추 메시지
+        "You have no unread notifications": "읽지 않은 알림이 없습니다.",
+        "You have unread notifications": "읽지 않은 알림이 있습니다.",
         
-        // 오른쪽 상단 새로 만들기 버튼 드롭다운 메뉴
+        // 오른쪽상단 새로 만들기단추 내리기목록메뉴
         "Create new...": "새로 만들기...",
-            "New repository": "저장소 만들기",
-            "Import repository": "저장소 가져오기",
-            "New codespace": "코드스페이스 만들기",
+            "New repository": "보관소 만들기",
+            "Import repository": "보관소 가져오기",
+            "New codespace": "암호공간 만들기",
             "New gist": "새 gist 만들기",
             "New organization": "조직 만들기",
-            "New project": "프로젝트 만들기",
+            "New project": "사업 만들기",
             "This organization": "이 조직", // 조직
             "New team": "팀 만들기", // 조직
 
-        // 右上角 Copilot 下拉菜单
-            "Chat with Copilot": "Copilot과 채팅하기",
+        // 오른쪽상단 Copilot 내리기목록메뉴
+            "Chat with Copilot": "Copilot과 대화하기",
             "Open Copilot…": "Copilot 열기…",
-                "New conversation in": "다음에서의 새 채팅 :",
-                "New conversation": "새 채팅",
+                "New conversation in": "다음에서의 새 대화 :",
+                "New conversation": "새 대화",
                     "Immersive": "몰입형",
                 "Open with": "다음으로 열기 :",
 
-            // 오른쪽 상단 개인 아이콘 드롭다운 메뉴
-            "Account switcher": "계정 전환",
+            // 오른쪽상단 개인아이콘 내리기목록메뉴
+            "Account switcher": "계정 바꾸기",
                 "Add account": "계정 추가하기",
-                "Switch account": "계정 전환하기",
+                "Switch account": "계정 바꾸기",
                 "Sign out...": "로그아웃...",
             "Set status": "상태 설정하기",
             "Your profile": "내 프로필",
-            "Your repositories": "내 저장소",
-            "Your codespaces": "내 코드스페이스",
+            "Your repositories": "내 보관소",
+            "Your codespaces": "내 암호공간",
             "Your Copilot": "내 Copilot",
-            "Your projects": "내 프로젝트",
+            "Your projects": "내 사업",
             "Your discussions": "내 토론",
             "Your stars": "내 별표",
             "Your gists": "내 gists",
@@ -661,94 +661,94 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Your enterprises": "내 기업",
             "Your sponsors": "내 후원자",
             "Create new": "새로 만들기", // Android UA 에서 나타남
-            "Upgrade": "업그레이드하기",
+            "Upgrade": "승급하기",
             "Try Enterprise": "기업용 체험하기",
                 "Free": "무료",
-            "Feature preview": "기능 미리보기",
+            "Feature preview": "기능미리보기",
                 // 대화상자
-                "Feature preview dialog": "기능 미리보기 대화상자",
+                "Feature preview dialog": "기능미리보기 대화상자",
                 "Enable": "활성화하기",
                 "Enabled": "활성화됨",
                 "Disable": "비활성화하기",
                 "Disabled": "비활성화됨",
                 "Documentation": "문서",
-                "Colorblind themes": "색맹 테마",
-                "Varying by gender and geography, color blindness can affect on average 8% of men and up to 0.5% of women. Our previous colorblind theme has been split into two new themes:": "성별과 지역에 따라 다르게 나타나지만, 평균적으로 색맹은 남성의 8%와 여성의 최대 0.5%에 영향을 줄 수 있어요. 이전 색맹 테마는 두 개의 새로운 테마로 나누어졌어요:",
+                "Colorblind themes": "색맹주제",
+                "Varying by gender and geography, color blindness can affect on average 8% of men and up to 0.5% of women. Our previous colorblind theme has been split into two new themes:": "성별과 지역에 따라 다르게 나타나지만, 평균적으로 색맹은 남성의 8%와 여성의 최대 0.5%에 영향을 줄수 있습니다. 이전 색맹주제는 두개의 새로운 주제로 나누어졌습니다:",
                 "Light/dark Protanopia & Deuteranopia for red/green color blindness.": "밝은/어두운 프로타노피아 및 듀테라노피아 (적록색맹용)",
                 "Light/dark Tritanopia for blue/yellow color blindness.": "밝은/어두운 트리타노피아 (파란/노란 색맹용)",
-                "Command Palette": "명령 팔레트",
-                "Quickly navigate and jump between your organizations or repositories and search recent issues, pull requests, projects and more with the new command palette. You can also execute time saving commands all without lifting your fingers off the keyboard!": "새로운 명령 팔레트를 사용하면, 조직이나 저장소 간을 빠르게 탐색하고, 최근 이슈, 끌어오기 요청, 프로젝트 등을 검색할 수 있어요. 또한 손을 키보드에서 떼지 않고 시간 절약 명령어를 실행할 수 있어요.",
-                "To open the command palette:": "명령 팔레트 여는 방법:",
-                "Copilot Workspace for Pull Requests": "끌어오기 요청용 Copilot 작업공간",
-                "Copilot Workspace is a Copilot-native coding environment that helps you land high-quality pull requests faster by allowing you to edit and run code from your pull request without leaving GitHub.com.": "Copilot 작업공간은 Copilot 고유의 코딩 환경으로, GitHub.com을 떠나지 않고도 끌어오기 요청 내의 코드를 편집하고 실행할 수 있게 해, 고품질의 끌어오기 요청을 더 빠르게 완료할 수 있도록 도와줘요.",
-                "Copilot Workspace is available to customers with access to the Copilot code review public preview.": "Copilot 작업공간은 Copilot 코드 리뷰 공개 미리보기를 사용할 수 있는 고객에게 제공돼요.",
-                "Sign up for the Copilot code review public preview": "Copilot 코드 리뷰 공개 미리보기에 가입하기",
+                "Command Palette": "명령판",
+                "Quickly navigate and jump between your organizations or repositories and search recent issues, pull requests, projects and more with the new command palette. You can also execute time saving commands all without lifting your fingers off the keyboard!": "새로운 명령판을 사용하면, 조직이나 보관소간을 빠르게 탐색하고, 최근 문제, 끌어오기요구, 사업 등을 검색할수 있습니다. 또한 손을 건반에서 떼지 않고 시간절약 명령어를 실행할수 있습니다.",
+                "To open the command palette:": "명령판 여는 방법:",
+                "Copilot Workspace for Pull Requests": "끌어오기요구용 Copilot 작업공간",
+                "Copilot Workspace is a Copilot-native coding environment that helps you land high-quality pull requests faster by allowing you to edit and run code from your pull request without leaving GitHub.com.": "Copilot 작업공간은 Copilot 고유의 암호화환경으로, GitHub.com을 떠나지 않고도 끌어오기요구내의 암호를 편집하고 실행할수 있게 해, 고품질의 끌어오기요구를 더 빠르게 완료할수 있도록 도와줍니다.",
+                "Copilot Workspace is available to customers with access to the Copilot code review public preview.": "Copilot 작업공간은 Copilot 암호검토 공개미리보기를 사용할수 있는 고객에게 제공됩니다.",
+                "Sign up for the Copilot code review public preview": "Copilot 암호검토 공개미리보기에 가입하기",
                 "Copilot Immersive Enhancements": "Copilot 몰입형 개선",
                 // GitHub Copilot의 Copilot Chat 몰입형 모드에서 향상된 경험을 탐색해보세요. 이 베타 버전은 집중되고 심도 있는 대화를 위해 설계된 전용 채팅 인터페이스 내에서 개선된 상호작용과 더욱 똑똑한 제안을 제공합니다.
                 "Discover an enhanced experience in the immersive mode of Copilot Chat, available at": " ",
-                ". This beta introduces improved interaction and smarter suggestions within a dedicated chat interface designed for focused, in-depth conversations.": "에서 제공되는 Copilot Chat의 몰입형 모드에서 향상된 경험을 찾아보세요. 이 베타 버전은 집중적이고 심도 있는 대화를 위해 설계된 전용 채팅 인터페이스 내에서 향상된 상호작용과 스마트한 제안을 제공합니다.",
-                "New Commit Details Page": "새로운 커밋 상세 페이지",
-                "New version of the commit details page that lets you quickly understand and navigate the changes in a commit. Improves filtering, commenting (with new floating comments and comment counts on the file tree), keyboard navigation, and more.": "커밋의 변경 사항을 빠르게 이해하고 탐색할 수 있도록 도와주는 새로운 커밋 상세 페이지예요. 필터링, 주석 작성(파일 트리의 새로운 부동 주석 및 주석 개수 기능 포함), 키보드 탐색 등이 개선되었어요.",
-                "Rich Jupyter Notebook Diffs": "풍부한 Jupyter Notebook 차이 보기",
-                "Enables rich diffs of Jupyter Notebooks in pull requests": "끌어오기 요청에서 Jupyter Notebook의 풍부한 차이 보기를 활성화해보세요.",
-                "Note: commenting on rich diff views of notebooks is not yet supported": "참고: Jupyter Notebook의 풍부한 차이 보기에는 아직 주석 기능이 지원되지 않아요.",
-                "New Issues Experience": "새로운 이슈 체험",
-                "The new GitHub Issues experience brings three powerful new features:": "새로운 GitHub 이슈 체험은 세 가지 강력한 새로운 기능을 제공합니다:",
-                "Sub-issues are designed to help you break-down and manage your issues with a parent/child relationship into a hierarchy.": "하위 이슈는 부모/자식 관계를 가진 이슈를 계층 구조로 나누어 관리할 수 있도록 도와드려요.",
-                "Issues types allow you to classify and manage your issues with a shared and consistent language across all repositories in an organization, such as bugs or tasks.": "이슈 유형을 사용하면, 조직 내 모든 저장소에서 버그나 작업 등 공통되고 일관된 용어로 이슈를 분류하고 관리할 수 있어요.",
-                "Advanced search allows you to build advanced queries using the AND and OR keywords, as well as nested queries using parentheses up to 5 layers deep right from the repository Issues page.": "고급 검색 기능을 사용하면, 저장소 이슈 페이지에서 바로 AND와 OR 키워드를 사용해 고급 쿼리를 구성하고, 괄호를 사용해 최대 5단계의 중첩 쿼리를 작성할 수 있어요.",
-                "New merge experience": "새로운 병합 체험",
-                "Improved merge experience on the pull request page that helps you better understand the state of your pull request and get it merged faster!": "끌어오기 요청 페이지에서 병합 체험이 개선되어, 끌어오기 요청의 상태를 더 잘 파악하고 더 빠르게 병합할 수 있도록 도와드려요!",
-                "New Pull Request Commits Experience": "새로운 끌어오기 요청 커밋 체험",
-                "The pull request commits page has been refreshed to improve performance, improve consistency with other pages, and to make the page more accessible!": "끌어오기 요청 커밋 페이지가 새롭게 개선되어 성능이 향상되고, 다른 페이지와의 일관성이 개선되었으며, 접근성이 높아졌어요!",
-                "Enhanced Repos Insights Views": "강화된 저장소 인사이트 보기",
-                "We’re thrilled to introduce our new graphics library! With this update, you’ll find significant enhancements to two of our repository insights views—Contributors and Code Frequency. Both now utilize an SVG-based solution, offering improved focus navigation for precise, point-by-point interaction. You can also hide a series by interacting with the chart legend and view or download the data in both table format and as PNGs.": "새로운 그래픽 라이브러리를 소개하게 되어 정말 기뻐요! 이번 업데이트로 저장소 인사이트 보기 중 '기여자'와 '코드 빈도'에 상당한 향상이 이루어졌어요. 두 보기 모두 이제 SVG 기반 솔루션을 사용해 정밀한 포인트별 상호작용을 위한 개선된 포커스 탐색을 제공하고, 차트 범례와 상호작용하여 시리즈를 숨기거나 데이터를 표 형식과 PNG 파일로 확인 및 다운로드할 수 있어요.",
-                "Slash Commands": "슬래시 명령어",
-                "Slash commands make it easier to type more complex Markdown, such as tables, tasklists, and code blocks.": "슬래시 명령어를 사용하면 표, 작업 목록, 코드 블록 등 복잡한 Markdown을 더 쉽게 입력할 수 있어요.",
-                "Simply type": "이슈, 끌어오기 요청, 토론에서",
-                "on Issues, PRs and Discussions to check out a list of available commands!": "를 입력하여 사용 가능한 명령어 목록을 확인해보세요!",
-                "Feature disabled.": "기능이 비활성화되었어요.",
+                ". This beta introduces improved interaction and smarter suggestions within a dedicated chat interface designed for focused, in-depth conversations.": "에서 제공되는 Copilot 대화의 몰입형 모드에서 향상된 경험을 찾아보십시오. 이 베타 버전은 집중적이고 심도있는 대화를 위해 설계된 전용 대화호상면 내에서 향상된 호상작용과 스마트한 제안을 제공합니다.",
+                "New Commit Details Page": "새로운 위탁상세페지",
+                "New version of the commit details page that lets you quickly understand and navigate the changes in a commit. Improves filtering, commenting (with new floating comments and comment counts on the file tree), keyboard navigation, and more.": "위탁의 변경사항을 빠르게 리해하고 탐색할수 있도록 도와주는 새로운 위탁상세페지입니다. 걸러내기, 주석작성(파일나무의 새로운 부유주석 및 주석개수 기능 포함), 건반탐색 등이 개선되였습니다.",
+                "Rich Jupyter Notebook Diffs": "풍부한 Jupyter 수첩 차이보기",
+                "Enables rich diffs of Jupyter Notebooks in pull requests": "끌어오기요구에서 Jupyter 수첩의 풍부한 차이보기를 활성화하십시오.",
+                "Note: commenting on rich diff views of notebooks is not yet supported": "참고: Jupyter 수첩의 풍부한 차이보기에는 아직 주석기능이 지원되지 않습니다.",
+                "New Issues Experience": "새로운 문제체험",
+                "The new GitHub Issues experience brings three powerful new features:": "새로운 GitHub 문제체험은 세가지 강력한 새로운 기능을 제공합니다:",
+                "Sub-issues are designed to help you break-down and manage your issues with a parent/child relationship into a hierarchy.": "하위문제는 부모/자식관계를 가진 문제를 계층구조로 나누어 관리할수 있도록 도와드립니다.",
+                "Issues types allow you to classify and manage your issues with a shared and consistent language across all repositories in an organization, such as bugs or tasks.": "문제유형을 사용하면, 조직내 모든 보관소에서 벌레나 작업 등 공통되고 일관된 용어로 문제를 분류하고 관리할수 있습니다.",
+                "Advanced search allows you to build advanced queries using the AND and OR keywords, as well as nested queries using parentheses up to 5 layers deep right from the repository Issues page.": "고급검색 기능을 사용하면, 보관소 문제페지에서 바로 AND와 OR 키워드를 사용해 고급질의를 구성하고, 괄호를 사용해 최대 5단계의 중첩질의를 작성할수 있습니다.",
+                "New merge experience": "새로운 병합체험",
+                "Improved merge experience on the pull request page that helps you better understand the state of your pull request and get it merged faster!": "끌어오기요구페지에서 병합체험이 개선되여, 끌어오기요구의 상태를 더 잘 파악하고 더 빠르게 병합할수 있도록 도와드립니다!",
+                "New Pull Request Commits Experience": "새로운 끌어오기요구 위탁체험",
+                "The pull request commits page has been refreshed to improve performance, improve consistency with other pages, and to make the page more accessible!": "끌어오기요구 위탁페지가 새롭게 개선되여 성능이 향상되고, 다른 페지와의 일관성이 개선되였으며, 접근성이 높아졌습니다!",
+                "Enhanced Repos Insights Views": "강화된 보관소 인사이트 보기",
+                "We're thrilled to introduce our new graphics library! With this update, you'll find significant enhancements to two of our repository insights views—Contributors and Code Frequency. Both now utilize an SVG-based solution, offering improved focus navigation for precise, point-by-point interaction. You can also hide a series by interacting with the chart legend and view or download the data in both table format and as PNGs.": "새로운 그래픽 도서관을 소개하게 되여 정말 기쁩니다! 이번 갱신으로 보관소 인사이트 보기중 '기여자'와 '암호빈도'에 상당한 향상이 이루어졌습니다. 두 보기 모두 이제 SVG기반 해결방안을 사용해 정밀한 점별 호상작용을 위한 개선된 포커스 탐색을 제공하고, 차트범례와 호상작용하여 계열을 숨기거나 자료를 표형식과 PNG파일로 확인 및 내려받기할수 있습니다.",
+                "Slash Commands": "사선명령어",
+                "Slash commands make it easier to type more complex Markdown, such as tables, tasklists, and code blocks.": "사선명령어를 사용하면 표, 작업목록, 암호블록 등 복잡한 Markdown을 더 쉽게 입력할수 있습니다.",
+                "Simply type": "문제, 끌어오기요구, 토론에서",
+                "on Issues, PRs and Discussions to check out a list of available commands!": "를 입력하여 사용가능한 명령어목록을 확인해보십시오!",
+                "Feature disabled.": "기능이 비활성화되였습니다.",
                 "Please": "부디",
-                "give feedback": "피드백을 남겨주세요.",
+                "give feedback": "피드백을 남겨주십시오.",
                 "so we can improve it!": "깃허브를 더 개선할게요!",
-                // 오류 메시지
-                "Sorry, something went wrong and we were not able to fetch the feature previews": "죄송해요, 문제가 발생하여 기능 미리보기를 불러올 수 없었어요.",
+                // 오류메시지
+                "Sorry, something went wrong and we were not able to fetch the feature previews": "죄송합니다, 문제가 발생하여 기능미리보기를 불러올수 없었습니다.",
             "Settings": "설정",
-            "GitHub Website": "GitHub 홈페이지", // 대시보드 외 페이지
+            "GitHub Website": "GitHub 홈페지", // 대시보드 외 페지
             "GitHub Docs": "GitHub 문서",
             "GitHub Support": "GitHub 지원",
-            "GitHub Community": "GitHub 커뮤니티",
+            "GitHub Community": "GitHub 공동체",
             "Sign out": "로그아웃",
 
-            // 상태 설정 대화상자
-            // 나타나는 위치: 프로필 페이지, Gist 개인 페이지, 저장소 페이지 우측 상단 개인 아이콘 드롭다운 메뉴
+            // 상태설정 대화상자
+            // 나타나는 위치: 프로필 페지, Gist 개인페지, 보관소페지 우측상단 개인아이콘 내리기목록메뉴
             "Edit status": "상태 편집하기",
-            "What's happening?": "무슨 일이 있으신가요?",
+            "What's happening?": "무슨 일이 있으십니까?",
             "Suggestions": "추천",
-                "On vacation": "휴가 중이에요",
-                "Out sick": "병가 중이에요",
-                "Working from home": "재택근무 중이에요",
-                "Focusing": "집중 중이에요",
-            "Busy": "바쁜 중이에요",
-                "When others mention you, assign you, or request your review, GitHub will let them know that you have limited availability.": "다른 사람이 사용자님을 언급하거나 지정하거나 리뷰를 요청할 때, GitHub가 사용자님이 바쁘다는 것을 알려드릴 거예요.",
-                "I may be slow to respond.": "답변이 늦을 수 있어요.",
+                "On vacation": "휴가중입니다",
+                "Out sick": "병가중입니다",
+                "Working from home": "재택근무중입니다",
+                "Focusing": "집중중입니다",
+            "Busy": "바쁜중입니다",
+                "When others mention you, assign you, or request your review, GitHub will let them know that you have limited availability.": "다른 사람이 사용자님을 언급하거나 지정하거나 검토를 요구할때, GitHub가 사용자님이 바쁘다는것을 알려드릴것입니다.",
+                "I may be slow to respond.": "응답이 늦을수 있습니다.",
             "Clear status": "상태 지우기",
                 "Never": "지우지 않기",
-                "in 30 minutes": "30분 후",
-                "in 1 hour": "1시간 후",
-                "in 4 hours": "4시간 후",
+                "in 30 minutes": "30분후",
+                "in 1 hour": "1시간후",
+                "in 4 hours": "4시간후",
                 "after today": "오늘 이후",
                 "after this week": "이번 주 이후",
-                "after a month": "한 달 이후",
-                "How long until this status will automatically clear.": "이 상태가 자동으로 지워지기까지의 시간을 설정해보세요.",
+                "after a month": "한달 이후",
+                "How long until this status will automatically clear.": "이 상태가 자동으로 지워지기까지의 시간을 설정해보십시오.",
             "Visible to": "보이기 대상",
                 "Everyone": "모두",
-                "Scope status visibility to a single organization.": "상태 보임 대상을 특정 조직으로 한정해보세요.",
-            "Filter emoji": "이모지 필터링",
-                "Search results": "검색 결과",
+                "Scope status visibility to a single organization.": "상태 보임 대상을 특정 조직으로 한정해보십시오.",
+            "Filter emoji": "그림문자 걸러내기",
+                "Search results": "검색결과",
 
-            // 하단 바
-            "Terms": "서비스 약관",
+            // 하단띠
+            "Terms": "봉사약관",
             "Privacy": "개인정보 처리방침",
             "Security": "보안",
             "Status": "상태",
@@ -757,92 +757,92 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Manage cookies": "쿠키 관리",
             "Do not share my personal information": "내 개인정보 공유하지 않기",
 
-            // 왼쪽 사이드바 하단 바
+            // 왼쪽 사이드띠 하단띠
             "About": "정보",
             "Blog": "블로그",
             "Manage Cookies": "쿠키 관리",
 
             // 기타
-            "Contact GitHub": "GitHub에 연락하기",
+            "Contact GitHub": "GitHub에 련락하기",
             "Training": "훈련",
 
-            // 描述、评论编辑器翻译
-            "Add a comment": "댓글 추가하기",
+            // 설명, 의견편집기 번역
+            "Add a comment": "의견 추가하기",
             "Add a body": "내용 추가하기",
             "Write": "작성하기",
-            "Use Markdown to format your comment": "Markdown을 사용해 댓글을 꾸며보세요.",
-            "Add your comment here...": "여기에 댓글을 추가해보세요...",
-            "Add your answer here...": "여기에 답변을 추가해보세요...", // 具体讨论页
-            "Text field is empty": "텍스트 입력란이 비어 있어요.",
+            "Use Markdown to format your comment": "Markdown을 사용해 의견을 꾸며보십시오.",
+            "Add your comment here...": "여기에 의견을 추가해보십시오...",
+            "Add your answer here...": "여기에 답변을 추가해보십시오...", // 구체토론페지
+            "Text field is empty": "글자입력란이 비여있습니다.",
             "Preview": "미리보기",
-            "Nothing to preview": "미리볼 내용이 없어요.",
-            "This file is empty.": "이 파일은 비어 있어요.",
-            "Try again with a file that’s not empty.": "비어 있지 않은 파일로 다시 시도해보세요.",
-            "Leave a comment": "댓글 남기기",
-            "Write a reply": "답글 작성하기", // 具体讨论页
-            "Write a comment": "댓글 작성하기", // 具体讨论页
-            "Suggest an answer": "답변 제안하기", // 具体讨论页
-            "Ask a question, start a conversation, or make an announcement": "질문을 하거나, 대화를 시작하거나, 공지를 남겨보세요.", // 新建讨论
-            "Nothing to preview": "미리볼 내용이 없어요.",
-            "This repository has been archived.": "이 저장소는 보관되었어요.", // 已存档仓库 某个提交的评论框
-            "Add review comment": "리뷰 댓글 추가하기", // 具体拉取请求 文件审查意见
-            "Start a review": "리뷰 시작하기", // 具体拉取请求 文件审查意见
-            // 取消按钮 提醒信息
-            "Are you sure you want to discard your unsaved changes?": "저장하지 않은 변경 사항을 취소해도 괜찮으신가요?",
+            "Nothing to preview": "미리볼 내용이 없습니다.",
+            "This file is empty.": "이 파일은 비여있습니다.",
+            "Try again with a file that's not empty.": "비여있지 않은 파일로 다시 시도해보십시오.",
+            "Leave a comment": "의견 남기기",
+            "Write a reply": "답글 작성하기", // 구체토론페지
+            "Write a comment": "의견 작성하기", // 구체토론페지
+            "Suggest an answer": "답변 제안하기", // 구체토론페지
+            "Ask a question, start a conversation, or make an announcement": "질문을 하거나, 대화를 시작하거나, 공지를 남겨보십시오.", // 새건토론
+            "Nothing to preview": "미리볼 내용이 없습니다.",
+            "This repository has been archived.": "이 보관소는 보관되였습니다.", // 이미 보관된 보관소 어떤 위탁의 의견함
+            "Add review comment": "검토의견 추가하기", // 구체끌어오기요구 파일심사의견
+            "Start a review": "검토 시작하기", // 구체끌어오기요구 파일심사의견
+            // 취소단추 제기정보
+            "Are you sure you want to discard your unsaved changes?": "보관하지 않은 변경사항을 취소해도 괜찮습니까?",
 
             "Add a title": "제목 추가하기",
             "Title": "제목",
             "Add a description": "설명 추가하기",
-            "Add your description here...": "여기에 설명을 추가해보세요...",
+            "Add your description here...": "여기에 설명을 추가해보십시오...",
 
-            // 网络错误
-            "There was a problem saving your comment. Please try again.": "댓글 저장 중 문제가 발생했어요. 다시 시도해보세요.",
+            // 망오유
+            "There was a problem saving your comment. Please try again.": "의견 보관중 문제가 발생했습니다. 다시 시도해보십시오.",
 
-            // 拉取请求 代码审查 回复对话框
+            // 끌어오기요구 암호심사 답글대화함
             "Add a suggestion, <Ctrl+g>": "제안 추가하기, <Ctrl+g>",
             "Heading": "제목",
             "Bold": "굵게",
             "Italic": "기울임",
             "Quote": "인용",
-            "Link": "링크",
-            "Menu": "메뉴", // Android UA 下出现
-            "Numbered list": "번호 목록",
-            "Unordered list": "글머리 기호 목록",
-            "Task list": "작업 목록",
+            "Link": "련결",
+            "Menu": "메뉴", // Android UA 하에서 출현
+            "Numbered list": "번호목록",
+            "Unordered list": "글머리기호 목록",
+            "Task list": "작업목록",
             "Attach files": "파일 첨부하기",
             "Mention": "언급",
             "Reference": "참조",
             "Saved replies": "빠른 답장",
             "Select a reply": "답장 선택하기",
-            "Create a new saved reply": "새로운 빠른 답장 만들기",
-            "Slash commands": "슬래시 명령어",
+            "Create a new saved reply": "새로운 빠른답장 만들기",
+            "Slash commands": "사선명령어",
             "Alerts": "알림",
             "Add a markdown alert to emphasize important information": "중요한 정보를 강조하기 위해 Markdown 알림 추가하기",
-            "Code block": "코드 블록",
-            "Insert a code block formatted for a chosen syntax": "선택한 문법에 맞춰 코드 블록 삽입하기",
+            "Code block": "암호블록",
+            "Insert a code block formatted for a chosen syntax": "선택한 문법에 맞춰 암호블록 삽입하기",
             "Details": "세부사항",
-            "Add a details tag to hide content behind a visible heading": "보이는 제목 뒤에 내용을 숨기기 위해 details 태그 추가하기",
-            // "快速回复": "",
-            "Insert one of your saved replies": "저장된 빠른 답장 중 하나 삽입하기",
+            "Add a details tag to hide content behind a visible heading": "보이는 제목 뒤에 내용을 숨기기 위해 details 표지 추가하기",
+            // "빠른답장": "",
+            "Insert one of your saved replies": "보관된 빠른답장중 하나 삽입하기",
             "Table": "표",
             "Add markdown table": "Markdown 표 추가하기",
-            "Templates": "템플릿",
-            "Insert one of your issue templates": "이슈 템플릿 중 하나 삽입하기",
+            "Templates": "견본",
+            "Insert one of your issue templates": "문제견본중 하나 삽입하기",
 
-            "Slash": "슬래시",
-            // 代码块
+            "Slash": "사선",
+            // 암호블록
             "No Syntax": "문법 없음",
-            // 快速回复
-            "No saved replies": "저장된 빠른 답장이 없어요.",
-            "You can create one in your": "사용자 설정에서 생성할 수 있어요:",
+            // 빠른답장
+            "No saved replies": "보관된 빠른답장이 없습니다.",
+            "You can create one in your": "사용자 설정에서 생성할수 있습니다:",
             "Settings": "설정",
-            // 表格
-            "Columns": "열",
-            "1 column": "1열",
-            "2 columns": "2열",
-            "3 columns": "3열",
-            "4 columns": "4열",
-            "5 columns": "5열",
+            // 표
+            "Columns": "렬",
+            "1 column": "1렬",
+            "2 columns": "2렬",
+            "3 columns": "3렬",
+            "4 columns": "4렬",
+            "5 columns": "5렬",
 
             "Rows": "행",
             "1 row": "1행",
@@ -851,147 +851,147 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "4 rows": "4행",
             "5 rows": "5행",
 
-            // 模板
-            "No issue templates": "이슈 템플릿이 없어요.",
+            // 견본
+            "No issue templates": "문제견본이 없습니다.",
             "Learn more about": "자세히 알아보기:",
-            "issue templates": "이슈 템플릿",
+            "issue templates": "문제견본",
 
-            // 小屏 插入链接 对话框
-            "Insert Link": "링크 삽입하기",
-            "Link Text": "링크 텍스트",
+            // 작은화면 련결삽입 대화함
+            "Insert Link": "련결 삽입하기",
+            "Link Text": "련결글자",
             "Add": "추가하기",
 
             "Attach files by": "파일 첨부하기:",
-            "dragging & dropping,": "드래그 앤 드롭,",
-            "selecting or pasting them.": "선택하거나 붙여넣어 추가할 수 있어요.",
-            "Markdown is supported": "Markdown이 지원돼요.",
-            "Styling with Markdown is supported.": "Markdown 스타일링이 지원돼요.",
-            "Paste, drop, or click to add files": "붙여넣기, 드래그 앤 드롭 또는 클릭하여 파일 추가하기",
-            "Uploading your files…": "파일을 업로드 중이에요…",
-            // 文件过大
-            "This video is too big.": "이 비디오는 너무 커요.",
-            "Try again": "다시 시도해보세요",
-            "with a file size less than 10MB.": "10MB 미만의 파일로 시도해보세요.",
+            "dragging & dropping,": "끌어서 놓기,",
+            "selecting or pasting them.": "선택하거나 붙여넣어 추가할수 있습니다.",
+            "Markdown is supported": "Markdown이 지원됩니다.",
+            "Styling with Markdown is supported.": "Markdown 양식꾸미기가 지원됩니다.",
+            "Paste, drop, or click to add files": "붙여넣기, 끌어서 놓기 또는 클릭하여 파일 추가하기",
+            "Uploading your files…": "파일을 올리는중입니다…",
+            // 파일과대
+            "This video is too big.": "이 영상은 너무 큽니다.",
+            "Try again": "다시 시도해보십시오",
+            "with a file size less than 10MB.": "10MB 미만의 파일로 시도해보십시오.",
 
-            "Close issue": "이슈 닫기", // issue页 评论框
+            "Close issue": "문제 닫기", // 문제페지 의견함
             "Close as completed": "완료됨으로 닫기",
             "Done, closed, fixed, resolved": "완료, 닫힘, 수정, 해결됨",
             "Close as not planned": "계획에 없어서 닫기",
             "Won't fix, can't repro, duplicate, stale": "수정하지 않음, 재현 불가, 중복, 오래됨",
-            "Won't fix, can't repro, stale": "수정하지 않음, 재현 불가, 오래됨", // 新版이슈页
-            // 因重复而关闭（新版이슈页）
-            "Duplicate of another issue": "다른 이슈의 중복",
-            "Close with comment": "댓글과 함께 닫기", // 이슈/拉取请求 评论框
-            "Close pull request": "끌어오기 요청 닫기", // 拉取请求页 评论框
-            "Reopen discussion": "토론 다시 열기", // discussion页 评论框
-            "Close discussion": "토론 닫기", // discussion页 评论框
+            "Won't fix, can't repro, stale": "수정하지 않음, 재현 불가, 오래됨", // 새버전문제페지
+            // 중복때문에 닫힘（새버전문제페지）
+            "Duplicate of another issue": "다른 문제의 중복",
+            "Close with comment": "의견과 함께 닫기", // 문제/끌어오기요구 의견함
+            "Close pull request": "끌어오기요구 닫기", // 끌어오기요구페지 의견함
+            "Reopen discussion": "토론 다시 열기", // 토론페지 의견함
+            "Close discussion": "토론 닫기", // 토론페지 의견함
             "Close as resolved": "해결됨으로 닫기",
-            "The discussion has been resolved": "토론이 해결되었어요.",
+            "The discussion has been resolved": "토론이 해결되였습니다.",
             "Close as outdated": "오래됨으로 닫기",
-            "The discussion is no longer relevant": "토론이 더 이상 관련 없어요.",
+            "The discussion is no longer relevant": "토론이 더이상 관련 없습니다.",
             "Close as duplicate": "중복으로 닫기",
-            "The discussion is a duplicate of another": "토론이 다른 토론과 중복돼요.",
-            "Comment": "댓글 작성하기",
-            "comment": "댓글",
-            "Submit new issue": "새 이슈 제출하기",
-            "Comment on this commit": "커밋에 댓글 달기",
-            "Close and comment": "닫고 댓글 남기기",
-            "Reopen and comment": "다시 열고 댓글 남기기",
-            "Reopen issue": "이슈 다시 열기", // 具体이슈
-            "Reopen with comment": "댓글과 함께 다시 열기", // 具体이슈
-            "Reopen pull request": "끌어오기 요청 다시 열기", //具体拉取请求
-            "Add single comment": "단일 댓글 추가하기", // 具体提交页 进行某条代码评论
-            "Reply": "답글 달기", // 具体讨论页
-            "Answer": "답변하기", // 具体讨论页
-            "Start discussion": "토론 시작하기", // 新建讨论
-            "Update": "업데이트하기", // 新建讨论
-            "discussion": "토론", // 新建讨论
-            "Discussions": "토론", // 新建讨论
+            "The discussion is a duplicate of another": "토론이 다른 토론과 중복됩니다.",
+            "Comment": "의견 작성하기",
+            "comment": "의견",
+            "Submit new issue": "새 문제 제출하기",
+            "Comment on this commit": "위탁에 의견 달기",
+            "Close and comment": "닫고 의견 남기기",
+            "Reopen and comment": "다시 열고 의견 남기기",
+            "Reopen issue": "문제 다시 열기", // 구체문제
+            "Reopen with comment": "의견과 함께 다시 열기", // 구체문제
+            "Reopen pull request": "끌어오기요구 다시 열기", //구체끌어오기요구
+            "Add single comment": "단일 의견 추가하기", // 구체위탁페지 어떤 암호줄 의견진행
+            "Reply": "답글 달기", // 구체토론페지
+            "Answer": "답변하기", // 구체토론페지
+            "Start discussion": "토론 시작하기", // 새건토론
+            "Update": "갱신하기", // 새건토론
+            "discussion": "토론", // 새건토론
+            "Discussions": "토론", // 새건토론
 
             "Spammy": "스팸 처리됨",
-            "This user is marked as spammy. Their comments will onlyshow in staff mode.": "이 사용자는 스팸 처리되었어요. 해당 사용자의 댓글은 스태프 모드에서만 보여져요.",
+            "This user is marked as spammy. Their comments will onlyshow in staff mode.": "이 사용자는 스팸 처리되였습니다. 해당 사용자의 의견은 직원모드에서만 보여집니다.",
 
-        // 添加到清单
+        // 목록에 추가
             "Add to list": "목록에 추가",
-                "You don't have any lists yet.": "아직 어떤 목록도 없어요.",
+                "You don't have any lists yet.": "아직 어떤 목록도 없습니다.",
                 "Lists": "목록",
                     "Search lists": "목록 검색",
                     "🔮 Future ideas": "🔮 미래 아이디어",
-                    "🚀 My stack": "🚀 기술 창고",
-                    "✨ Inspiration": "✨ 영감",
+                    "🚀 My stack": "🚀 기술창고",
+                    "✨ Inspiration": "✨령감",
                 "Create list": "목록 만들기",
-                    "Create a list to organize your starred repositories.": "별표 된 저장소를 정리할 목록을 만드세요.",
-                    "⭐️ Name this list": "⭐️ 이름을 지어주세요",
-                    "Write a description": "설명을 적어주세요",
-                    // 小贴士
-                        "type : to add emoji to the name or description.": "이름이나 목록에 이모티콘을 넣으려면 : 를 입력하세요",
-                    "Lists are currently in beta.": "목록 기능은 현재 베타에요.",
-                    "Share feedback and report bugs.": "피드백을 공유하고 버그를 신고해주세요",
+                    "Create a list to organize your starred repositories.": "별표된 보관소를 정리할 목록을 만드십시오.",
+                    "⭐️ Name this list": "⭐️ 이름을 지어주십시오",
+                    "Write a description": "설명을 적어주십시오",
+                    // 작은팁
+                        "type : to add emoji to the name or description.": "이름이나 목록에 그림문자를 넣으려면 : 를 입력하십시오",
+                    "Lists are currently in beta.": "목록 기능은 현재 베타입니다.",
+                    "Share feedback and report bugs.": "피드백을 공유하고 벌레를 신고해주십시오",
                     "Creating...": "생성중...",
 
-            // 全局快捷键对话框 - 快捷键 ? 打开
-                "Keyboard shortcuts": "단축키",
-                "Site-wide shortcuts": "전체 사이트 단축키에요",
-                "Open command palette": "명령 팔레트 열기",
-                "Open command palette in command mode": "명령 모드에서 명령 팔레트 열기",
+            // 전역단축키대화함 - 단축키 ? 열기
+                "Keyboard shortcuts": "건반단축키",
+                "Site-wide shortcuts": "전체 사이트 단축키입니다",
+                "Open command palette": "명령판 열기",
+                "Open command palette in command mode": "명령모드에서 명령판 열기",
                 "Focus search bar": "검색창에 포커스 맞추기", // gists
                 "Open search bar": "검색창 열기",
                 "Go to notifications": "알림으로 이동하기",
-                "Go to dashboard": "대시보드로 이동하기",
-                "Go to your issues": "이슈로 이동하기",
-                "Go to your pull requests": "끌어오기 요청으로 이동하기",
+                "Go to dashboard": "조종판으로 이동하기",
+                "Go to your issues": "문제로 이동하기",
+                "Go to your pull requests": "끌어오기요구로 이동하기",
                 "Bring up this help dialog": "이 도움말 대화상자 띄우기",
-                "Move selection down": "선택 항목 아래로 이동하기",
-                "Move selection up": "선택 항목 위로 이동하기",
-                "Toggle selection": "선택 전환하기",
-                "Open selection": "선택 항목 열기",
-                "Expand and move focus into focused link's hovercard": "포커스된 링크의 호버카드 확장 후 포커스 이동하기",
-            "View all keyboard shortcuts": "모든 키보드 단축키 보기",
+                "Move selection down": "선택항목 아래로 이동하기",
+                "Move selection up": "선택항목 우로 이동하기",
+                "Toggle selection": "선택 바꾸기",
+                "Open selection": "선택항목 열기",
+                "Expand and move focus into focused link's hovercard": "포커스된 련결의 호버카드 확장후 포커스 이동하기",
+            "View all keyboard shortcuts": "모든 건반단축키 보기",
             
-            // 명령 팔레트 - ctrl k 또는 ctrl alt k 로 열어요
-            "Clear Command Palette": "명령 팔레트 지우기",
+            // 명령판 - ctrl k 또는 ctrl alt k 로 열어요
+            "Clear Command Palette": "명령판 지우기",
             "Tip:": "팁:",
-                "Go to your accessibility settings to change your keyboard shortcuts": "키보드 단축키를 변경하려면 무장해제 설정으로 이동해보세요",
+                "Go to your accessibility settings to change your keyboard shortcuts": "건반단축키를 변경하려면 무장해제 설정으로 이동해보십시오",
                 "to search discussions": "토론 검색하기", // # 입력
-                "to search issues": "이슈 검색하기", // # 입력
-                "to search pull requests": "끌어오기 요청 검색하기", // # 입력
-                "to search projects": "프로젝트 검색하기", // ! 입력
+                "to search issues": "문제 검색하기", // # 입력
+                "to search pull requests": "끌어오기요구 검색하기", // # 입력
+                "to search projects": "사업 검색하기", // ! 입력
                 "to search people and organizations": "사람과 조직 검색하기", // @ 입력
                 "to search teams": "팀 검색하기", // @ 입력
-                "to activate command mode": "명령 모드 활성화하기", // > 입력
-                "Type is:issue to filter to issues": "is:issue 입력해서 이슈 필터링해보세요",
-                "Type is:pr to filter to pull requests": "is:pr 입력해서 끌어오기 요청 필터링해보세요",
-                "Type is:open to filter to open content": "is:open 입력해서 열린 콘텐츠 필터링해보세요",
-                "Type author:@me to search your content": "author:@me 입력해서 내 콘텐츠 검색해보세요",
+                "to activate command mode": "명령모드 활성화하기", // > 입력
+                "Type is:issue to filter to issues": "is:issue 입력해서 문제 걸러내기해보십시오",
+                "Type is:pr to filter to pull requests": "is:pr 입력해서 끌어오기요구 걸러내기해보십시오",
+                "Type is:open to filter to open content": "is:open 입력해서 열린 콘텐츠 걸러내기해보십시오",
+                "Type author:@me to search your content": "author:@me 입력해서 내 콘텐츠 검색해보십시오",
                 "for help and tips": "도움말 및 팁을 보시려면", // ? 입력
             
-            "Pages": "페이지",
-            "Dashboard": "대시보드",
+            "Pages": "페지",
+            "Dashboard": "조종판",
             "Notifications": "알림",
             "Discussions": "토론",
-            "Actions": "액션",
+            "Actions": "행동",
             "Insights": "통계",
             "Organizations": "조직",
-            "Repositories": "저장소",
-            "Packages": "패키지",
+            "Repositories": "보관소",
+            "Packages": "꾸러미",
             "Users": "사용자",
             "to jump to": "다음으로 이동:",
             
             "Top result": "최고 결과",
-            "No results matched your search": "검색과 일치하는 결과가 없어요.",
+            "No results matched your search": "검색과 일치하는 결과가 없습니다.",
             // [/in ([\w]+/[\w]+)/, "在 $1"],
             
             // # 모드
-            "Search issues and pull requests": "이슈와 끌어오기 요청 검색하기",
-            "Search issues, pull requests, discussions, and projects": "이슈, 끌어오기 요청, 토론 및 프로젝트 검색하기",
-            "Issues, pull requests, and discussions": "이슈, 끌어오기 요청, 토론",
+            "Search issues and pull requests": "문제와 끌어오기요구 검색하기",
+            "Search issues, pull requests, discussions, and projects": "문제, 끌어오기요구, 토론 및 사업 검색하기",
+            "Issues, pull requests, and discussions": "문제, 끌어오기요구, 토론",
             
             // ! 모드
-            "Search projects": "프로젝트 검색하기",
+            "Search projects": "사업 검색하기",
             
             // @ 모드
-            "Search or jump to a repository": "저장소 검색 또는 이동하기",
-            "Search or jump to a user, organization, or repository": "사용자, 조직 또는 저장소 검색 또는 이동하기",
+            "Search or jump to a repository": "보관소 검색 또는 이동하기",
+            "Search or jump to a user, organization, or repository": "사용자, 조직 또는 보관소 검색 또는 이동하기",
             
             // / 파일 모드
             "Search files": "파일 검색하기",
@@ -1002,71 +1002,71 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Run command": "명령 실행하기",
             "Commands": "명령",
             "Global Commands": "전역 명령",
-            "Type > to filter": "키워드 > 입력해서 필터링해보세요",
-            "– New repository": "- 새 저장소 만들기",
-            "– Import repository": "- 저장소 가져오기",
-            "– New project": "- 새 프로젝트 만들기",
+            "Type > to filter": "키워드 > 입력해서 걸러내기해보십시오",
+            "– New repository": "- 새 보관소 만들기",
+            "– Import repository": "- 보관소 가져오기",
+            "– New project": "- 새 사업 만들기",
             "– New discussion": "- 새 토론 만들기",
             "– New organization": "- 새 조직 만들기",
             "– New gist": "- 새 gists 만들기",
-            "– New issue": "- 새 이슈 만들기",
+            "– New issue": "- 새 문제 만들기",
             "– New file": "- 새 파일 만들기",
             "– Change tab size rendering": "- 탭 크기 렌더링 변경하기",
-            "– Switch theme": "- 테마 전환하기",
+            "– Switch theme": "- 주제 바꾸기",
 
-            "New issue": "새 이슈 만들기",
+            "New issue": "새 문제 만들기",
             "New discussion": "새 토론 만들기",
             "New file": "새 파일 만들기",
             "Change tab size rendering": "탭 크기 변경하기",
             "Change tab size r...": "탭 크기 변경하기",
-            "2 spaces": "2 칸 공백",
-            "3 spaces": "3 칸 공백",
-            "4 spaces": "4 칸 공백",
-            "5 spaces": "5 칸 공백",
-            "6 spaces": "6 칸 공백",
-            "7 spaces": "7 칸 공백",
-            "8 spaces": "8 칸 공백",
-            "9 spaces": "9 칸 공백",
-            "10 spaces": "10 칸 공백",
-            "12 spaces": "12 칸 공백",
-            "Switch theme": "테마 전환하기",
+            "2 spaces": "2칸 공백",
+            "3 spaces": "3칸 공백",
+            "4 spaces": "4칸 공백",
+            "5 spaces": "5칸 공백",
+            "6 spaces": "6칸 공백",
+            "7 spaces": "7칸 공백",
+            "8 spaces": "8칸 공백",
+            "9 spaces": "9칸 공백",
+            "10 spaces": "10칸 공백",
+            "12 spaces": "12칸 공백",
+            "Switch theme": "주제 바꾸기",
             "Default dark": "다크 - 기본",
             "Default light": "라이트 - 기본",
             "Dark dimmed": "어둡게 흐림",
-            "Switch theme to dark high contrast": "테마를 다크 - 고대비로 전환하기",
-            "Sync with system settings": "시스템 설정과 동기화하기",
+            "Switch theme to dark high contrast": "주제를 다크 - 고대비로 바꾸기",
+            "Sync with system settings": "체계설정과 동기화하기",
           
             // ? 모드
             "Modes": "모드",
             "Search for": "검색하기",
             "across all of GitHub": "GitHub 전체에서",
-            "issues, pull requests, discussions,": "이슈, 끌어오기 요청, 토론,",
-            "organizations, repositories,": "조직, 저장소,",
-            "Projects": "프로젝트",
+            "issues, pull requests, discussions,": "문제, 끌어오기요구, 토론,",
+            "organizations, repositories,": "조직, 보관소,",
+            "Projects": "사업",
             "files": "파일",
-            "issues": "이슈",
-            "Pull requests": "끌어오기 요청",
+            "issues": "문제",
+            "Pull requests": "끌어오기요구",
             "organizations": "조직",
-            "repositories": "저장소",
+            "repositories": "보관소",
             "users": "사용자",
             "Activate": "활성화",
-            "command mode": "명령 모드",
+            "command mode": "명령모드",
           
-            "Use filters in issues, pull requests, discussions, and projects": "이슈, 끌어오기 요청, 토론, 그리고 프로젝트에서 필터 사용하기",
-            "Search your issues, pull requests, and discussions": "내 이슈, 끌어오기 요청, 토론 검색하기",
-            "Filter to pull requests": "끌어오기 요청으로 필터링하기",
-            "Filter to issues": "이슈로 필터링하기",
-            "Filter to discussions": "토론으로 필터링하기",
-            "Filter to projects": "프로젝트로 필터링하기",
-            "Filter to open issues, pull requests, and discussions": "열린 이슈, 끌어오기 요청, 토론으로 필터링하기",
+            "Use filters in issues, pull requests, discussions, and projects": "문제, 끌어오기요구, 토론, 그리고 사업에서 걸러내기 사용하기",
+            "Search your issues, pull requests, and discussions": "내 문제, 끌어오기요구, 토론 검색하기",
+            "Filter to pull requests": "끌어오기요구로 걸러내기하기",
+            "Filter to issues": "문제로 걸러내기하기",
+            "Filter to discussions": "토론으로 걸러내기하기",
+            "Filter to projects": "사업으로 걸러내기하기",
+            "Filter to open issues, pull requests, and discussions": "열린 문제, 끌어오기요구, 토론으로 걸러내기하기",
           
-            // 이슈 페이지
-            "Edit issue title": "이슈 제목 수정하기",
-            "Edit issue body": "이슈 내용 수정하기",
-            "Transfer issue…": "이슈 옮기기…",
-            "Delete issue…": "이슈 삭제하기…",
+            // 문제 페지
+            "Edit issue title": "문제 제목 수정하기",
+            "Edit issue body": "문제 내용 수정하기",
+            "Transfer issue…": "문제 옮기기…",
+            "Delete issue…": "문제 삭제하기…",
           
-            // 공통 단어, 자주 쓰는 단어
+            // 공통단어, 자주 쓰는 단어
             "Follow": "팔로우",
             "Unfollow": "팔로우 취소",
             "Star": "별표",
@@ -1074,29 +1074,29 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Unstar": "별표 취소",
             "Starred": "별표 됨",
             "Fork": "포크",
-            "Save": "저장",
-            "Saving…": "저장 중…",
-            "Saving...": "저장 중...",
-            "Updating": "업데이트 중",
-            "Updating…": "업데이트 중…",
+            "Save": "보관",
+            "Saving…": "보관중…",
+            "Saving...": "보관중...",
+            "Updating": "갱신중",
+            "Updating…": "갱신중…",
             "Delete": "삭제",
             "Cancel": "취소",
             "Edit": "편집",
             "Added on": "추가됨:",
-            "Loading...": "로딩 중...",
-            "Loading…": "로딩 중…",
+            "Loading...": "적재중...",
+            "Loading…": "적재중…",
             "Copied!": "✅ 복사 완료!",
             "Copy to clipboard": "클립보드에 복사하기",
             "Give feedback": "피드백 남기기",
-            "Give us your feedback": "피드백 부탁드려요.",
-            "Download": "다운로드하기",
+            "Give us your feedback": "피드백 부탁드립니다.",
+            "Download": "내려받기하기",
             "Create": "만들기",
           
-            // 빈 저장소
-            "This repository is empty.": "이 저장소는 텅 비어있네요",
+            // 빈 보관소
+            "This repository is empty.": "이 보관소는 텅 비여있네요",
             "Care to check out the": "잠시 기다리는 동안",
             "GitHub Channel on YouTube": "GitHub의 YouTube 채널도",
-            "while you wait?": "확인해보세요. 심심할 것 같아서요.",
+            "while you wait?": "확인해보십시오. 심심할것 같아서요.",
             "and": "그리고",
             ", and": ", 그리고",
             "or": "아니면",
@@ -1116,92 +1116,92 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Previous": "이전",
             "Next": "다음",
 
-            // 名词
+            // 명사
             "Public": "공개",
             "Private": "비공개",
             "Public archive": "공개 보관",
             "Private archive": "비공개 보관",
-            "Public template": "공개 템플릿",
-            "Public mirror": "공개 미러",
-            "Code": "코드",
+            "Public template": "공개 견본",
+            "Public mirror": "공개 거울",
+            "Code": "암호",
             "Overview": "개요",
             "Followers": "팔로워",
             "Collaborators": "기여자",
             "collaborators": "기여자",
             "Sponsors": "후원",
             "Sponsoring": "후원",
-            "commit": "커밋",
-            "commits": "커밋",
+            "commit": "위탁",
+            "commits": "위탁",
             "Organization": "조직",
             "People": "사람",
             "Teams": "팀",
 
-            // 相对时间
+            // 상대시간
             "just now": "방금",
             "now": "지금",
             "yesterday": "어제",
             "last month": "저번달",
 
-        // 验证标记浮动信息
-        "This commit was created on GitHub.com and signed with GitHub’s": "이 커밋은 GitHub.com에서 생성되었고, GitHub의",
-        "This commit was created on GitHub.com and signed with GitHub's": "이 커밋은 GitHub.com에서 생성되었고, GitHub의",
-        "This commit was created on GitHub.com and signed with GitHub’s verified signature": "이 커밋은 GitHub.com에서 생성되었고, GitHub의 검증된 서명으로 서명되었어요.",
-        "This commit was signed with the committer's": "이 커밋은 커밋 작성자의",
-        "This tag was signed with the committer's": "이 꼬리표는 커밋 작성자의", // /<user-name>/<repo-name>/releases
-        "This commit was signed with the committer’s": "이 커밋은 커밋 작성자의",
-        "This tag was signed with the committer’s": "이 꼬리표는 커밋 작성자의", //
+        // 검증표시 뜨는 정보
+        "This commit was created on GitHub.com and signed with GitHub's": "이 위탁은 GitHub.com에서 생성되였고, GitHub의",
+        "This commit was created on GitHub.com and signed with GitHub's": "이 위탁은 GitHub.com에서 생성되였고, GitHub의",
+        "This commit was created on GitHub.com and signed with GitHub's verified signature": "이 위탁은 GitHub.com에서 생성되였고, GitHub의 검증된 서명으로 서명되였습니다.",
+        "This commit was signed with the committer's": "이 위탁은 위탁작성자의",
+        "This tag was signed with the committer's": "이 꼬리표는 위탁작성자의", // /<user-name>/<repo-name>/releases
+        "This commit was signed with the committer's": "이 위탁은 위탁작성자의",
+        "This tag was signed with the committer's": "이 꼬리표는 위탁작성자의", //
         "verified signature": "검증된 서명",
-        "The key has expired": "키가 만료되었어요.",
-        "This commit is not signed, but one or more authors requires that any commit attributed to them is signed.": "이 커밋은 서명되지 않았어요. 하지만 한 명 이상의 작성자가 자신에게 귀속된 모든 커밋에 서명되기를 요구해요.",
-        "We had a problem verifying this signature. Please try again later.": "이 서명을 검증하는 중 문제가 발생했어요. 나중에 다시 시도해보세요.",
+        "The key has expired": "키가 만료되였습니다.",
+        "This commit is not signed, but one or more authors requires that any commit attributed to them is signed.": "이 위탁은 서명되지 않았습니다. 하지만 한명이상의 작성자가 자신에게 귀속된 모든 위탁에 서명되기를 요구합니다.",
+        "We had a problem verifying this signature. Please try again later.": "이 서명을 검증하는중 문제가 발생했습니다. 나중에 다시 시도해보십시오.",
       
         "GPG Key ID:": "GPG 키 ID:",
         "SSH key Fingerprint:": "SSH 키 지문:",
-        "Learn about vigilant mode": "경계 모드에 대해 알아보기",
-        "The email in this signature doesn’t match the committer email.": "이 서명의 이메일이 커밋 작성자의 이메일과 일치하지 않아요.",
-        "No user is associated with the committer email.": "커밋 작성자의 이메일과 연결된 사용자가 없어요.",
+        "Learn about vigilant mode": "경계모드에 대해 알아보기",
+        "The email in this signature doesn't match the committer email.": "이 서명의 전자편지가 위탁작성자의 전자편지와 일치하지 않습니다.",
+        "No user is associated with the committer email.": "위탁작성자의 전자편지와 련결된 사용자가 없습니다.",
       
         "Verified": "검증됨",
         "Expired": "만료됨",
         "Partially verified": "부분 검증됨",
         "Unverified": "검증되지 않음",
-            "Upload your public signing GPG key": "공개 서명 GPG 키 업로드하기",
-            "to verify your signature.": "서명 검증을 위해 업로드해보세요.",
+            "Upload your public signing GPG key": "공개 서명 GPG 키 올리기하기",
+            "to verify your signature.": "서명 검증을 위해 올리기해보십시오.",
       
-        // 이메일 검증 알림
-        "Please verify your email address to access all of GitHub's features.": "모든 GitHub 기능을 사용하시려면 이메일 주소를 검증해보세요.",
-        "Configure email settings": "이메일 설정 구성하기",
-        "Your email was verified.": "이메일 주소가 검증되었어요.",
+        // 전자편지 검증 알림
+        "Please verify your email address to access all of GitHub's features.": "모든 GitHub 기능을 사용하시려면 전자편지주소를 검증해보십시오.",
+        "Configure email settings": "전자편지설정 구성하기",
+        "Your email was verified.": "전자편지주소가 검증되였습니다.",
       
         // 꼬리표 알림
-        "New feature or request": "새 기능 또는 요청",
+        "New feature or request": "새 기능 또는 요구",
       
-        // 새 휴대폰으로 교체할 때, 복구 코드를 다시 다운로드해야 한다는 전체 알림
-        "Don't get locked out - if you get a new phone this season, be sure to transfer your authenticator app data to the new phone. Enable cloud back up if your authenticator app supports it and consider": "계정 접근이 차단되지 않도록 하세요 - 이번에 새 휴대폰을 사용하게 되면, 반드시 인증 앱 데이터를 새 휴대폰으로 이전해보세요. 인증 앱이 클라우드 백업을 지원한다면 이를 활성화하고",
-        "redownloading your recovery codes": "복구 코드를 다시 다운로드하기",
+        // 새 휴대전화로 교체할때, 복구암호를 다시 내려받기해야 한다는 전체 알림
+        "Don't get locked out - if you get a new phone this season, be sure to transfer your authenticator app data to the new phone. Enable cloud back up if your authenticator app supports it and consider": "계정 접근이 차단되지 않도록 하십시오 - 이번에 새 휴대전화를 사용하게 되면, 반드시 인증앱 자료를 새 휴대전화로 이전해보십시오. 인증앱이 구름백업을 지원한다면 이를 활성화하고",
+        "redownloading your recovery codes": "복구암호를 다시 내려받기하기",
         ", just to be safe.": "안전을 위해서요.",
       
-        // 세션 새로 고침 알림
-        "You signed in with another tab or window.": "다른 탭 또는 창에서 로그인하셨어요.",
+        // 세션 새로고침 알림
+        "You signed in with another tab or window.": "다른 탭 또는 창에서 로그인하셨습니다.",
         "Reload": "다시 불러오기",
-        "to refresh your session.": "로 세션을 새로 고치세요.",
+        "to refresh your session.": "로 세션을 새로 고치십시오.",
 
-        // Cookie 设置
-        "Manage cookie preferences": "쿠키 환경 설정 관리하기",
-        "Most GitHub websites use cookies. Cookies are small text files placed on your device to store data so web servers can use it later. GitHub and our third-party partners use cookies to remember your preferences and settings, help you sign in, show you personalized ads, and analyze how well our websites are working. For more info, see the Cookies and similar technologies section of the": "대부분의 GitHub 웹사이트는 쿠키를 사용해요. 쿠키는 웹 서버가 나중에 활용할 수 있도록 기기에 저장되는 작은 텍스트 파일이에요. GitHub와 제3자 파트너들은 여러분의 환경 설정과 설정 정보를 기억하고, 로그인에 도움을 주며, 개인 맞춤형 광고를 제공하고, 웹사이트의 작동 상태를 분석하기 위해 쿠키를 사용해요. 자세한 정보는 다음의 쿠키 및 유사 기술 섹션을 참고해 주세요:",
+        // 쿠키 설정
+        "Manage cookie preferences": "쿠키 환경설정 관리하기",
+        "Most GitHub websites use cookies. Cookies are small text files placed on your device to store data so web servers can use it later. GitHub and our third-party partners use cookies to remember your preferences and settings, help you sign in, show you personalized ads, and analyze how well our websites are working. For more info, see the Cookies and similar technologies section of the": "대부분의 GitHub 웨브사이트는 쿠키를 사용합니다. 쿠키는 웨브봉사기가 나중에 활용할수 있도록 장치에 보관되는 작은 글자파일입니다. GitHub와 제3자 동반자들은 여러분의 환경설정과 설정정보를 기억하고, 로그인에 도움을 주며, 개인맞춤형 광고를 제공하고, 웨브사이트의 작동상태를 분석하기 위해 쿠키를 사용합니다. 자세한 정보는 다음의 쿠키 및 유사기술 절을 참고해주십시오:",
         "Privacy Statement": "개인정보 보호정책",
         "Accept": "수락하기",
         "Reject": "거부하기",
         "Reset all": "전체 재설정하기",
-        "Save changes": "변경 사항 저장하기",
+        "Save changes": "변경사항 보관하기",
         "Required": "필수",
-        "GitHub uses required cookies to perform essential website functions and to provide the services. For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement. These cookies are necessary for our websites to work.": "GitHub는 필수 쿠키를 사용하여 웹사이트의 기본 기능을 수행하고 서비스를 제공해요. 예를 들어, 쿠키는 로그인, 언어 환경 설정 저장, 쇼핑 카트 경험 제공, 성능 향상, 웹 서버 간 트래픽 라우팅, 화면 크기 감지, 페이지 로드 시간 측정, 사용자 경험 개선 및 방문자 측정을 위해 사용돼요. 이러한 쿠키는 웹사이트가 정상적으로 작동하는 데 꼭 필요해요.",
+        "GitHub uses required cookies to perform essential website functions and to provide the services. For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement. These cookies are necessary for our websites to work.": "GitHub는 필수 쿠키를 사용하여 웨브사이트의 기본기능을 수행하고 봉사를 제공합니다. 례를 들어, 쿠키는 로그인, 언어환경설정 보관, 쇼핑카트 경험 제공, 성능향상, 웨브봉사기간 트래픽 라우팅, 화면크기 감지, 페지적재시간 측정, 사용자경험 개선 및 방문자측정을 위해 사용됩니다. 이러한 쿠키는 웨브사이트가 정상적으로 작동하는데 꼭 필요합니다.",
         "Analytics": "분석",
-        "We allow third parties to use analytics cookies to understand how you use our websites so we can make them better. For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. We also use some analytics cookies to provide personalized advertising.": "저희는 제3자가 분석 쿠키를 사용하여 여러분이 웹사이트를 어떻게 이용하는지 이해하고, 이를 바탕으로 웹사이트를 개선할 수 있도록 허용해요. 예를 들어, 쿠키는 여러분이 방문한 페이지와 작업을 수행하는 데 필요한 클릭 수에 대한 정보를 수집하는 데 사용돼요. 또한, 일부 분석 쿠키는 개인 맞춤형 광고를 제공하기 위해 사용돼요.",
-        "Social Media": "소셜 미디어",
-        "GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub's websites. This ensures that the ads and content you see on our websites and on social media will better reflect your interests. This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by GitHub.": "GitHub와 제3자는 여러분의 소셜 미디어 프로필과 GitHub 웹사이트에서의 활동을 기반으로 광고와 콘텐츠를 보여주기 위해 소셜 미디어 쿠키를 사용해요. 이를 통해 여러분이 웹사이트와 소셜 미디어에서 보는 광고와 콘텐츠가 여러분의 관심사를 더욱 잘 반영할 수 있어요. 또한, 제3자가 GitHub가 소유하거나 운영하지 않는 웹사이트에서 사용할 제품을 개발하고 개선할 수 있도록 도와줘요.",
+        "We allow third parties to use analytics cookies to understand how you use our websites so we can make them better. For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. We also use some analytics cookies to provide personalized advertising.": "저희는 제3자가 분석쿠키를 사용하여 여러분이 웨브사이트를 어떻게 리용하는지 리해하고, 이를 바탕으로 웨브사이트를 개선할수 있도록 허용합니다. 례를 들어, 쿠키는 여러분이 방문한 페지와 작업을 수행하는데 필요한 클릭수에 대한 정보를 수집하는데 사용됩니다. 또한, 일부 분석쿠키는 개인맞춤형 광고를 제공하기 위해 사용됩니다.",
+        "Social Media": "사회매체",
+        "GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub's websites. This ensures that the ads and content you see on our websites and on social media will better reflect your interests. This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by GitHub.": "GitHub와 제3자는 여러분의 사회매체 프로필과 GitHub 웨브사이트에서의 활동을 기반으로 광고와 콘텐츠를 보여주기 위해 사회매체 쿠키를 사용합니다. 이를 통해 여러분이 웨브사이트와 사회매체에서 보는 광고와 콘텐츠가 여러분의 관심사를 더욱 잘 반영할수 있습니다. 또한, 제3자가 GitHub가 소유하거나 운영하지 않는 웨브사이트에서 사용할 제품을 개발하고 개선할수 있도록 도와줍니다.",
         "Advertising": "광고",
-        "In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen. Cookies also track which ads you click or purchases you make after clicking an ad. This is done to show you ads that are more relevant to you and for business purposes with our advertising partners. For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history.": "또한, GitHub와 제3자는 여러분이 이미 본 광고를 기반으로 새로운 광고를 보여주기 위해 광고 쿠키를 사용해요. 쿠키는 여러분이 클릭한 광고나, 광고 클릭 후 구매한 상품을 추적하기도 해요. 이는 여러분에게 더욱 관련성 높은 광고를 보여주고, 광고 파트너와의 비즈니스 목적으로 사용돼요. 예를 들어, 쿠키는 여러분이 언제 광고를 클릭하는지 감지하고, 여러분의 소셜 미디어 관심사와 웹사이트 방문 기록을 바탕으로 광고를 보여주는 데 사용돼요.",
+        "In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen. Cookies also track which ads you click or purchases you make after clicking an ad. This is done to show you ads that are more relevant to you and for business purposes with our advertising partners. For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history.": "또한, GitHub와 제3자는 여러분이 이미 본 광고를 기반으로 새로운 광고를 보여주기 위해 광고쿠키를 사용합니다. 쿠키는 여러분이 클릭한 광고나, 광고클릭후 구매한 상품을 추적하기도 합니다. 이는 여러분에게 더욱 관련성높은 광고를 보여주고, 광고동반자와의 사업목적으로 사용됩니다. 례를 들어, 쿠키는 여러분이 언제 광고를 클릭하는지 감지하고, 여러분의 사회매체 관심사와 웨브사이트 방문기록을 바탕으로 광고를 보여주는데 사용됩니다.",
         // 달력
             "Jan": "1월",
             "Feb": "2월",
@@ -1237,15 +1237,15 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Sat"  : "토",
 
 
-        // 语言名称（仅适配热门语言
-            "Abkhazian": "압카즈어",
+        // 언어이름（인기언어만 적용
+            "Abkhazian": "압하지야어",
             "Afar": "아파르어",
-            "Afrikaans": "아프리칸스어",
+            "Afrikaans": "아프리카어",
             "Akan": "아칸어",
             "Albanian": "알바니아어",
             "Amharic": "암하라어",
             "Arabic": "아랍어",
-            "Aragonese": "아라고네스어",
+            "Aragonese": "아라곤어",
             "Armenian": "아르메니아어",
             "Assamese": "아삼어",
             "Avaric": "아바르어",
@@ -1256,7 +1256,7 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Bashkir": "바슈키르어",
             "Basque": "바스크어",
             "Belarusian": "벨라루스어",
-            "Bengali": "벵골어",
+            "Bengali": "벵갈어",
             "Bihari languages": "비하리어",
             "Bislama": "비스라마어",
             "Bosnian": "보스니아어",
@@ -1274,9 +1274,9 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Cree": "크리어",
             "Croatian": "크로아티아어",
             "Czech": "체코어",
-            "Danish": "덴마크어",
+            "Danish": "단마르크어",
             "Divehi, Dhivehi, Maldivian": "디베히어",
-            "Dutch, Flemish": "네덜란드어",
+            "Dutch, Flemish": "네데를란드어",
             "Dzongkha": "종카어",
             "English": "영어",
             "Esperanto": "에스페란토",
@@ -1288,14 +1288,14 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "French": "프랑스어",
             "Fulah": "풀라어",
             "Galician": "갈리시아어",
-            "Georgian": "조지아어",
+            "Georgian": "그루지야어",
             "German": "독일어",
             "Greek, Modern": "현대 그리스어",
             "Guarani": "과라니어",
             "Gujarati": "구자라트어",
             "Haitian, Haitian Creole": "아이티 크리올어",
             "Hausa": "하우사어",
-            "Hebrew": "히브리어",
+            "Hebrew": "헤브라이어",
             "Herero": "헤레로어",
             "Hindi": "힌디어",
             "Hiri Motu": "히리 모투어",
@@ -1308,7 +1308,7 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Inupiaq": "이누피악어",
             "Ido": "이도",
             "Icelandic": "아이슬란드어",
-            "Italian": "이탈리아어",
+            "Italian": "이딸리아어",
             "Inuktitut": "이눅티투트어",
             "Japanese": "일본어",
             "Javanese": "자바어",
@@ -1323,7 +1323,7 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Kirghiz, Kyrgyz": "키르기스어",
             "Komi": "코미어",
             "Kongo": "콩고어",
-            "Korean": "한국어",
+            "Korean": "조선어",
             "Kurdish": "쿠르드어",
             "Kuanyama, Kwanyama": "콴야마어",
             "Latin": "라틴어",
@@ -1371,7 +1371,7 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Romansh": "로만슈어",
             "Rundi": "룬디어",
             "Romanian, Moldavian, Moldovan": "루마니아어",
-            "Russian": "러시아어",
+            "Russian": "로씨야어",
             "Sanskrit": "산스크리트어",
             "Sardinian": "사르데냐어",
             "Sindhi": "신드어",
@@ -1394,7 +1394,7 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             "Tamil": "타밀어",
             "Telugu": "텔루구어",
             "Tajik": "타지크어",
-            "Thai": "태국어",
+            "Thai": "타이어",
             "Tigrinya": "티그리냐어",
             "Tibetan": "티베트어",
             "Turkmen": "투르크멘어",
@@ -1425,90 +1425,90 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
 
     // Copilot 창
         // 상단
-        "All repositories": "모든 저장소",
+        "All repositories": "모든 보관소",
         "Back": "뒤로가기",
-        "Conversation options": "대화 옵션",
+        "Conversation options": "대화선택",
             "Delete conversation": "대화 삭제하기",
             "View all conversations": "모든 대화 보기",
                 "Active conversations": "최근 대화",
                 // 삭제
-                    "Are you sure? This can’t be undone.": "확실하신가요? 이 작업은 되돌릴 수 없어요.",
-        "Take conversation to immersive": "전체 화면 대화로 전환하기",
+                    "Are you sure? This can't be undone.": "확실합니까? 이 작업은 되돌릴수 없습니다.",
+        "Take conversation to immersive": "전체화면 대화로 전환하기",
         "Close chat": "채팅 닫기",
 
         "public": "공개",
-        "repository": "저장소",
+        "repository": "보관소",
 
         "Ask Copilot": "Copilot에게 문의하기",
-            "Select a repository to get started. Ask questions about your codebase to get answers fast and learn your way around.": "시작하려면 저장소를 선택해주세요. 코드베이스에 관한 질문을 하시면 빠른 답변과 필요한 정보를 얻으실 수 있어요.",
-            "uses AI. Check for mistakes.": "은(는) AI를 사용해요. 실수가 없는지 확인해주세요.",
-        "Search repositories to chat about": "대화할 저장소 검색하기",
-        "Recent repositories": "최근 방문한 저장소",
+            "Select a repository to get started. Ask questions about your codebase to get answers fast and learn your way around.": "시작하려면 보관소를 선택해주십시오. 암호기지에 관한 질문을 하시면 빠른 답변과 필요한 정보를 얻으실수 있습니다.",
+            "uses AI. Check for mistakes.": "은(는) 인공지능을 사용합니다. 실수가 없는지 확인해주십시오.",
+        "Search repositories to chat about": "대화할 보관소 검색하기",
+        "Recent repositories": "최근 방문한 보관소",
         "General purpose chat": "일반 대화하기",
 
-        "Loading Conversation": "대화 로딩 중...",
-        "Chatting about code and programming": "코드와 프로그래밍에 대해 대화하기",
+        "Loading Conversation": "대화 적재중...",
+        "Chatting about code and programming": "암호와 프로그래밍에 대해 대화하기",
         // 대화창
-        "Ask about the repository:": "저장소에 대해 문의하기:",
-        "Attach files or symbols": "파일이나 심볼 첨부하기",
+        "Ask about the repository:": "보관소에 대해 문의하기:",
+        "Attach files or symbols": "파일이나 기호 첨부하기",
         "Add an extension": "확장 추가하기",
-            "Files and symbols…": "파일 및 심볼…",
-                "First attach a repository": "먼저 저장소를 첨부해주세요",
-                "Attach files and symbols": "파일과 심볼 첨부하기",
-                    "Choose which files and symbols you want to chat about. Use fewer references for more accurate responses.": "대화할 파일과 심볼을 선택해주세요. 참조가 적을수록 더 정확한 답변을 얻을 수 있어요.",
-                    "Search files and symbols": "파일 및 심볼 검색하기",
+            "Files and symbols…": "파일 및 기호…",
+                "First attach a repository": "먼저 보관소를 첨부해주십시오",
+                "Attach files and symbols": "파일과 기호 첨부하기",
+                    "Choose which files and symbols you want to chat about. Use fewer references for more accurate responses.": "대화할 파일과 기호를 선택해주십시오. 참조가 적을수록 더 정확한 답변을 얻을수 있습니다.",
+                    "Search files and symbols": "파일 및 기호 검색하기",
                     "Current attachments": "현재 첨부물",
-                    "Symbols": "심볼",
-            "Repository…": "저장소…",
-                "Attach a repository": "저장소 첨부하기",
-                    "Search repositories": "저장소 검색하기",
-                    "Fetching repositories…": "저장소 가져오는 중…",
+                    "Symbols": "기호",
+            "Repository…": "보관소…",
+                "Attach a repository": "보관소 첨부하기",
+                    "Search repositories": "보관소 검색하기",
+                    "Fetching repositories…": "보관소 가져오는중…",
                 "Close": "닫기",
             "Extension…": "확장…",
             "Extension": "확장",
                 "Extensions": "확장들",
-                    "Chat with your favorite tools and services": "자주 사용하는 도구 및 서비스와 대화해보세요.",
-                    "Browse the marketplace to find extensions for the tools and services you rely on": "사용 중인 도구와 서비스의 확장을 찾으려면 장터를 둘러보세요.",
-                    "Browse marketplace": "장터 둘러보기",
+                    "Chat with your favorite tools and services": "자주 사용하는 도구 및 봉사와 대화해보십시오.",
+                    "Browse the marketplace to find extensions for the tools and services you rely on": "사용중인 도구와 봉사의 확장을 찾으려면 시장터를 둘러보십시오.",
+                    "Browse marketplace": "시장터 둘러보기",
         "Send now": "지금 전송하기",
         // 피드백
         "Rate your experience": "피드백 남기기",
-        // 네 가지 이모티콘
+        // 네가지 그림문자
             "Love it": "쩔어요",
-            "It’s ok": "괜찮아요",
+            "It's ok": "괜찮아요",
             "Not great": "보통이에요",
             "Hate it": "별로예요",
 
-        "Tell us what you liked or what could be better": "좋았던 점이나 개선할 점을 알려주세요.",
+        "Tell us what you liked or what could be better": "좋았던 점이나 개선할 점을 알려주십시오.",
 
-        // 응답 상태
-            "Copilot is responding…": "Copilot이 응답 중이에요…",
-            "creating plan": "계획 작성 중",
-            "getting data": "데이터 가져오는 중",
-            "Using the GitHub API to search pull requests": "GitHub API를 사용해 끌어오기 요청 검색 중",
-            "Using the GitHub API to get latest release": "GitHub API를 사용해 최신 릴리스를 가져오는 중",
-                "Copilot used the": "Copilot이 사용했어요:",
-                "Issue API": "이슈 API",
+        // 응답상태
+            "Copilot is responding…": "Copilot이 응답중입니다…",
+            "creating plan": "계획 작성중",
+            "getting data": "자료 가져오는중",
+            "Using the GitHub API to search pull requests": "GitHub API를 사용해 끌어오기요구 검색중",
+            "Using the GitHub API to get latest release": "GitHub API를 사용해 최신 발표를 가져오는중",
+                "Copilot used the": "Copilot이 사용했습니다:",
+                "Issue API": "문제 API",
                 "tool": "도구",
 
         // 참조
-            "More reference options": "더 많은 참조 옵션",
+            "More reference options": "더 많은 참조선택",
                 "Attach to chat": "대화에 첨부하기",
-                "Raw": "원시 코드",
+                "Raw": "원시 암호",
                 "Show content": "내용 보기",
-                    "above": "위쪽에",
+                    "above": "우쪽에",
                     "below": "아래쪽에",
                 "Reference details": "참조 세부사항",
                     "contributor": "기여자",
                     "contributors": "기여자들",
-                    "updated": "업데이트됨",
+                    "updated": "갱신됨",
 
-        "Please don’t include sensitive, confidential, or personal data. Your anonymous feedback helps us improve our services in line with our": "민감하거나 기밀, 개인 데이터를 포함하지 말아주세요. 익명의 피드백은 당사의 서비스 개선에 도움이 돼요. (아래)",
+        "Please don't include sensitive, confidential, or personal data. Your anonymous feedback helps us improve our services in line with our": "민감하거나 기밀, 개인자료를 포함하지 말아주십시오. 익명의 피드백은 당사의 봉사 개선에 도움이 됩니다. (아래)",
         "Privacy Policy": "개인정보 보호정책",
         "Send": "전송하기",
-        "uses AI. Check for mistakes.": "은(는) AI를 사용해요. 실수가 없는지 확인해주세요.",
+        "uses AI. Check for mistakes.": "은(는) 인공지능을 사용합니다. 실수가 없는지 확인해주십시오.",
 
-        "Copy code": "코드 복사하기",
+        "Copy code": "암호 복사하기",
         "Copied!": "복사 됐어요!",
 
         "Good response": "좋은 대답",
@@ -1519,17 +1519,17 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
             // Copilot 창
             [/Chatting about ([^ ]+)/, "$1에 대한 대화"],
             //[/Public code references from 4 repositories/, ""],
-            [/Public code references from (\d+) repositor(y|ies)/, "공개 코드, $1개 저장소에서 참조"],
+            [/Public code references from (\d+) repositor(y|ies)/, "공개 암호, $1개 보관소에서 참조"],
             [/(\d+) references?/, "$1개 참조"],
-            [/(\d+) lines? \((\d+) loc\) ·/, "$1줄 ($2 비어 있지 않은 줄) ·"],  // loc = 코드 줄(line of code) = 전체 줄 - 공백 줄 (lines - blank lines)
-            [/Using the GitHub API to search for issues assigned to user ([^ ]+)/, "GitHub API를 사용하여 사용자 $1에게 할당된 이슈 검색"],
-            [/Chatting with (\d+) attachments?/, "$1개 첨부 파일과 대화"],
+            [/(\d+) lines? \((\d+) loc\) ·/, "$1줄 ($2 비여있지 않은 줄) ·"],  // loc = 암호줄(line of code) = 전체줄 - 공백줄 (lines - blank lines)
+            [/Using the GitHub API to search for issues assigned to user ([^ ]+)/, "GitHub API를 사용하여 사용자 $1에게 배정된 문제 검색"],
+            [/Chatting with (\d+) attachments?/, "$1개 첨부파일과 대화"],
             
-            // 날짜 및 시간 형식 변환
+            // 날짜 및 시간형식 변환
             [/(^Updated |^Commits on |^Joined on |on )?(?:(Sun(?:day)?|Mon(?:day)?|Tue(?:sday)?|Wed(?:nesday)?|Thu(?:rsday)?|Fri(?:day)?|Sat(?:urday)?)?,? )?(?:(\d{1,2})(?:st.|nd.|rd.|th.)?)? ?(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?) ?(\d{1,2})?,? (\d{4})?/g, function (all, prefix, week, date1, month, date2, year) {
                 var prefixKey = {
-                    "Updated "   : "업데이트됨 ",
-                    "Commits on ": "커밋됨 ",
+                    "Updated "   : "갱신됨 ",
+                    "Commits on ": "위탁됨 ",
                     "Joined on " : "가입일: ",
                 };
                 var weekKey = {
@@ -1563,7 +1563,7 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
                 return (prefixKey[prefix] ? prefixKey[prefix] : '') + formattedDate + formattedWeek;
             }],
             
-            // 상대 시간 형식 변환
+            // 상대시간형식 변환
             [/^just now|^now|^last month|^yesterday|(?:(over|about|almost|in) |)(an?|\d+)(?: |)(second|minute|hour|day|month|year)s?( ago|)/, function (all, prefix, count, unit, suffix) {
                 if (all === 'now') {
                     return '지금';
@@ -1590,8 +1590,8 @@ I18N["ko-KP"]["public"] = { // 公共区域翻译
                 }
             }],
             
-            // 보안 메시지 번역
-            [/to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to enable two-factor authentication on your account before ([^ ]+), or be restricted from account actions./, "추가 보안 조치로 이중 인증(2FA)을 활성화하세요. GitHub에서의 활동으로 인해 이 요구 사항이 적용됩니다. $1 이전에 이중 인증을 설정하지 않으면 계정 작업이 제한됩니다."],
+            // 보안메시지 번역
+            [/to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to enable two-factor authentication on your account before ([^ ]+), or be restricted from account actions./, "추가 보안조치로 두요소인증(2FA)을 활성화하십시오. GitHub에서의 활동으로 인해 이 요구사항이 적용됩니다. $1 이전에 두요소인증을 설정하지 않으면 계정작업이 제한됩니다."],
         ],
         "time-regexp": [ // 시간 정규식 변환 전용
             [/^just now|^now|^last year|^last month|^last week|^yesterday|(?:(over|about|almost|in) |)(an?|\d+)(?: |)(second|minute|hour|day|month|year|week)s?( ago|)/, function (all, prefix, count, unit, suffix) {
@@ -1690,7 +1690,7 @@ I18N["ko-KP"]["page-dashboard"] = { // 등록된 첫페지 - 조종판(조직포
     
         // 교육판
         "Join GitHub Education!": "GitHub 교육에 가입하십시오!",
-            "GitHub Education opens doors to new skills, tools, and a collaborative community eager to drive innovation. Join us and build a foundation for your future in technology.": "GitHub 교육은 새로운 기술과 도구, 그리고 혁신을 추진하는 협력공동체로 나아갈수 있는 기회를 제공합니다. 지금 가입하여 당신의 기술미래를 위한 토대를 마련하십시오.",
+            "GitHub Education opens doors to new skills, tools, and a collaborative community eager to drive innovation. Join us and build a foundation for your future in technology.": "GitHub 교육은 새로운 기술과 도구, 그리고 혁신을 추진하는 협력공동체로 나아갈수 있는 기회를 제공합니다. 지금 가입하여 동무의 기술미래를 위한 토대를 마련하십시오.",
         "Join GitHub Education": "GitHub 교육에 가입하십시오",
     
         // 조직
